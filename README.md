@@ -1,9 +1,4 @@
-```markdown
 # Daily-Inspiration: 每日名言/诗词/英语短句自动收集项目
-
-![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/reedtang666/Daily-Inspiration/auto-submit.yml?label=Auto%20Update&logo=githubactions&style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/reedtang666/Daily-Inspiration?style=flat-square)
-![GitHub License](https://img.shields.io/github/license/reedtang666/Daily-Inspiration?style=flat-square)
 
 一个 **全自动化、零手动操作** 的灵感收集项目，每天通过 GitHub Actions 定时抓取名言、古诗词、英语励志短句，自动写入文档并提交到 GitHub，持续积累属于你的「灵感知识库」。
 
@@ -167,3 +162,7 @@ API_CONFIG = [
 如果觉得项目有用，欢迎 Star 支持！🌟  
 仓库地址：[reedtang666/Daily-Inspiration](https://github.com/reedtang666/Daily-Inspiration)
 ```
+
+✨ 持续积累，让每一次提交都成为成长的见证～
+如果觉得项目有用，欢迎 Star 支持！
+🌟仓库地址：reedtang666/Daily-Inspiration
