@@ -1,0 +1,43 @@
+name: Auto Add Daily Quote
+on:
+  # 定时触发：每天UTC时间0点（对应北京时间8点，可修改）
+  schedule:
+    - cron: '0 0 * * *'
+  # 允许手动触发（方便测试，提交后可直接点按钮运行）
+  workflow_dispatch:
+
+jobs:
+  add-quote:
+    runs-on: ubuntu-latest  # 运行环境（免费的Ubuntu服务器）
+    steps:
+      # 1. 拉取仓库代码到服务器
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. 安装Python环境
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'  # 稳定版本，无需修改
+
+      # 3. 安装依赖库（requests）
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # 4. 运行脚本（获取内容并写入quotes.md）
+      - name: Run script to get daily quote
+        run: python get_quote.py
+
+      # 5. 提交修改到GitHub
+      - name: Commit and push changes
+        run: |
+          # 配置Git用户名和邮箱（用GitHub Actions提供的默认账号，无需修改）
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          
+          # 检查是否有修改（避免无变化时提交失败）
+          git add quotes.md
+          git commit -m "feat: add $(date +'%Y-%m-%d') quote" || echo "No changes to commit"
+          git push
