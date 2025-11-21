@@ -162,7 +162,3 @@ API_CONFIG = [
 如果觉得项目有用，欢迎 Star 支持！🌟  
 仓库地址：[reedtang666/Daily-Inspiration](https://github.com/reedtang666/Daily-Inspiration)
 ```
-
-✨ 持续积累，让每一次提交都成为成长的见证～
-如果觉得项目有用，欢迎 Star 支持！
-🌟仓库地址：reedtang666/Daily-Inspiration
