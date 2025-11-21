@@ -2,46 +2,66 @@ import requests
 import datetime
 import random
 
-# -------------------------- 配置：3个稳定公开API（无需申请key）--------------------------
+def create_session():
+    """创建带重试机制的请求会话，避免临时网络问题"""
+    session = requests.Session()
+    retry = Retry(
+        total=3,  # 最多重试3次
+        backoff_factor=0.5,  # 重试间隔：0.5s → 1s → 1.5s
+        status_forcelist=[429, 500, 502, 503, 504]  # 对这些状态码重试
+    )
+    adapter = HTTPAdapter(max_retries=retry)
+    session.mount("https://", adapter)
+    return session
+
+# 稳定 API 列表（替换原有的 API_CONFIG）
 API_CONFIG = [
-    # 1. 一言API（中文名言/短句，支持不同分类）
+    # 1. 一言API（稳定，支持多分类）
     {
         "name": "一言",
-        "url": "https://v1.hitokoto.cn/?c=a&c=b&c=c&c=d&c=e&c=f&c=g",  # a-g覆盖各类名言
-        "parser": lambda res: (res["hitokoto"], res.get("from", "未知来源"))  # 提取内容和来源
+        "url": "https://v1.hitokoto.cn/?c=a&c=b&c=c&c=d&c=e&c=f&c=g",
+        "parser": lambda res: (res["hitokoto"], res.get("from", "未知来源"))
     },
-    # 2. 古诗词API（随机诗句）
+    # 2. 古诗词API（替换为稳定版）
     {
         "name": "古诗词",
-        "url": "https://v2.jinrishici.com/sentence",
-        "parser": lambda res: (res["data"]["content"], res["data"]["author"] + "《" + res["data"]["origin"] + "》")
+        "url": "https://api.gushi.ci/all.json",
+        "parser": lambda res: (res["content"], res["author"] + "《" + res["title"] + "》")
     },
-    # 3. 英语名言API（英文名言+中文翻译）
+    # 3. 英语名言API（稳定版，带中文翻译）
     {
         "name": "英语短句",
-        "url": "https://api.quotable.io/random",
-        "parser": lambda res: (f'"{res["content"]}" (中文翻译：{res["translation"] if "translation" in res else "暂无"})', res["author"])
+        "url": "https://api.quotable.io/random?tags=inspire",
+        "parser": lambda res: (
+            f'"{res["content"]}"（中文翻译：{res.get("translation", "暂无")}）',
+            res["author"]
+        )
     }
 ]
 
 def get_random_quote():
-    """随机调用一个API，获取名言/诗词/英语短句"""
+    """优化：用带重试的会话调用API，确保成功率"""
+    session = create_session()
     while True:
         try:
-            # 随机选一个API
             api = random.choice(API_CONFIG)
-            response = requests.get(api["url"], timeout=10)
-            response.raise_for_status()  # 抛出HTTP错误
+            response = session.get(api["url"], timeout=15)  # 超时时间延长到15s
+            response.raise_for_status()
             data = response.json()
             content, source = api["parser"](data)
-            return {
-                "type": api["name"],
-                "content": content.strip(),
-                "source": source.strip(),
-                "date": datetime.date.today().strftime("%Y-%m-%d")
-            }
+            # 过滤空内容（避免无效提交）
+            if content and source:
+                return {
+                    "type": api["name"],
+                    "content": content.strip(),
+                    "source": source.strip(),
+                    "date": datetime.date.today().strftime("%Y-%m-%d")
+                }
+            else:
+                print(f"{api['name']}返回空内容，尝试下一个...")
+                continue
         except Exception as e:
-            print(f"调用{api['name']}API失败：{e}，尝试下一个...")
+            print(f"调用{api['name']}API失败：{str(e)[:50]}，尝试下一个...")
             continue
 
 def write_to_markdown(quote):
