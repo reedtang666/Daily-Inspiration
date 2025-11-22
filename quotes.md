@@ -15,3 +15,7 @@
 ### 2025-11-22 · 一言
 > 有些路很远，走下去会很累。可是，不走，会后悔。
 > —— 晓良
+
+### 2025-11-22 · 英语短句
+> ""Put a piece of kitchen roll in with your bag of leaves to make them last longer."（中文翻译：暂无）"（中文翻译：暂无）
+> —— Advice Slip
