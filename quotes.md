@@ -15,3 +15,7 @@
 ### 2025-11-22 · 英语短句
 > ""Just because you are offended, doesn't mean you are right."（中文翻译：暂无）"（中文翻译：暂无）
 > —— Advice Slip
+
+### 2025-11-23 · 英语短句
+> ""What's stopping you?"（中文翻译：暂无）"（中文翻译：暂无）
+> —— Advice Slip
