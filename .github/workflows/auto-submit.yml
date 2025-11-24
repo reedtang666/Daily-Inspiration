@@ -1,7 +1,7 @@
 name: Auto Collect Daily Content
 on:
   schedule:
-    - cron: '0 0 * * *'  # 北京时间每天8点执行（UTC+8）
+    - cron: '0 1 * * *'  # 北京时间每天8点执行（UTC+8）
   workflow_dispatch:  # 允许手动触发测试
 
 # 必要权限：读写仓库内容
