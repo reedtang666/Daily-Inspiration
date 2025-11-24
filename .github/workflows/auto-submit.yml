@@ -1,55 +1,51 @@
-name: Auto Add Daily Quote
+name: Auto Collect Daily Content
 on:
   schedule:
-    - cron: '0 0 * * *'  # 北京时间每天8点运行（UTC+8）
+    - cron: '0 0 * * *'  # 北京时间每天8点执行（UTC+8）
   workflow_dispatch:  # 允许手动触发测试
 
-# 声明权限：允许读写仓库内容（必须）
+# 必要权限：读写仓库内容
 permissions:
   contents: write
   pull-requests: write
 
 jobs:
-  add-quote:
+  collect-content:
     runs-on: ubuntu-latest
     steps:
-      # 关键修复：checkout时携带GITHUB_TOKEN，获取推送权限
+      # 拉取仓库（带推送权限Token）
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # 显式传递Token，解决权限问题
-          fetch-depth: 0  # 拉取完整历史，避免冲突
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       # 安装Python环境
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'  # 测试通过的稳定版本
-          cache: 'pip'  # 缓存依赖，加速运行
+          python-version: '3.10'
+          cache: 'pip'
 
       # 安装依赖（仅requests）
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          pip list  # 打印已安装的库，方便排查依赖问题
+          pip install requests==2.32.3
 
-      # 运行脚本获取内容
-      - name: Run script to get daily quote
+      # 运行核心脚本
+      - name: Run content collection script
         run: python get_quote.py
         env:
-          PYTHONUNBUFFERED: 1  # 实时输出日志，方便排查
+          PYTHONUNBUFFERED: 1  # 实时输出日志
 
-      # 提交并推送修改（测试通过的命令）
+      # 自动提交并推送修改
       - name: Commit and push changes
         run: |
-          # 配置Git身份（使用GitHub Actions机器人账号）
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # 检查quotes.md是否有修改
           git add quotes.md
-          git diff --quiet --cached || git commit -m "feat: add $(date +'%Y-%m-%d') quote"
-          
-          # 关键：使用Token认证推送（彻底解决403权限问题）
+          # 只有文件有修改时才提交
+          git diff --quiet --cached || git commit -m "feat: add ${{ format('{0:YYYY}-{0:MM}-{0:DD}', github.event.schedule.execution_time) }} daily content"
+          # 用Token认证推送，避免403
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
