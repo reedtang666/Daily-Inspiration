@@ -2,6 +2,11 @@ import requests
 import datetime
 import random
 import os
+from datetime import timezone, timedelta
+
+# 添加时区日志
+print(f"🕐 脚本执行时间（UTC）: {datetime.datetime.now(timezone.utc)}")
+print(f"🕐 脚本执行时间（北京时间）: {datetime.datetime.now(timezone(timedelta(hours=8)))}")
 
 # -------------------------- 动态API列表（去掉打不开的，保留2+1个实测可用API）--------------------------
 API_CONFIG = [
