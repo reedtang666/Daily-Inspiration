@@ -1,25 +1,3 @@
-# 每日名言/诗词/英语短句合集
-> 自动更新于 GitHub Actions，每天1条，持续积累～
-> 数据来源：一言API、古诗词API、Quotable API（随机切换）
-
-<!-- 以下内容由脚本自动生成，无需手动修改 -->
-
-### 2025-11-21 · 一言
-> 有些路很远，走下去会很累。可是，不走，会后悔。
-> —— 晓良
-
-### 2025-11-22 · 英语短句
-> ""Put a piece of kitchen roll in with your bag of leaves to make them last longer."（中文翻译：暂无）"（中文翻译：暂无）
-> —— Advice Slip
-
-### 2025-11-22 · 英语短句
-> ""Just because you are offended, doesn't mean you are right."（中文翻译：暂无）"（中文翻译：暂无）
-> —— Advice Slip
-
-### 2025-11-23 · 英语短句
-> ""What's stopping you?"（中文翻译：暂无）"（中文翻译：暂无）
-> —— Advice Slip
-
 ## 2025-11-24 每日内容汇总
 
 ### 📚 每日一句
