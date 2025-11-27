@@ -60,3 +60,23 @@
 百川东到海，何时复西归？
 少壮不努力，老大徒伤悲！
 ```
+
+## 2025-11-27 每日内容汇总
+
+### 📚 每日一句
+- 英文：The world is quieting down for its winter rest.
+- 中文翻译：世界正安静下来，准备它的冬日休眠。
+- 英文播放：[点击收听](https://staticedu-wps.cache.iciba.com/audio/e226da31314154e6e23cd8ecfda7d557.mp3)
+- 分享图片：![每日一句](https://staticedu-wps.cache.iciba.com/image/14249125fa615c0dc8ad627249c917d5.png)
+
+### 💬 每日一言
+> 你很好，我也很喜欢，但我不是追着别人跑的年纪了。
+
+### 📜 每日诗词
+- 标题：三衢道中
+- 朝代/作者：宋代 · 曾几
+- 内容：
+```
+梅子黄时日日晴，小溪泛尽却山行。
+绿阴不减来时路，添得黄鹂四五声。
+```
