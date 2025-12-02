@@ -180,3 +180,23 @@
 墙角数枝梅，凌寒独自开。
 遥知不是雪，为有暗香来。
 ```
+
+## 2025-12-02 每日内容汇总
+
+### 📚 每日一句
+- 英文：Today's gentle breeze is perfect for a stroll.
+- 中文翻译：今日微风，正好散步。
+- 英文播放：[点击收听](https://staticedu-wps.cache.iciba.com/audio/2510d2cd570ac3f4b4b2107020180202.mp3)
+- 分享图片：![每日一句](https://staticedu-wps.cache.iciba.com/image/fb1b24a19e3f71e0ec843930d8fdd14e.png)
+
+### 💬 每日一言
+> 即使被关在果壳之中，我仍自以为是无限宇宙之王。
+
+### 📜 每日诗词
+- 标题：江雪
+- 朝代/作者：唐代 · 柳宗元
+- 内容：
+```
+千山鸟飞绝，万径人踪灭。
+孤舟蓑笠翁，独钓寒江雪。
+```
