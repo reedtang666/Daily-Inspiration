@@ -200,3 +200,23 @@
 千山鸟飞绝，万径人踪灭。
 孤舟蓑笠翁，独钓寒江雪。
 ```
+
+## 2025-12-03 每日内容汇总
+
+### 📚 每日一句
+- 英文：Each step leaves its mark, creating a landscape all its own.
+- 中文翻译：一步一印，自成风景。
+- 英文播放：[点击收听](https://staticedu-wps.cache.iciba.com/audio/0e1a65714cccdb1d0a7b56e702cdc51e.mp3)
+- 分享图片：![每日一句](https://staticedu-wps.cache.iciba.com/image/f27d51910954b0b201412412ca406958.png)
+
+### 💬 每日一言
+> 今昔横云有雨，挂满山涧，故人来。
+
+### 📜 每日诗词
+- 标题：梅花
+- 朝代/作者：宋代 · 王安石
+- 内容：
+```
+墙角数枝梅，凌寒独自开。
+遥知不是雪，为有暗香来。
+```
