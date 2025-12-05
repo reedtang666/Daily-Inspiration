@@ -246,3 +246,25 @@
 一代天骄，成吉思汗，只识弯弓射大雕。
 俱往矣，数风流人物，还看今朝。
 ```
+
+## 2025-12-05 每日内容汇总
+
+### 📚 每日一句
+- 英文：Winter always arrives quietly, yet the chill comes suddenly.
+- 中文翻译：冬天总是悄然来临，而寒意却骤然而至。
+- 英文播放：[点击收听](https://staticedu-wps.cache.iciba.com/audio/d098b4c5a93cfdf58e7dc7a38f3b2914.mp3)
+- 分享图片：![每日一句](https://staticedu-wps.cache.iciba.com/image/7754bbcffcf0c59ff588a03325c3abce.png)
+
+### 💬 每日一言
+> Control is Power.
+
+### 📜 每日诗词
+- 标题：次元明韵寄子由
+- 朝代/作者：宋代 · 黄庭坚
+- 内容：
+```
+半世交亲随逝水，几人图画入凌烟？
+春风春雨花经眼，江北江南水拍天。
+欲解铜章行问道，定知石友许忘年。
+脊令各有思归恨，日月相催雪满颠。
+```
