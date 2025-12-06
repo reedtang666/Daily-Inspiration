@@ -268,3 +268,14 @@
 欲解铜章行问道，定知石友许忘年。
 脊令各有思归恨，日月相催雪满颠。
 ```
+
+## 2025-12-06 每日内容汇总
+
+### 📚 每日一句
+- 英文：Those who walk in the cold wind carry within them an unquenchable flame.
+- 中文翻译：在寒风中行走的人，心中自有一团不灭的火。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/8d815abe50ffabda81367ecb480bff51.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/0472305643f3e9801a3cbab9b2e8d7ee.png)
+
+### 💬 每日一言
+> 伤心桥下春波绿，曾是惊鸿照影来。
