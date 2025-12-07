@@ -279,3 +279,25 @@
 
 ### 💬 每日一言
 > 伤心桥下春波绿，曾是惊鸿照影来。
+
+## 2025-12-07 每日内容汇总
+
+### 📚 每日一句
+- 英文：Simmering snow by the hearth, cooking up a slower pace of life.
+- 中文翻译：围炉煮雪，烹煮一段慢下来的时光。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/e5c3a3ea3c40c370e224a2e94b41ff6f.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/6e762a930914d36ca40c2429412d3c0d.png)
+
+### 💬 每日一言
+> 经过上千年的修炼，你学到的就是这个吗？
+
+### 📜 每日诗词
+- 标题：别董大二首
+- 朝代/作者：唐代 · 高适
+- 内容：
+```
+千里黄云白日曛，北风吹雁雪纷纷。
+莫愁前路无知己，天下谁人不识君。
+六翮飘飖私自怜，一离京洛十余年。
+丈夫贫贱应未足，今日相逢无酒钱。
+```
