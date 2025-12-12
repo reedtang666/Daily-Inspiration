@@ -399,3 +399,26 @@
 一代天骄，成吉思汗，只识弯弓射大雕。
 俱往矣，数风流人物，还看今朝。
 ```
+
+## 2025-12-12 每日内容汇总
+
+### 📚 每日一句
+- 英文：Every road offers its own unique scenery, and every person is a singular existence.
+- 中文翻译：每一条路都是独特的风景，每一个人都是唯一的存在。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/e8d679024b83eda80113c0aaf788faef.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/0af5bc0b281d1cbf47646954c4cc3d13.png)
+
+### 💬 每日一言
+> 死亡只要在人生的终点尝试一次就够了~
+
+### 📜 每日诗词
+- 标题：九日
+- 朝代/作者：唐代 · 李白
+- 内容：
+```
+今日云景好，水绿秋山明。
+携壶酌流霞，搴菊泛寒荣。
+地远松石古，风扬弦管清。
+窥觞照欢颜，独笑还自倾。
+落帽醉山月，空歌怀友生。
+```
