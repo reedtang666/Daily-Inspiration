@@ -422,3 +422,23 @@
 窥觞照欢颜，独笑还自倾。
 落帽醉山月，空歌怀友生。
 ```
+
+## 2025-12-13 每日内容汇总
+
+### 📚 每日一句
+- 英文：Beyond material possessions, what matters most is a person's spirit and perspective.
+- 中文翻译：物质之外，更重要的是一个人的精神与见解。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/4b3e23494a43da25789da09c842bdfbf.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/d4eb1425f89c03cdcc895cc9686e4e14.png)
+
+### 💬 每日一言
+> 踏长风破万里浪
+
+### 📜 每日诗词
+- 标题：梅花
+- 朝代/作者：宋代 · 王安石
+- 内容：
+```
+墙角数枝梅，凌寒独自开。
+遥知不是雪，为有暗香来。
+```
