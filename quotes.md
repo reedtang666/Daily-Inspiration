@@ -442,3 +442,25 @@
 墙角数枝梅，凌寒独自开。
 遥知不是雪，为有暗香来。
 ```
+
+## 2025-12-14 每日内容汇总
+
+### 📚 每日一句
+- 英文：May every snowfall this winter lay the groundwork for the world's whiteness.
+- 中文翻译：愿这个冬天的每一场雪，都是为了铺垫世界的洁白。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/3f1ad797fc8774c297392907138825ad.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/039a25341718331ced43c412342198f4.png)
+
+### 💬 每日一言
+> 死亡不属于工人阶级！
+
+### 📜 每日诗词
+- 标题：绝句二首
+- 朝代/作者：唐代 · 杜甫
+- 内容：
+```
+迟日江山丽，春风花草香。
+泥融飞燕子，沙暖睡鸳鸯。
+江碧鸟逾白，山青花欲燃。
+今春看又过，何日是归年。
+```
