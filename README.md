@@ -4,10 +4,11 @@
 
 ## ✨ 核心功能
 - **自动更新**：每天北京时间 9 点（UTC 1 点）自动运行，无需手动触发；
+- **每日 GitHub 提交**：确保每天都有代码提交，在你的 GitHub profile 上显示绿色贡献方块（contributions），保持活跃度；
 - **全量 API 调用**：固定调用 3 个指定 API，每个 API 失败会自动重试 3 次，成功即记录；
 - **格式差异化展示**：按内容类型定制展示格式（英文+翻译+音频+图片/纯文字/诗词详情），美观易读；
 - **零成本部署**：基于 GitHub 免费服务，无需服务器，fork 即可使用；
-- **兜底容错**：3 个 API 均失败时，记录「今日暂无数据」，确保提交不中断。
+- **兜底容错**：3 个 API 均失败时，记录「今日暂无数据」，仍会创建提交确保每日贡献记录不中断。
 
 ## 📋 项目展示
 ### 内容示例（`quotes.md`）
@@ -163,11 +164,16 @@ API_CONFIGS = [
 - 查看日志：进入「Actions」→ 点击失败任务 → 展开标红步骤，查看具体错误；
 - 权限问题：确保 `auto-submit.yml` 中已配置 `permissions: contents: write` 和 `token: ${{ secrets.GITHUB_TOKEN }}`；
 - API 调用失败：检查 API 地址是否失效，或网络是否可访问（可本地运行 `python get_quote.py` 测试）；
-- 日期格式错误：确保 `auto-submit.yml` 中提交信息使用 `TODAY=$(date -d "UTC+8" +"%Y-%m-%d")`。
+- 日期格式错误：确保 `auto-submit.yml` 中提交信息使用 `TODAY=$(TZ='Asia/Shanghai' date +"%Y-%m-%d")`。
 
-### 2. quotes.md 无新增内容？
+### 2. 每天是否有 GitHub 提交记录（绿色小方框）？
+- **保证每日提交**：即使所有 API 调用失败，工作流也会创建一个空提交，确保你的 GitHub contributions 图表每天都有绿色记录；
+- 查看提交历史：进入仓库主页，查看最近的提交记录，应该看到每天都有 `feat: add YYYY-MM-DD daily content` 或 `chore: daily run YYYY-MM-DD (no new content)` 的提交；
+- 检查 Actions 日志：如果没有看到每日提交，进入「Actions」查看工作流运行日志，确认是否有错误。
+
+### 3. quotes.md 无新增内容？
 - 检查脚本是否生成内容：本地运行 `python get_quote.py`，看是否输出「成功记录 X/3 个接口内容」；
-- 检查 Git 提交：查看 Actions 日志中「Commit and push changes」步骤，是否显示「No changes to commit」（无新内容时触发）；
+- API 全部失败时：脚本会写入「今日暂无数据（三个接口均调用失败）」，这仍然会触发提交；
 - 确认 API 调用成功：查看脚本运行日志，是否有「✅ XX API 调用成功」的输出。
 
 ### 3. 中文乱码/格式错乱？
