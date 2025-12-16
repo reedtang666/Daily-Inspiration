@@ -162,21 +162,24 @@ API_CONFIGS = [
 ## ❌ 常见问题排查
 ### 1. GitHub Actions 运行失败？
 - 查看日志：进入「Actions」→ 点击失败任务 → 展开标红步骤，查看具体错误；
-- 权限问题：确保 `auto-submit.yml` 中已配置 `permissions: contents: write` 和 `token: ${{ secrets.GITHUB_TOKEN }}`；
+- 权限问题：确保 `.github/workflows/auto-submit.yml` 中已配置 `permissions: contents: write` 和 `token: ${{ secrets.GITHUB_TOKEN }}`；
 - API 调用失败：检查 API 地址是否失效，或网络是否可访问（可本地运行 `python get_quote.py` 测试）；
-- 日期格式错误：确保 `auto-submit.yml` 中提交信息使用 `TODAY=$(TZ='Asia/Shanghai' date +"%Y-%m-%d")`。
+- 日期格式错误：确保 `.github/workflows/auto-submit.yml` 中提交信息使用 `TODAY=$(TZ='Asia/Shanghai' date +"%Y-%m-%d")`。
 
 ### 2. 每天是否有 GitHub 提交记录（绿色小方框）？
-- **保证每日提交**：即使所有 API 调用失败，工作流也会创建一个空提交，确保你的 GitHub contributions 图表每天都有绿色记录；
-- 查看提交历史：进入仓库主页，查看最近的提交记录，应该看到每天都有 `feat: add YYYY-MM-DD daily content` 或 `chore: daily run YYYY-MM-DD (no new content)` 的提交；
+- **保证每日提交**：工作流确保每天都有提交，维护你的 GitHub contributions 图表绿色记录；
+  - 正常情况：脚本获取内容并写入 `quotes.md`，提交信息为 `feat: add YYYY-MM-DD daily content`
+  - API 全部失败：脚本写入「今日暂无数据（三个接口均调用失败）」到 `quotes.md`，同样会提交
+  - 特殊情况：如果脚本未修改 `quotes.md`（极少发生），会创建空提交 `chore: daily run YYYY-MM-DD (no new content)`
+- 查看提交历史：进入仓库主页，查看最近的提交记录，应该看到每天都有新提交；
 - 检查 Actions 日志：如果没有看到每日提交，进入「Actions」查看工作流运行日志，确认是否有错误。
 
 ### 3. quotes.md 无新增内容？
 - 检查脚本是否生成内容：本地运行 `python get_quote.py`，看是否输出「成功记录 X/3 个接口内容」；
-- API 全部失败时：脚本会写入「今日暂无数据（三个接口均调用失败）」，这仍然会触发提交；
+- API 全部失败时：脚本会写入「今日暂无数据（三个接口均调用失败）」，这仍然会触发正常提交；
 - 确认 API 调用成功：查看脚本运行日志，是否有「✅ XX API 调用成功」的输出。
 
-### 3. 中文乱码/格式错乱？
+### 4. 中文乱码/格式错乱？
 - 中文乱码：脚本中已指定 `encoding="utf-8"`，确保本地文件编码为 UTF-8；
 - 格式错乱：检查 `write_to_markdown` 函数中的字符串拼接逻辑，避免遗漏换行符。
 
