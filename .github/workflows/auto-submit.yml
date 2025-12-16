@@ -39,15 +39,21 @@ jobs:
         env:
           PYTHONUNBUFFERED: 1  # 实时输出日志
 
-      # 自动提交并推送修改（修复Null日期报错）
+      # 自动提交并推送修改（确保每天都有提交）
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add quotes.md
-          # 关键修改：用当前日期（UTC+8）替代execution_time，兼容定时/手动触发
-          TODAY=$(date -d "UTC+8" +"%Y-%m-%d")
-          # 只有文件有修改时才提交
-          git diff --quiet --cached || git commit -m "feat: add $TODAY daily content"
+          # 使用TZ环境变量设置时区，兼容所有系统
+          TODAY=$(TZ='Asia/Shanghai' date +"%Y-%m-%d")
+          # 检查是否有改动
+          if git diff --quiet --cached; then
+            echo "No changes to quotes.md, creating empty commit to maintain daily streak"
+            git commit --allow-empty -m "chore: daily run $TODAY (no new content)"
+          else
+            echo "Changes detected in quotes.md, committing..."
+            git commit -m "feat: add $TODAY daily content"
+          fi
           # 用Token认证推送，避免403
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
