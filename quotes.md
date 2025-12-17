@@ -508,3 +508,23 @@
 江碧鸟逾白，山青花欲燃。
 今春看又过，何日是归年。
 ```
+
+## 2025-12-17 每日内容汇总
+
+### 📚 每日一句
+- 英文：Growing up is a gentle act of self-rebellion.
+- 中文翻译：成长，是一场温柔的自我叛变。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/935b894649dfce3de7e833bfe30ed5ec.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/8e0ebe31c45b8fba7047cd11dbd6854c.png)
+
+### 💬 每日一言
+> 要是心情郁闷的时候，用手托腮就好，手臂会因为帮上忙而开心的。
+
+### 📜 每日诗词
+- 标题：山中雪后
+- 朝代/作者：清代 · 郑燮
+- 内容：
+```
+晨起开门雪满山，雪晴云淡日光寒。
+檐流未滴梅花冻，一种清孤不等闲。
+```
