@@ -528,3 +528,23 @@
 晨起开门雪满山，雪晴云淡日光寒。
 檐流未滴梅花冻，一种清孤不等闲。
 ```
+
+## 2025-12-18 每日内容汇总
+
+### 📚 每日一句
+- 英文：The past has been written, the future unfolds.
+- 中文翻译：过往已落笔，未来正铺陈。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/ac56319eccd409cfcd5483618024e674.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/45a358db5884dda6a110e755e4da8fd8.png)
+
+### 💬 每日一言
+> 失去故土的花朵，回不去，却也离不开。
+
+### 📜 每日诗词
+- 标题：闲居初夏午睡起·其一
+- 朝代/作者：宋代 · 杨万里
+- 内容：
+```
+梅子留酸软齿牙，芭蕉分绿与窗纱。
+日长睡起无情思，闲看儿童捉柳花。
+```
