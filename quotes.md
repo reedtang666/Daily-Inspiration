@@ -548,3 +548,23 @@
 梅子留酸软齿牙，芭蕉分绿与窗纱。
 日长睡起无情思，闲看儿童捉柳花。
 ```
+
+## 2025-12-19 每日内容汇总
+
+### 📚 每日一句
+- 英文：The warm winter sun is more cherished than in any other season.
+- 中文翻译：冬日的暖阳，比任何季节都更让人珍惜。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/664e0b9adf01eafc62d544d0d0f2066e.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/567a53ae544c4416acb7cd338dafdb9d.png)
+
+### 💬 每日一言
+> 勤学苦练斗志昂扬，顽强拼搏不弃不放。
+
+### 📜 每日诗词
+- 标题：客中初夏
+- 朝代/作者：宋代 · 司马光
+- 内容：
+```
+四月清和雨乍晴，南山当户转分明。
+更无柳絮因风起，惟有葵花向日倾。
+```
