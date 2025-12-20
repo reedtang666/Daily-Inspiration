@@ -568,3 +568,23 @@
 四月清和雨乍晴，南山当户转分明。
 更无柳絮因风起，惟有葵花向日倾。
 ```
+
+## 2025-12-20 每日内容汇总
+
+### 📚 每日一句
+- 英文：Listen to the wind rise, watch the snow fall— All things have their time.
+- 中文翻译：听风起，看雪落，万物自有其时。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/8003f93bd78b45f91e740ccfefb2dd5e.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/b6797be3b8b2b4563b3c46d4154229c1.png)
+
+### 💬 每日一言
+> 我要把你叫醒，哪怕赌上我的一切。
+
+### 📜 每日诗词
+- 标题：江雪
+- 朝代/作者：唐代 · 柳宗元
+- 内容：
+```
+千山鸟飞绝，万径人踪灭。
+孤舟蓑笠翁，独钓寒江雪。
+```
