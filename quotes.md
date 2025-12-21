@@ -588,3 +588,25 @@
 千山鸟飞绝，万径人踪灭。
 孤舟蓑笠翁，独钓寒江雪。
 ```
+
+## 2025-12-21 每日内容汇总
+
+### 📚 每日一句
+- 英文：The nights grow shorter from this day onward, the days grow longer from this day onward.
+- 中文翻译：夜从此渐短，光从此渐长。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/65b867b81aaaf5360ea905a14666bf5a.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/f0ef2750aa697f6cd4045decb9e01a0c.png)
+
+### 💬 每日一言
+> 愿未来总有星火。
+
+### 📜 每日诗词
+- 标题：观猎
+- 朝代/作者：唐代 · 王维
+- 内容：
+```
+风劲角弓鸣，将军猎渭城。
+草枯鹰眼疾，雪尽马蹄轻。
+忽过新丰市，还归细柳营。
+回看射雕处，千里暮云平。
+```
