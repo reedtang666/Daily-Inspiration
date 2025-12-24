@@ -671,3 +671,23 @@
 释兵仍振旅，要荒事万举。
 饮至告言旋，功归清庙前。
 ```
+
+## 2025-12-24 每日内容汇总
+
+### 📚 每日一句
+- 英文：Those who understand will understand; the rest is just scenery.
+- 中文翻译：懂的人自会懂，其余皆是风景。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/26d746f8746ff5da0ab58242664aae65.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/27f86b277fd98fa117d9ce64b83f1851.png)
+
+### 💬 每日一言
+> 人类侥幸拥有了智慧，就应该善用它。
+
+### 📜 每日诗词
+- 标题：桃花溪
+- 朝代/作者：唐代 · 张旭
+- 内容：
+```
+隐隐飞桥隔野烟，石矶西畔问渔船。
+桃花尽日随流水，洞在清溪何处边。
+```
