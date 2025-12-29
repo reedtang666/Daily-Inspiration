@@ -771,3 +771,23 @@
 碧艾香蒲处处忙。谁家儿共女，庆端阳。细缠五色臂丝长。空惆怅，谁复吊沅湘。
 往事莫论量。千年忠义气，日星光。离骚读罢总堪伤。无人解，树转午阴凉。
 ```
+
+## 2025-12-29 每日内容汇总
+
+### 📚 每日一句
+- 英文：Savoring life's moments, quietly observing its transformations.
+- 中文翻译：慢品人间，静观其变。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/bd55b6562f506d2e2a770eec5e1925ee.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/e01b30c6fdc41f11b91b44108ceed310.png)
+
+### 💬 每日一言
+> 趁着年轻，好好犯病。
+
+### 📜 每日诗词
+- 标题：春暮
+- 朝代/作者：宋代 · 曹豳
+- 内容：
+```
+门外无人问落花，绿阴冉冉遍天涯。
+林莺啼到无声处，青草池塘独听蛙。
+```
