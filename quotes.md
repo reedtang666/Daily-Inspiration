@@ -873,3 +873,23 @@
 柳汀斜对野人窗，零落衰条傍晓江。
 正是霜风飘断处，寒鸥惊起一双双。
 ```
+
+## 2026-01-03 每日内容汇总
+
+### 📚 每日一句
+- 英文：Snow falls silently, warmth speaks softly. May the world treat you with tenderness.
+- 中文翻译：雪落无声，温暖有声，愿你被世界温柔以待。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/f4ac8daa11a33692431e32d35f4e2790.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/906e09d53540b767e972d8a123f405e4.png)
+
+### 💬 每日一言
+> 欲买桂花同载酒，荒泷天下第一斗。
+
+### 📜 每日诗词
+- 标题：桃花溪
+- 朝代/作者：唐代 · 张旭
+- 内容：
+```
+隐隐飞桥隔野烟，石矶西畔问渔船。
+桃花尽日随流水，洞在清溪何处边。
+```
