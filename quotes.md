@@ -893,3 +893,22 @@
 隐隐飞桥隔野烟，石矶西畔问渔船。
 桃花尽日随流水，洞在清溪何处边。
 ```
+
+## 2026-01-04 每日内容汇总
+
+### 📚 每日一句
+- 英文：The road ahead stretches far, yet I won't dwell on momentary hesitation.
+- 中文翻译：前路漫漫，不萦一时彷徨。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/f7253ea6fd9e19ebd9cf454d0a89835c.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/e60665b73b98d464a256934831d7e827.png)
+
+### 💬 每日一言
+> 隔着人潮呼救像只困兽，呼吸颤抖去泪流，去相拥。
+
+### 📜 每日诗词
+- 标题：如梦令·春思
+- 朝代/作者：宋代 · 苏轼
+- 内容：
+```
+手种堂前桃李，无限绿阴青子。帘外百舌儿，惊起五更春睡。居士，居士。莫忘小桥流水。
+```
