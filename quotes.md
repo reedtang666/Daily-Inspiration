@@ -974,3 +974,23 @@
 山滴岚光水拍堤，草香沙暖净无泥。只疑误入武林溪。
 两岸桃花烘日出，四围高柳到天垂。一尊心事百年期。
 ```
+
+## 2026-01-08 每日内容汇总
+
+### 📚 每日一句
+- 英文：Turn your face to the sun and the shadows fall behind you.
+- 中文翻译：向阳而立，阴影自会落在身后。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/d3f018f5fde6bb2bdd7567dc3c779629.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/2e9475d52748def696219411fcaaa931.png)
+
+### 💬 每日一言
+> 往日的推心置腹已经一去不返，同谋和交流变成敌意与缄默。
+
+### 📜 每日诗词
+- 标题：夜雪
+- 朝代/作者：唐代 · 白居易
+- 内容：
+```
+已讶衾枕冷，复见窗户明。
+夜深知雪重，时闻折竹声。
+```
