@@ -1082,3 +1082,23 @@
 不是爱花即欲死，只恐花尽老相催。
 繁枝容易纷纷落，嫩蕊商量细细开。
 ```
+
+## 2026-01-12 每日内容汇总
+
+### 📚 每日一句
+- 英文：Amidst complexity, guard the simple core.
+- 中文翻译：于复杂中，守护简单的内核。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/daefccf7b2c43061b27d578e6062a091.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/10c8f516daec536b9a510616bde40cc3.png)
+
+### 💬 每日一言
+> 心有猛虎，细嗅蔷薇。
+
+### 📜 每日诗词
+- 标题：梅花
+- 朝代/作者：宋代 · 王安石
+- 内容：
+```
+墙角数枝梅，凌寒独自开。
+遥知不是雪，为有暗香来。
+```
