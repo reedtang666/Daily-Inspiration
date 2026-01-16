@@ -1192,3 +1192,23 @@
 素女鸣珠佩，天人弄彩球。
 今朝风日好，宜入未央游。
 ```
+
+## 2026-01-16 每日内容汇总
+
+### 📚 每日一句
+- 英文：In the material world, build a spiritual high ground.
+- 中文翻译：在物质的世界里，构建精神的高地。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/fc5a0e2c6e1db8a45acbfb611f6a81f0.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/0009dcd0173ce3efa514532cf0ec04c9.png)
+
+### 💬 每日一言
+> 富江有天使的脸孔，但其实她是个恶魔，不，恶魔也比她要好一点。
+
+### 📜 每日诗词
+- 标题：山中雪后
+- 朝代/作者：清代 · 郑燮
+- 内容：
+```
+晨起开门雪满山，雪晴云淡日光寒。
+檐流未滴梅花冻，一种清孤不等闲。
+```
