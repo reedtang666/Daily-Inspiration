@@ -1212,3 +1212,23 @@
 晨起开门雪满山，雪晴云淡日光寒。
 檐流未滴梅花冻，一种清孤不等闲。
 ```
+
+## 2026-01-17 每日内容汇总
+
+### 📚 每日一句
+- 英文：Become the person you want to be, not the person others see you as.
+- 中文翻译：成为你想成为的人，而非他人眼中的你。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/81a2290a4e338cc3f88f3f25e4ca7ccd.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/a96528ee8ae47631b94479a247e8746e.png)
+
+### 💬 每日一言
+> 那双紧握不放的手……抓住的是希望……亦或是绝望……
+
+### 📜 每日诗词
+- 标题：夏意
+- 朝代/作者：宋代 · 苏舜钦
+- 内容：
+```
+别院深深夏席清，石榴开遍透帘明。
+树阴满地日当午，梦觉流莺时一声。
+```
