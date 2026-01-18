@@ -1232,3 +1232,26 @@
 别院深深夏席清，石榴开遍透帘明。
 树阴满地日当午，梦觉流莺时一声。
 ```
+
+## 2026-01-18 每日内容汇总
+
+### 📚 每日一句
+- 英文：Shake hands with every voice, but sign a contract only with your own heart.
+- 中文翻译：和所有声音握手，但只与自己的心签约。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/2499cba64fd2559d5fd0b4c601d88eed.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/54b8026ebbb05f182f0cf69a224bf42f.png)
+
+### 💬 每日一言
+> 衰兰送客咸阳道，天若有情天亦老。
+
+### 📜 每日诗词
+- 标题：长歌行
+- 朝代/作者：两汉 · 佚名
+- 内容：
+```
+青青园中葵，朝露待日晞。
+阳春布德泽，万物生光辉。
+常恐秋节至，焜黄华叶衰。
+百川东到海，何时复西归？
+少壮不努力，老大徒伤悲！
+```
