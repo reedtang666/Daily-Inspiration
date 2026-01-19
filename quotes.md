@@ -1255,3 +1255,23 @@
 百川东到海，何时复西归？
 少壮不努力，老大徒伤悲！
 ```
+
+## 2026-01-19 每日内容汇总
+
+### 📚 每日一句
+- 英文：Build an undisturbed city within.
+- 中文翻译：于内里筑一座无扰的城。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/0f642edc2e8b51dfc431f11e31f6873e.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/fc52aa120d00538ae24f300c5f7e2d32.png)
+
+### 💬 每日一言
+> 人与人的相遇，不是恩赐就是劫。
+
+### 📜 每日诗词
+- 标题：小池
+- 朝代/作者：宋代 · 杨万里
+- 内容：
+```
+泉眼无声惜细流，树阴照水爱晴柔。
+小荷才露尖尖角，早有蜻蜓立上头。
+```
