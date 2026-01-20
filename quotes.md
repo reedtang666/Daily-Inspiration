@@ -1275,3 +1275,28 @@
 泉眼无声惜细流，树阴照水爱晴柔。
 小荷才露尖尖角，早有蜻蜓立上头。
 ```
+
+## 2026-01-20 每日内容汇总
+
+### 📚 每日一句
+- 英文：Winter pours out its last drops, clearing the stage for spring's entrance.
+- 中文翻译：冬意倾尽所有，为春的登场清场。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/5e15e17ea4a5623e7d25c521b1a15fc2.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/ffc808884f4bbd6d74cbf523b623f78c.png)
+
+### 💬 每日一言
+> 如果有来生，希望每次相遇，都能化为永恒。
+
+### 📜 每日诗词
+- 标题：孟冬寒气至
+- 朝代/作者：两汉 · 佚名
+- 内容：
+```
+孟冬寒气至，北风何惨栗。
+愁多知夜长，仰观众星列。
+三五明月满，四五蟾兔缺。
+客从远方来，遗我一书札。
+上言长相思，下言久离别。
+置书怀袖中，三岁字不灭。
+一心抱区区，惧君不识察。
+```
