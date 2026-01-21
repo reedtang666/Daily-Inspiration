@@ -1300,3 +1300,23 @@
 置书怀袖中，三岁字不灭。
 一心抱区区，惧君不识察。
 ```
+
+## 2026-01-21 每日内容汇总
+
+### 📚 每日一句
+- 英文：Sincerity has its measure. Giving has its limit.
+- 中文翻译：真诚有尺，付出有度。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/ddc15c14dae6a89ef0410ad4e2fe1a67.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/304db5051bfc453e43b921dee45d83ac.png)
+
+### 💬 每日一言
+> 即便分开，羁绊仍然是存在的，这就是所谓的家人。
+
+### 📜 每日诗词
+- 标题：别老母
+- 朝代/作者：清代 · 黄景仁
+- 内容：
+```
+搴帷拜母河梁去，白发愁看泪眼枯。
+惨惨柴门风雪夜，此时有子不如无。
+```
