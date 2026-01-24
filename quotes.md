@@ -1376,3 +1376,25 @@
 一车炭，千余斤，宫使驱将惜不得。
 半匹红绡一丈绫，系向牛头充炭直。
 ```
+
+## 2026-01-24 每日内容汇总
+
+### 📚 每日一句
+- 英文：Hope lights the way, gratitude steadies the soul.
+- 中文翻译：希望是前行的光，感恩是心中的锚。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/1fff1f69c8fa05de1e1ae23b4a87fc34.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/73d65b80ac6be824b845a50abeeef5e1.png)
+
+### 💬 每日一言
+> 欲买桂花同载酒，荒泷天下第一斗。
+
+### 📜 每日诗词
+- 标题：望雪
+- 朝代/作者：唐代 · 李世民
+- 内容：
+```
+冻云宵遍岭，素雪晓凝华。
+入牖千重碎，迎风一半斜。
+不妆空散粉，无树独飘花。
+萦空惭夕照，破彩谢晨霞。
+```
