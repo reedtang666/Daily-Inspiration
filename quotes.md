@@ -1398,3 +1398,23 @@
 不妆空散粉，无树独飘花。
 萦空惭夕照，破彩谢晨霞。
 ```
+
+## 2026-01-25 每日内容汇总
+
+### 📚 每日一句
+- 英文：True freedom is choosing the weight of your soul.
+- 中文翻译：真正的自由，是为灵魂选择它的重量。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/05545d29c78a87cb70297de53479b795.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/5911673f829bf23a3b76b21c8b4eca2d.png)
+
+### 💬 每日一言
+> 我是要成为海贼王的男人！
+
+### 📜 每日诗词
+- 标题：宿新市徐公店
+- 朝代/作者：宋代 · 杨万里
+- 内容：
+```
+篱落疏疏一径深，树头花落未成阴。
+儿童急走追黄蝶，飞入菜花无处寻。
+```
