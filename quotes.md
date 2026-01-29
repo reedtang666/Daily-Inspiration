@@ -1536,3 +1536,26 @@
 在天愿作比翼鸟，在地愿为连理枝。
 天长地久有时尽，此恨绵绵无绝期。
 ```
+
+## 2026-01-29 每日内容汇总
+
+### 📚 每日一句
+- 英文：Show seven parts to others, keep three parts to yourself.
+- 中文翻译：七分示人，三分藏己。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/b726d2c619049651994dfbeb7a3a1a45.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/9ac5963de694a4af5fdccb96e99c9267.png)
+
+### 💬 每日一言
+> 梦是故事的回响，风是爱恋的流浪。
+
+### 📜 每日诗词
+- 标题：苦寒吟
+- 朝代/作者：唐代 · 孟郊
+- 内容：
+```
+百泉冻皆咽，我吟寒更切。
+半夜倚乔松，不觉满衣雪。
+竹竿有甘苦，我爱抱苦节。
+鸟声有悲欢，我爱口流血。
+潘生若解吟，更早生白发。
+```
