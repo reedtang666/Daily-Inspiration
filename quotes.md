@@ -1559,3 +1559,23 @@
 鸟声有悲欢，我爱口流血。
 潘生若解吟，更早生白发。
 ```
+
+## 2026-01-30 每日内容汇总
+
+### 📚 每日一句
+- 英文：Tuck today's troubles into your pillow, and tomorrow will bring fresh steps.
+- 中文翻译：把今天的烦恼塞进枕头，明天自会有新的脚步。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/071f0c369f862798215694fc15e9dbf3.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/eb3c9fc910ca53f6bf79eaf48e153d36.png)
+
+### 💬 每日一言
+> 搞怪的不是红绿灯，而是我数不清的犹豫。
+
+### 📜 每日诗词
+- 标题：宿新市徐公店
+- 朝代/作者：宋代 · 杨万里
+- 内容：
+```
+篱落疏疏一径深，树头花落未成阴。
+儿童急走追黄蝶，飞入菜花无处寻。
+```
