@@ -1682,3 +1682,23 @@
 岸容待腊将舒柳，山意冲寒欲放梅。
 云物不殊乡国异，教儿且覆掌中杯。
 ```
+
+## 2026-02-05 每日内容汇总
+
+### 📚 每日一句
+- 英文：Footprints imprint the snow, leaving paths fleeting yet deep.
+- 中文翻译：足迹印雪，留下短暂却深的路。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/d659566131ec0d89e0c9859dc429ca2a.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/4494d519b22047cb2ab321d174dd693b.png)
+
+### 💬 每日一言
+> 远离亲人，我很遗憾，但这是我不得不做的事情。
+
+### 📜 每日诗词
+- 标题：宿新市徐公店
+- 朝代/作者：宋代 · 杨万里
+- 内容：
+```
+篱落疏疏一径深，树头花落未成阴。
+儿童急走追黄蝶，飞入菜花无处寻。
+```
