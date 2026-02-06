@@ -1702,3 +1702,23 @@
 篱落疏疏一径深，树头花落未成阴。
 儿童急走追黄蝶，飞入菜花无处寻。
 ```
+
+## 2026-02-06 每日内容汇总
+
+### 📚 每日一句
+- 英文：Warmth slowly awakens from a cup of hot drink.
+- 中文翻译：暖意从一杯热饮中慢慢苏醒。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/362f3a4982768682099e6c7e8801cc8d.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/f95127daecdd998340aae9dff49c43f3.png)
+
+### 💬 每日一言
+> 瞬光斩黯黮，昭明破晦夜。
+
+### 📜 每日诗词
+- 标题：闲居初夏午睡起·其一
+- 朝代/作者：宋代 · 杨万里
+- 内容：
+```
+梅子留酸软齿牙，芭蕉分绿与窗纱。
+日长睡起无情思，闲看儿童捉柳花。
+```
