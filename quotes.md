@@ -1785,3 +1785,25 @@
 老柘叶黄如嫩树，寒樱枝白是狂花。
 此时却羡闲人醉，五马无由入酒家。
 ```
+
+## 2026-02-10 每日内容汇总
+
+### 📚 每日一句
+- 英文：Each ray of morning light bestows itself upon the blank canvas.
+- 中文翻译：每一缕晨曦都赠予空白的画布。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/e7ece7aa1d039328f0eb0c7eb5984daa.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/9eb0f2624338e7bd18f95be7a8fff8b3.png)
+
+### 💬 每日一言
+> 停车坐爱枫林晚，霜叶红于二月花。
+
+### 📜 每日诗词
+- 标题：绝句二首
+- 朝代/作者：唐代 · 杜甫
+- 内容：
+```
+迟日江山丽，春风花草香。
+泥融飞燕子，沙暖睡鸳鸯。
+江碧鸟逾白，山青花欲燃。
+今春看又过，何日是归年。
+```
