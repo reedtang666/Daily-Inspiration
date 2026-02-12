@@ -1828,3 +1828,23 @@
 烛暗香残坐不辞。最爱笙调闻北里，渐看星澹失南箕。
 何人为校清凉力，未似初圆欲午时。
 ```
+
+## 2026-02-12 每日内容汇总
+
+### 📚 每日一句
+- 英文：Breath forms fleeting poems in the air.
+- 中文翻译：呵出的白气，在空中写下短暂的诗。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/c2bd0fb0ceba36ac9ee09f171b26fa79.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/06f565c8be4cc2fac94546d34e55e710.png)
+
+### 💬 每日一言
+> 宣父犹能畏后生，丈夫未可轻年少。
+
+### 📜 每日诗词
+- 标题：叹花 / 怅诗
+- 朝代/作者：唐代 · 杜牧
+- 内容：
+```
+自是寻春去校迟，不须惆怅怨芳时。
+狂风落尽深红色，绿叶成阴子满枝。
+```
