@@ -1848,3 +1848,25 @@
 自是寻春去校迟，不须惆怅怨芳时。
 狂风落尽深红色，绿叶成阴子满枝。
 ```
+
+## 2026-02-13 每日内容汇总
+
+### 📚 每日一句
+- 英文：Distant mountains cloak themselves in snow, awaiting spring's letter.
+- 中文翻译：远山裹着雪袍，静候一封春的来信。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/cf13a003b23f673662142bc55e7ad505.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/7b14fd1dc7171f42db0986d7b0415103.png)
+
+### 💬 每日一言
+> 是个男人就要对自己的人生负责
+
+### 📜 每日诗词
+- 标题：早冬
+- 朝代/作者：唐代 · 白居易
+- 内容：
+```
+十月江南天气好，可怜冬景似春华。
+霜轻未杀萋萋草，日暖初干漠漠沙。
+老柘叶黄如嫩树，寒樱枝白是狂花。
+此时却羡闲人醉，五马无由入酒家。
+```
