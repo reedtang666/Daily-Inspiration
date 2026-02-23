@@ -2054,3 +2054,23 @@
 烛暗香残坐不辞。最爱笙调闻北里，渐看星澹失南箕。
 何人为校清凉力，未似初圆欲午时。
 ```
+
+## 2026-02-23 每日内容汇总
+
+### 📚 每日一句
+- 英文：Shine your brightest on the coldest days.
+- 中文翻译：在最寒冷的日子里，绽放你最耀眼的光芒。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/db0b7883456a5b697e3f6bc7c35b5c6a.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/da3cbedee092194b52ccdce3b842f694.png)
+
+### 💬 每日一言
+> 所谓的奇迹就是要发生之后才会有价值存在的吧
+
+### 📜 每日诗词
+- 标题：青松
+- 朝代/作者：现代 · 陈毅
+- 内容：
+```
+大雪压青松，青松挺且直。
+要知松高洁，待到雪化时。
+```
