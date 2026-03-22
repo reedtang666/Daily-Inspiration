@@ -42,8 +42,8 @@ jobs:
       # 自动提交并推送修改（确保每天都有提交）
       - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "reedtang666"
+          git config --global user.email "reedtang666@gmail.com"
           git add quotes.md
           # 使用TZ环境变量设置时区，兼容所有系统
           TODAY=$(TZ='Asia/Shanghai' date +"%Y-%m-%d")
