@@ -2684,3 +2684,23 @@
 欲减罗衣寒未去，不卷珠帘，人在深深处。红杏枝头花几许，啼痕止恨清明雨。
 尽日沉烟香一缕，宿酒醒迟，恼破春情绪。飞燕又将归信误，小屏风上西江路。
 ```
+
+## 2026-03-24 每日内容汇总
+
+### 📚 每日一句
+- 英文：Past lessons are gifts for tomorrow.
+- 中文翻译：过去的经验是给明天的礼物。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/f3368a2f13c6dfa518875e298058f2c9.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/a96809aae5f60bda94ce2ecc715e5bb4.png)
+
+### 💬 每日一言
+> You complete me !
+
+### 📜 每日诗词
+- 标题：送别 / 山中送别
+- 朝代/作者：唐代 · 王维
+- 内容：
+```
+山中相送罢，日暮掩柴扉。
+春草明年绿，王孙归不归？
+```
