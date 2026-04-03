@@ -2911,3 +2911,23 @@
 枝间新绿一重重， 小蕾深藏数点红。
 爱惜芳心莫轻吐， 且教桃李闹春风。
 ```
+
+## 2026-04-03 每日内容汇总
+
+### 📚 每日一句
+- 英文：The river does not hurry; it simply knows the sea.
+- 中文翻译：河流不急于赶路，它只是知道海的方向。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/c9426abdc825d5eb81e3dce9ee7aa238.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/e1616e0b920b7fd0590eb70722a10e0b.png)
+
+### 💬 每日一言
+> 现世为梦，夜梦为真。
+
+### 📜 每日诗词
+- 标题：丰乐亭游春·其三
+- 朝代/作者：宋代 · 欧阳修
+- 内容：
+```
+红树青山日欲斜，长郊草色绿无涯。
+游人不管春将老，来往亭前踏落花。
+```
