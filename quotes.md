@@ -2931,3 +2931,23 @@
 红树青山日欲斜，长郊草色绿无涯。
 游人不管春将老，来往亭前踏落花。
 ```
+
+## 2026-04-04 每日内容汇总
+
+### 📚 每日一句
+- 英文：Each fallen petal makes room for the fruit to come.
+- 中文翻译：每一片落花，都为果实让出未来的位置。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/3dbf53d208e9a5b0e607af1fa3450635.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/323eafc3f5b861be1e4d4a7d553de3fc.png)
+
+### 💬 每日一言
+> 我不做人了！
+
+### 📜 每日诗词
+- 标题：淮中晚泊犊头
+- 朝代/作者：宋代 · 苏舜钦
+- 内容：
+```
+春阴垂野草青青，时有幽花一树明。
+晚泊孤舟古祠下，满川风雨看潮生。
+```
