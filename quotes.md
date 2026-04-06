@@ -2973,3 +2973,24 @@
 老柘叶黄如嫩树，寒樱枝白是狂花。
 此时却羡闲人醉，五马无由入酒家。
 ```
+
+## 2026-04-06 每日内容汇总
+
+### 📚 每日一句
+- 英文：The path is made by walking, not by waiting for signs.
+- 中文翻译：路是走出来的而不是等待征兆。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/f44d5ad3c4e1317656d84a20959285a9.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/8e97f607acf08f6a44ae503fbe60b9ef.png)
+
+### 💬 每日一言
+> 不管怎么样，明天又是新的一天。
+
+### 📜 每日诗词
+- 标题：如梦令·春景
+- 朝代/作者：宋代 · 秦观
+- 内容：
+```
+莺嘴啄花红溜，燕尾点波绿皱。
+指冷玉笙寒，吹彻小梅春透。
+依旧，依旧，人与绿杨俱瘦。
+```
