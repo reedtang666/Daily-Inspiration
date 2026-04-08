@@ -3014,3 +3014,25 @@
 耕夫召募爱楼船，春草青青万项田。
 试上吴门窥郡郭，清明几处有新烟。
 ```
+
+## 2026-04-08 每日内容汇总
+
+### 📚 每日一句
+- 英文：Waves do not fear the shore; they embrace their ending as a new beginning.
+- 中文翻译：海浪不畏惧海岸，它把终结拥作新的开端。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/805d094dd8209448e4dfa17b8b7691e0.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/3af678ccab1fb05d6663c8b679bcfbd9.png)
+
+### 💬 每日一言
+> 且视他人之疑目如盏盏鬼火，大胆地去你的夜路。
+
+### 📜 每日诗词
+- 标题：绝句二首
+- 朝代/作者：唐代 · 杜甫
+- 内容：
+```
+迟日江山丽，春风花草香。
+泥融飞燕子，沙暖睡鸳鸯。
+江碧鸟逾白，山青花欲燃。
+今春看又过，何日是归年。
+```
