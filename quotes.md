@@ -3428,3 +3428,23 @@
 江碧鸟逾白，山青花欲燃。
 今春看又过，何日是归年。
 ```
+
+## 2026-04-23 每日内容汇总
+
+### 📚 每日一句
+- 英文：The butterfly's beauty is born from the caterpillar's patience.
+- 中文翻译：蝴蝶的美丽，诞生于毛虫的耐心。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/eeb16b972a2644770cb6e5c3b292c5dc.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/6eb24fc6e91951428475818998712c78.png)
+
+### 💬 每日一言
+> 莫笑贱贫夸富贵，共成枯骨两何如？
+
+### 📜 每日诗词
+- 标题：落花
+- 朝代/作者：唐代 · 李商隐
+- 内容：
+```
+高阁客竟去，小园花乱飞。参差连曲陌，迢递送斜晖。
+肠断未忍扫，眼穿仍欲归。芳心向春尽，所得是沾衣。
+```
