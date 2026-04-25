@@ -3470,3 +3470,23 @@
 江碧鸟逾白，山青花欲燃。
 今春看又过，何日是归年。
 ```
+
+## 2026-04-25 每日内容汇总
+
+### 📚 每日一句
+- 英文：Hope and love truly make every challenge a little easier.
+- 中文翻译：希望与爱让每个挑战变得更容易。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/117eed27441168b5d724f6cdd2245bda.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/1ae89be0624f85368cf14067c38cf93b.png)
+
+### 💬 每日一言
+> 英雄也有适合英雄战斗的舞台！
+
+### 📜 每日诗词
+- 标题：绝句
+- 朝代/作者：唐代 · 杜甫
+- 内容：
+```
+两个黄鹂鸣翠柳，一行白鹭上青天。
+窗含西岭千秋雪，门泊东吴万里船。
+```
