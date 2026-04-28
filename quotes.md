@@ -3521,3 +3521,25 @@
 
 ### 💬 每日一言
 > 若不爱你，死生无地。若不爱你，青魂可离。
+
+## 2026-04-28 每日内容汇总
+
+### 📚 每日一句
+- 英文：Growth is not a straight line, but a spiral reaching higher.
+- 中文翻译：成长不是直线，而是盘旋上升的螺旋。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/ae662a4fc7549ee903114faed6b57498.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/92345425839cdeb0ceccf6c5e9fa8b37.png)
+
+### 💬 每日一言
+> 希望你永远都笑的像一束阳光，你是我的阳光。
+
+### 📜 每日诗词
+- 标题：和入京
+- 朝代/作者：隋代 · 吕让
+- 内容：
+```
+俘囚经万里，憔悴度三春。
+发改河阳鬓，衣余京洛尘。
+钟仪悲去楚，随会泣留秦。
+既谢平吴利，终成失路人。
+```
