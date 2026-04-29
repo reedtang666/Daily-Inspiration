@@ -3543,3 +3543,25 @@
 钟仪悲去楚，随会泣留秦。
 既谢平吴利，终成失路人。
 ```
+
+## 2026-04-29 每日内容汇总
+
+### 📚 每日一句
+- 英文：The most beautiful melodies come from instruments that were carved.
+- 中文翻译：最美妙的旋律，来自被精心雕琢的乐器。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/deb643b0204d8d79affcc8bbca864d67.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/2655c9e91e1895472955d7c92444099a.png)
+
+### 💬 每日一言
+> 不畏浮云遮望眼，只缘身在最高层。
+
+### 📜 每日诗词
+- 标题：长安春望
+- 朝代/作者：唐代 · 卢纶
+- 内容：
+```
+东风吹雨过青山，却望千门草色闲。
+家在梦中何日到，春生江上几人还？
+川原缭绕浮云外，宫阙参差落照间。
+谁念为儒逢世难，独将衰鬓客秦关。
+```
