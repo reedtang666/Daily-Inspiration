@@ -3825,3 +3825,23 @@
 春浅，红怨，掩双环。微雨花间，昼闲。无言暗将红泪弹。阑珊，香销轻梦还。
 斜倚画屏思往事，皆不是，空作相思字。记当时垂柳丝，花枝，满庭蝴蝶儿。
 ```
+
+## 2026-05-12 每日内容汇总
+
+### 📚 每日一句
+- 英文：A soft breeze brings the scent of locust flowers, sweetening the way home.
+- 中文翻译：微风送来槐花香，甜了归途。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/78f778f3c60fb30dc891e2e62cf16383.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/020e652a3fc127ad7c1875c8e2418427.png)
+
+### 💬 每日一言
+> 日照香炉生紫烟，月落乌啼霜满天。
+
+### 📜 每日诗词
+- 标题：渡湘江
+- 朝代/作者：唐代 · 杜审言
+- 内容：
+```
+迟日园林悲昔游，今春花鸟作边愁。
+独怜京国人南窜，不似湘江水北流。
+```
