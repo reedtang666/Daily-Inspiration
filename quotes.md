@@ -4354,3 +4354,22 @@
 四月清和雨乍晴，南山当户转分明。
 更无柳絮因风起，惟有葵花向日倾。
 ```
+
+## 2026-06-05 每日内容汇总
+
+### 📚 每日一句
+- 英文：Wheat awns pierce the dawn. Farmers bend to pick up gold.
+- 中文翻译：麦芒刺破晨光，农人弯腰拾起金黄。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/cac7755ca80ca36da88b2bc45b4942e9.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/bbd6ea335aa6b90e754149eb053fd115.png)
+
+### 💬 每日一言
+> 大本钟下送快递——上面摆，下面寄。
+
+### 📜 每日诗词
+- 标题：望江南·梳洗罢
+- 朝代/作者：唐代 · 温庭筠
+- 内容：
+```
+梳洗罢，独倚望江楼。过尽千帆皆不是，斜晖脉脉水悠悠。肠断白蘋洲。
+```
