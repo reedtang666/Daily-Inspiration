@@ -4632,3 +4632,23 @@
 在天愿作比翼鸟，在地愿为连理枝。
 天长地久有时尽，此恨绵绵无绝期。
 ```
+
+## 2026-06-12 每日内容汇总
+
+### 📚 每日一句
+- 英文：The scent of green lime cuts through the stifling air.
+- 中文翻译：青柠的气味切开沉闷。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/806c49beacbd05f5683a421c14f2ceff.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/33496e0929b03813a0f3d0e8f03ea758.png)
+
+### 💬 每日一言
+> 生命璀璨美丽，却成为众人的囚笼。
+
+### 📜 每日诗词
+- 标题：春日
+- 朝代/作者：宋代 · 朱熹
+- 内容：
+```
+胜日寻芳泗水滨，无边光景一时新。
+等闲识得东风面，万紫千红总是春。
+```
