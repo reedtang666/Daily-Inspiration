@@ -4724,3 +4724,23 @@
 春水满四泽，夏云多奇峰。
 秋月扬明晖，冬岭秀寒松。
 ```
+
+## 2026-06-16 每日内容汇总
+
+### 📚 每日一句
+- 英文：Not seeking fleeting acclaim, But only that the echoes linger on.
+- 中文翻译：不争一时之响，只求余音绵长。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/bf816872133ace9a4e55380b8fb1ec9c.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/1921c62f3f7cb61b95caa57b68f85f84.png)
+
+### 💬 每日一言
+> 爱的承诺，失去的苦楚，赎罪的欢愉。
+
+### 📜 每日诗词
+- 标题：晓出净慈寺送林子方
+- 朝代/作者：宋代 · 杨万里
+- 内容：
+```
+毕竟西湖六月中，风光不与四时同。
+接天莲叶无穷碧，映日荷花别样红。
+```
