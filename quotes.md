@@ -5307,3 +5307,23 @@
 垂影临增城，余光照九阿。
 宁微少年子，日久难咨嗟。
 ```
+
+## 2026-06-21 每日内容汇总
+
+### 📚 每日一句
+- 英文：Cicada songs fall from treetops, splashing heat waves on the ground.
+- 中文翻译：蝉声从树梢落下，砸出一地热浪。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/7dca4d26fd3a644a6afeaca1bb6c56a4.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/c8bf2ee0513c6d4b4644e5899e4298d2.png)
+
+### 💬 每日一言
+> 世界观的转变是一个根本的转变。
+
+### 📜 每日诗词
+- 标题：菩萨蛮·端午日咏盆中菊
+- 朝代/作者：清代 · 顾太清
+- 内容：
+```
+薰风殿阁樱桃节，碧纱窗下沈檀爇。小扇引微凉，悠悠夏日长。
+野人知趣甚，不向炎凉问。老圃好栽培，菊花五月开。
+```
