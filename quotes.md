@@ -5471,3 +5471,23 @@
 山滴岚光水拍堤，草香沙暖净无泥。只疑误入武林溪。
 两岸桃花烘日出，四围高柳到天垂。一尊心事百年期。
 ```
+
+## 2026-06-28 每日内容汇总
+
+### 📚 每日一句
+- 英文：Screen light illuminates a face deep in focus.
+- 中文翻译：屏幕的光照亮了专注的脸。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/187c5aedde5f062480c8fccc6e1755b2.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/17dccd74e81cfbea8f863e8a5f9436e7.png)
+
+### 💬 每日一言
+> 或许我们真的不配拥有一些美好的事物
+
+### 📜 每日诗词
+- 标题：客中初夏
+- 朝代/作者：宋代 · 司马光
+- 内容：
+```
+四月清和雨乍晴，南山当户转分明。
+更无柳絮因风起，惟有葵花向日倾。
+```
