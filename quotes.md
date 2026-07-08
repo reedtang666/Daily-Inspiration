@@ -5708,3 +5708,23 @@
 江碧鸟逾白，山青花欲燃。
 今春看又过，何日是归年。
 ```
+
+## 2026-07-08 每日内容汇总
+
+### 📚 每日一句
+- 英文：All advantages aren't in running quickly, but in getting a head start.​
+- 中文翻译：优势不在于跑得快，而在于起身早。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/fdee7b0019de04841e5c9b5c2b2de547.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/be105a19e078d4bb56762acc50adcc43.png)
+
+### 💬 每日一言
+> 我们把握住了现在，却失去了过去和未来。
+
+### 📜 每日诗词
+- 标题：绝句漫兴九首·其七
+- 朝代/作者：唐代 · 杜甫
+- 内容：
+```
+糁径杨花铺白毡，点溪荷叶叠青钱。
+笋根雉子无人见，沙上凫雏傍母眠。
+```
