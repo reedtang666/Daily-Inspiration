@@ -5966,3 +5966,23 @@
 一代天骄，成吉思汗，只识弯弓射大雕。
 俱往矣，数风流人物，还看今朝。
 ```
+
+## 2026-07-19 每日内容汇总
+
+### 📚 每日一句
+- 英文：Be grateful for now. The future is full of hope.
+- 中文翻译：感恩此刻，未来还充满可能。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/6c4bc7082288eec537a52fe40ff64358.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/cc80d7223d6784da8dcbdc544c0784ad.png)
+
+### 💬 每日一言
+> 服下红色药丸吧，那是自由的象征。
+
+### 📜 每日诗词
+- 标题：渡湘江
+- 朝代/作者：唐代 · 杜审言
+- 内容：
+```
+迟日园林悲昔游，今春花鸟作边愁。
+独怜京国人南窜，不似湘江水北流。
+```
