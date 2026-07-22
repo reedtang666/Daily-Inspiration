@@ -6084,3 +6084,23 @@
 杨柳青青江水平，闻郎江上踏歌声。
 东边日出西边雨，道是无晴却有晴。
 ```
+
+## 2026-07-22 每日内容汇总
+
+### 📚 每日一句
+- 英文：In conflict, the heart seems to speak with two voices.
+- 中文翻译：矛盾时，心里像有两个声音在说话。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/bf8c19dc4b01ec56a101d6cc2c2c6d3a.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/f0019838c3a53f5af94d8408c7b2964b.png)
+
+### 💬 每日一言
+> 亲爱的，你的心在哪里？
+
+### 📜 每日诗词
+- 标题：晓出净慈寺送林子方
+- 朝代/作者：宋代 · 杨万里
+- 内容：
+```
+毕竟西湖六月中，风光不与四时同。
+接天莲叶无穷碧，映日荷花别样红。
+```
