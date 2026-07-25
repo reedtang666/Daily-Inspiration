@@ -6144,3 +6144,22 @@
 毕竟西湖六月中，风光不与四时同。
 接天莲叶无穷碧，映日荷花别样红。
 ```
+
+## 2026-07-25 每日内容汇总
+
+### 📚 每日一句
+- 英文：Pains make stronger, tears make braver,and heartbreaks make wiser.
+- 中文翻译：伤痛铸坚强，眼泪淬勇敢，心碎炼智慧。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/bbaedf6276b5dea7af3af8dd8a625e1a.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/507a0c57bd1d89c6708afee4530cabdc.png)
+
+### 💬 每日一言
+> 如日中天，群魔乱舞，应臆。
+
+### 📜 每日诗词
+- 标题：望江南·梳洗罢
+- 朝代/作者：唐代 · 温庭筠
+- 内容：
+```
+梳洗罢，独倚望江楼。过尽千帆皆不是，斜晖脉脉水悠悠。肠断白蘋洲。
+```
