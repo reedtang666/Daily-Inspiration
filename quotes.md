@@ -6288,3 +6288,23 @@
 安能坐如此，比肩于朝儒。
 诗以示儿曹，其无迷厥初。
 ```
+
+## 2026-07-31 每日内容汇总
+
+### 📚 每日一句
+- 英文：At goodbye, even a full suitcase cannot hold all our cares.
+- 中文翻译：离别时，行李箱再满，也装不下全部牵挂。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/7df94e5ee8e73625b0bf152203ae7bb5.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/ffa7f0eddd62f36376e0786cc3cd9f71.png)
+
+### 💬 每日一言
+> 关关雎鸠，在河之洲。窈窕淑女，君子好逑。
+
+### 📜 每日诗词
+- 标题：春宫怨
+- 朝代/作者：唐代 · 杜荀鹤
+- 内容：
+```
+早被婵娟误，欲妆临镜慵。承恩不在貌，教妾若为容。
+风暖鸟声碎，日高花影重。年年越溪女，相忆采芙蓉。
+```
