@@ -6308,3 +6308,23 @@
 早被婵娟误，欲妆临镜慵。承恩不在貌，教妾若为容。
 风暖鸟声碎，日高花影重。年年越溪女，相忆采芙蓉。
 ```
+
+## 2026-08-01 每日内容汇总
+
+### 📚 每日一句
+- 英文：Your silent march through storms writes peace upon our land.
+- 中文翻译：你穿越风暴的无声行进，在大地写下和平。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/9d357da049acf8a0c89a9e61dbdde96b.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/4c216e7dbd85a810148f47c46093e979.png)
+
+### 💬 每日一言
+> 曾记否，到中流击水，浪遏飞舟？
+
+### 📜 每日诗词
+- 标题：三衢道中
+- 朝代/作者：宋代 · 曾几
+- 内容：
+```
+梅子黄时日日晴，小溪泛尽却山行。
+绿阴不减来时路，添得黄鹂四五声。
+```
