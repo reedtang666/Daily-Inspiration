@@ -6442,3 +6442,23 @@
 疏雨池塘见，微风襟袖知。阴阴夏木啭黄鹂，何处飞来白鹭立移时。
 易醉扶头酒，难逢敌手棋。日长偏与睡相宜，睡起芭蕉叶上自题诗。
 ```
+
+## 2026-08-07 每日内容汇总
+
+### 📚 每日一句
+- 英文：Courage is not the absence of fear, but the will to guard what we cherish.
+- 中文翻译：勇气非无畏，而是守护所爱的意志。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/4970c265b9b98f4893ecf36295d2eb64.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/7b174016ba4639b725c7ca6dfa899bac.png)
+
+### 💬 每日一言
+> 生于黑暗，侍奉光明。万物皆虚，万事皆允。
+
+### 📜 每日诗词
+- 标题：晓出净慈寺送林子方
+- 朝代/作者：宋代 · 杨万里
+- 内容：
+```
+毕竟西湖六月中，风光不与四时同。
+接天莲叶无穷碧，映日荷花别样红。
+```
