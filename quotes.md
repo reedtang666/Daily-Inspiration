@@ -6828,3 +6828,23 @@
 锄禾日当午，汗滴禾下土。
 谁知盘中餐，粒粒皆辛苦？
 ```
+
+## 2026-08-19 每日内容汇总
+
+### 📚 每日一句
+- 英文：Across the river of stars, two hearts still meet.
+- 中文翻译：隔着星河，两颗心依然相逢。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/5d116ef1cb6f6b88ca29ae87c077fb0b.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/0fdfaf4defd8b04ac7de13bc83deb865.png)
+
+### 💬 每日一言
+> ——什么是孤独？——心里明明空荡荡的，却什么也装不下。
+
+### 📜 每日诗词
+- 标题：思母
+- 朝代/作者：宋代 · 与恭
+- 内容：
+```
+霜殒芦花泪湿衣，白头无复倚柴扉。
+去年五月黄梅雨，曾典袈裟籴米归。
+```
