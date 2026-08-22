@@ -6948,3 +6948,23 @@
 蝉噪林逾静，鸟鸣山更幽。
 此地动归念，长年悲倦游。
 ```
+
+## 2026-08-22 每日内容汇总
+
+### 📚 每日一句
+- 英文：There is a crack in everything; that's how the light gets in.
+- 中文翻译：万物皆有裂痕，那是光照进来的地方。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/16865e93719d97f35b4d054c11d53dc6.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/258576730eda67b054c9d13ab65003c6.png)
+
+### 💬 每日一言
+> 隔岸无旧情，姑苏有钟声。
+
+### 📜 每日诗词
+- 标题：晓出净慈寺送林子方
+- 朝代/作者：宋代 · 杨万里
+- 内容：
+```
+毕竟西湖六月中，风光不与四时同。
+接天莲叶无穷碧，映日荷花别样红。
+```
