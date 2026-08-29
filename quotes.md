@@ -7206,3 +7206,23 @@
 戍客望边邑，思归多苦颜。
 高楼当此夜，叹息未应闲。
 ```
+
+## 2026-08-29 每日内容汇总
+
+### 📚 每日一句
+- 英文：Meet me where the magpies bridge the sky, just once a year yet forever.
+- 中文翻译：鹊桥相会，一年一度，却是一生一世。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/abd4287511cbaca371a8f88a2b9bb5ff.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/ec337194a54a69c7270a357b1fb29ff2.png)
+
+### 💬 每日一言
+> 风吹柳叶遮黄雀，薄翅不觉已落蝉。
+
+### 📜 每日诗词
+- 标题：采莲曲
+- 朝代/作者：唐代 · 白居易
+- 内容：
+```
+菱叶萦波荷飐风，荷花深处小船通。
+逢郎欲语低头笑，碧玉搔头落水中。
+```
