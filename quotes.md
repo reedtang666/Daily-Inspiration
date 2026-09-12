@@ -7560,3 +7560,23 @@
 ```
 初八月，半镜上青霄。斜倚画阑娇不语，暗移梅影过红桥，裙带北风飘。
 ```
+
+## 2026-09-12 每日内容汇总
+
+### 📚 每日一句
+- 英文：Shared laughter makes the long road feel easy.
+- 中文翻译：一同笑过，长路也显得轻松。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/ac84c959ae7523a9dca47c280edb3ac7.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/c9d849810da64eec9b4262d46f91d4aa.png)
+
+### 💬 每日一言
+> 故友的灵魂，能交给我吗？
+
+### 📜 每日诗词
+- 标题：秋词
+- 朝代/作者：唐代 · 刘禹锡
+- 内容：
+```
+自古逢秋悲寂寥，我言秋日胜春朝。
+晴空一鹤排云上，便引诗情到碧霄。
+```
