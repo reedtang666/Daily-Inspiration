@@ -7795,3 +7795,23 @@
 锄禾日当午，汗滴禾下土。
 谁知盘中餐，粒粒皆辛苦？
 ```
+
+## 2026-09-22 每日内容汇总
+
+### 📚 每日一句
+- 英文：Balance lives between the rush and the rest.
+- 中文翻译：平衡，住在忙碌与休息之间。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/7bbb68e9afd23325975cd2215c811990.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/c50df1e76fefaf80498b4fb6bb48ad1b.png)
+
+### 💬 每日一言
+> 为什么我在意谁陪你逛街？
+
+### 📜 每日诗词
+- 标题：秋夕
+- 朝代/作者：唐代 · 杜牧
+- 内容：
+```
+银烛秋光冷画屏，轻罗小扇扑流萤。
+天阶夜色凉如水，卧看牵牛织女星。
+```
