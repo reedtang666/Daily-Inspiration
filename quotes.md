@@ -8075,3 +8075,23 @@
 锄禾日当午，汗滴禾下土。
 谁知盘中餐，粒粒皆辛苦？
 ```
+
+## 2026-10-05 每日内容汇总
+
+### 📚 每日一句
+- 英文：Slow mornings make the whole day feel longer.
+- 中文翻译：不慌不忙的清晨，让一整天都变得悠长。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/8e5b58d0f7993ac0025be2a66e64052e.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/de718be40a5684e62aec0bb3109bdab6.png)
+
+### 💬 每日一言
+> 大鹏一日同风起，扶摇直上九万里。
+
+### 📜 每日诗词
+- 标题：桑茶坑道中
+- 朝代/作者：宋代 · 杨万里
+- 内容：
+```
+晴明风日雨干时，草满花堤水满溪。
+童子柳阴眠正着，一牛吃过柳阴西。
+```
