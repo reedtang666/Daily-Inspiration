@@ -8115,3 +8115,23 @@
 黄师塔前江水东，春光懒困倚微风。
 桃花一簇开无主，可爱深红爱浅红？
 ```
+
+## 2026-10-07 每日内容汇总
+
+### 📚 每日一句
+- 英文：Wherever you go, your courage goes with you.
+- 中文翻译：无论去哪里，勇气都与你同行。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/e67f14e9c3ca8255cbaeac388f0e25f6.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/1778c65c49f712e8268d0c694feef8ad.png)
+
+### 💬 每日一言
+> 人即他人之狼。
+
+### 📜 每日诗词
+- 标题：下第后上永崇高侍郎
+- 朝代/作者：唐代 · 高蟾
+- 内容：
+```
+天上碧桃和露种，日边红杏倚云栽。
+芙蓉生在秋江上，不向东风怨未开。
+```
