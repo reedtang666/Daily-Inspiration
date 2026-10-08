@@ -8135,3 +8135,23 @@
 天上碧桃和露种，日边红杏倚云栽。
 芙蓉生在秋江上，不向东风怨未开。
 ```
+
+## 2026-10-08 每日内容汇总
+
+### 📚 每日一句
+- 英文：Cold dew wets the grass, and autumn deepens its voice.
+- 中文翻译：寒露打湿了草，秋天深沉了嗓音。
+- 英文播放：[点击收听](https://staticedu-wps-cache.iciba.com/audio/3142c42b9547ca6f2f964b6a1fc75ef8.mp3)
+- 分享图片：![每日一句](https://staticedu-wps-cache.iciba.com/image/7f99c1b2e88c4936e58867177e0b8935.png)
+
+### 💬 每日一言
+> 错过了雪花，我就等你看雪落。
+
+### 📜 每日诗词
+- 标题：咏菊
+- 朝代/作者：明代 · 丘浚
+- 内容：
+```
+浅红淡白间深黄，簇簇新妆阵阵香。
+无限枝头好颜色，可怜开不为重阳。
+```
