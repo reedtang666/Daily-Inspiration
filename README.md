@@ -2,94 +2,128 @@
 
 一个 **全自动化、零手动操作** 的每日内容收集项目，每天通过 GitHub Actions 定时调用 3 个指定 API（每日一句、每日一言、每日诗词），全量记录成功结果并自动提交到 GitHub，持续积累属于你的「每日灵感知识库」。
 
+<!-- TODAY_BOARD_START -->
+<div align="center">
+
+![累计打卡](https://img.shields.io/badge/累计打卡-331_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-329_首-0969da?style=for-the-badge&logo=bookstack) ![最近更新](https://img.shields.io/badge/最近更新-2026--10--20-f97316?style=for-the-badge&logo=clockify)
+
+</div>
+
+## 🌟 今日灵感看板
+
+### 🗓️ 2026-10-20 · 星期二
+
+#### 📚 每日一句
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+> **The wind reads every leaf before it falls.**
+>
+> 风在每片叶子落下前，都读过它。
+
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/4c2a033ae1ac3ec85c70265d06d070be.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/62f3e760ade60ad22b6848478349b8c4.png)
+
+</td>
+<td width="35%" align="center" valign="middle">
+<img src="https://staticedu-wps-cache.iciba.com/image/62f3e760ade60ad22b6848478349b8c4.png" alt="每日一句 (2026-10-20)" width="240" />
+</td>
+</tr>
+</table>
+
+#### 💬 每日一言
+
+> 「 心事诉与明月收，若问情根深几许，朝朝暮暮共白头。 」
+
+#### 📜 每日诗词
+
+**《望天门山》** · 〔唐代〕李白
+
+> 天门中断楚江开，碧水东流至此回。  
+> 两岸青山相对出，孤帆一片日边来。
+
+## 🗂️ 历史月度归档
+
+> 📁 完整结构化数据存储于 [`data/`](data/) 目录，按月归档 Markdown 存储于 [`archives/`](archives/) 目录，当月汇总可查看 [`quotes.md`](quotes.md)。
+
+| 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 归档直达 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **2026-10** | 20 天 | 20 篇 | 20 条 | 20 首 | [📂 查看 2026-10 归档](archives/2026-10.md) |
+| **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | [📂 查看 2026-09 归档](archives/2026-09.md) |
+| **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | [📂 查看 2026-08 归档](archives/2026-08.md) |
+| **2026-07** | 31 天 | 31 篇 | 31 条 | 31 首 | [📂 查看 2026-07 归档](archives/2026-07.md) |
+| **2026-06** | 30 天 | 30 篇 | 30 条 | 30 首 | [📂 查看 2026-06 归档](archives/2026-06.md) |
+| **2026-05** | 31 天 | 31 篇 | 31 条 | 31 首 | [📂 查看 2026-05 归档](archives/2026-05.md) |
+| **2026-04** | 30 天 | 30 篇 | 30 条 | 29 首 | [📂 查看 2026-04 归档](archives/2026-04.md) |
+| **2026-03** | 31 天 | 31 篇 | 31 条 | 31 首 | [📂 查看 2026-03 归档](archives/2026-03.md) |
+| **2026-02** | 28 天 | 28 篇 | 28 条 | 28 首 | [📂 查看 2026-02 归档](archives/2026-02.md) |
+| **2026-01** | 31 天 | 31 篇 | 31 条 | 31 首 | [📂 查看 2026-01 归档](archives/2026-01.md) |
+| **2025-12** | 31 天 | 31 篇 | 31 条 | 30 首 | [📂 查看 2025-12 归档](archives/2025-12.md) |
+| **2025-11** | 7 天 | 7 篇 | 7 条 | 7 首 | [📂 查看 2025-11 归档](archives/2025-11.md) |
+<!-- TODAY_BOARD_END -->
+
 ## ✨ 核心功能
 - **自动更新**：每天北京时间 9 点（UTC 1 点）自动运行，无需手动触发；
+- **首页今日看板**：自动刷新 `README.md` 顶部的动态统计徽章、今日最新灵感卡片与月度归档索引；
+- **结构化归档与极速浏览**：
+  - 原始数据按月持久化至 [`data/YYYY-MM.json`](data/)，便于检索、统计与二次开发；
+  - 历史内容按月生成 [`archives/YYYY-MM.md`](archives/) 归档文件；
+  - [`quotes.md`](quotes.md) 仅展示**当月最新内容（倒序排列）+ 历史归档导航**，告别单文件数千行导致的加载卡顿；
+- **精致图文排版**：
+  - **每日一句**：左右分栏图文混排卡片，附带原声朗读与高清日签链接；
+  - **每日一言**：带分类标签与出处/作者署名展示；
+  - **每日诗词**：古风引用排版，附带名句高亮、意境标签，超过 10 句的长诗自动启用 `<details>` 折叠；
+- **智能历史去重**：自动比对历史已收录的一言与诗词，抽中重复内容时自动重新抽取，保证每日新鲜感；
 - **每日 GitHub 提交**：确保每天都有代码提交，在你的 GitHub profile 上显示绿色贡献方块（contributions），保持活跃度；
-- **全量 API 调用**：固定调用 3 个指定 API，每个 API 失败会自动重试 3 次，成功即记录；
-- **格式差异化展示**：按内容类型定制展示格式（英文+翻译+音频+图片/纯文字/诗词详情），美观易读；
-- **零成本部署**：基于 GitHub 免费服务，无需服务器，fork 即可使用；
-- **兜底容错**：3 个 API 均失败时，记录「今日暂无数据」，仍会创建提交确保每日贡献记录不中断。
-
-## 📋 项目展示
-### 内容示例（`quotes.md`）
-```markdown
-# 每日内容合集（每日一句+每日一言+每日诗词）
-> 自动更新于 GitHub Actions（北京时间每天9点执行）
-> 包含：每日一句（金山词霸）、每日一言、每日诗词，调用失败会重试3次
-
-<!-- 以下内容由脚本自动生成，无需手动修改 -->
-
-## 2025-11-24 每日内容汇总
-
-### 📚 每日一句
-- 英文：The best preparation for tomorrow is doing your best today.
-- 中文翻译：对明天最好的准备，就是今天做到最好。
-- 英文播放：[点击收听](https://xxx.iciba.com/xxx.mp3)
-- 分享图片：![每日一句](https://xxx.iciba.com/xxx.jpg)
-
-### 💬 每日一言
-> 人生如逆旅，我亦是行人。
-
-### 📜 每日诗词
-- 标题：山居秋暝
-- 朝代/作者：唐 · 王维
-- 内容：
-```
-空山新雨后，天气晚来秋。
-明月松间照，清泉石上流。
-竹喧归浣女，莲动下渔舟。
-随意春芳歇，王孙自可留。
-```
-
-## 2025-11-23 每日内容汇总
-
-### 📚 每日一句
-- 英文：Nothing is impossible to a willing heart.
-- 中文翻译：心之所向，无所不成。
-- 英文播放：[点击收听](https://xxx.iciba.com/xxx.mp3)
-- 分享图片：![每日一句](https://xxx.iciba.com/xxx.jpg)
-
-### 💬 每日一言
-> 静水流深，沧笙踏歌。
-```
-
-### GitHub 提交记录
-每天自动生成规范的提交信息，保持绿色贡献图：
-- `feat: add 2025-11-24 daily content`
-- `feat: add 2025-11-23 daily content`
+- **兜底容错与幂等更新**：同一天多次运行自动合并更新、不产生重复日期块；3 个 API 均失败时仍会创建提交确保每日贡献记录不中断。
 
 ## 🛠️ 技术栈
-- **核心脚本**：Python 3.10+（简洁易维护，仅依赖 `requests` 库）；
+- **核心脚本**：Python 3.10+（简洁易维护，优先使用 `requests` 库，无依赖环境下自动回退至标准库 `urllib`）；
 - **自动化工具**：GitHub Actions（定时任务 + 自动提交代码）；
-- **数据存储**：Markdown（轻量、易读、可检索）；
+- **数据存储**：JSON 结构化数据（`data/`）+ Markdown 按月归档（`archives/` & `quotes.md`）；
 - **API 来源（固定 3 个，无需额外申请 Key）**：
-  - 每日一句：金山词霸 API（`http://open.iciba.com/dsapi/`）→ 英文+中文翻译+音频+图片；
-  - 每日一言：一言 API（`https://v1.hitokoto.cn/`）→ 二次元/网络风格纯文字；
-  - 每日诗词：今日诗词 API（`https://v2.jinrishici.com/one.json`）→ 古风诗词（标题+朝代+作者+原文）。
+  - 每日一句：金山词霸 API（`http://open.iciba.com/dsapi/`）→ 英文+中文翻译+音频+分享日签；
+  - 每日一言：一言 API（`https://v1.hitokoto.cn/`）→ 句子正文+出处+作者+分类标签；
+  - 每日诗词：今日诗词 API（`https://v2.jinrishici.com/one.json`）→ 古风诗词（标题+朝代+作者+原文+推荐名句+意境标签）。
 
 ## 🚀 快速开始（5 分钟部署）
 ### 1. Fork 仓库
 点击 GitHub 仓库右上角「Fork」，将项目复制到你的账号下。
 
 ### 2. 确认文件完整性
-Fork 后，仓库应包含以下核心文件（无需修改，直接使用）：
+Fork 后，仓库包含以下核心目录与文件（无需修改，直接使用）：
 ```
 Daily-Inspiration/
-├─ quotes.md          # 自动更新的内容合集（按日期分组）
-├─ get_quote.py       # 核心脚本（API调用+重试+写入文件）
-├─ requirements.txt   # 依赖库（仅 requests==2.32.3）
+├─ README.md          # 仓库首页（含自动更新的「今日灵感看板」与归档索引）
+├─ quotes.md          # 当月最新内容合集（按日期倒序）+ 历史归档导航
+├─ archives/          # 按月拆分的 Markdown 历史归档（如 2025-11.md ~ 2026-10.md）
+├─ data/              # 按月存储的结构化 JSON 数据（如 2025-11.json ~ 2026-10.json）
+├─ get_quote.py       # 核心脚本（API调用+智能去重+JSON存储+多视图渲染）
+├─ requirements.txt   # 依赖库（requests==2.32.3）
 └─ .github/
    └─ workflows/
       └─ auto-submit.yml  # GitHub Actions 定时任务配置（北京时间9点执行）
 ```
 
-### 3. 手动测试（可选）
-为确保正常运行，可手动触发一次工作流：
-1. 进入你的仓库 → 点击顶部「Actions」；
-2. 左侧选择「Auto Collect Daily Content」；
-3. 点击右侧「Run workflow」→ 再次点击「Run workflow」；
-4. 等待 1-2 分钟，若所有步骤显示绿色对勾，说明运行成功；
-5. 打开 `quotes.md`，会发现新增当日内容汇总。
+### 3. 手动测试与常用命令（可选）
+- **日常采集并更新所有视图**：
+  ```bash
+  python3 get_quote.py
+  ```
+- **仅修改排版样式后重新渲染所有 Markdown（不请求 API）**：
+  ```bash
+  python3 get_quote.py --render-only
+  ```
+- **从旧版单文件 `quotes.md` 迁移历史数据**：
+  ```bash
+  python3 get_quote.py --migrate
+  ```
+- **GitHub Actions 手动触发**：
+  1. 进入你的仓库 → 点击顶部「Actions」；
+  2. 左侧选择「Auto Collect Daily Content」；
+  3. 点击右侧「Run workflow」→ 再次点击「Run workflow」；
+  4. 等待 1-2 分钟，若所有步骤显示绿色对勾，说明运行成功。
 
 ### 4. 完成！
 之后每天北京时间 9 点会自动运行，无需任何手动操作，持续积累内容～
@@ -105,52 +139,24 @@ schedule:
 - 若想改为北京时间每天 10 点：`cron: '0 2 * * *'`（UTC 2 点 = 北京时间 10 点）；
 - 时区换算工具：[Cron 时区转换](https://crontab.guru/time-zones.html)。
 
-### 2. 调整 API 重试次数
-编辑 `get_quote.py` 中的 `API_CONFIGS` 列表，修改每个 API 的 `retry_count`（默认 3 次）：
+### 2. 调整 API 重试次数与去重开关
+编辑 `get_quote.py` 中的 `API_CONFIGS` 列表，修改每个 API 的 `retry_count`（默认 3 次）或 `dedup`（是否开启历史去重）：
 ```python
 API_CONFIGS = [
     {
         "name": "每日一句",
+        "key": "quote",
         "url": "http://open.iciba.com/dsapi/",
         "retry_count": 5,  # 改为重试5次
+        "dedup": False,
         # 其他配置不变...
     },
     # 其他 API 同理...
 ]
 ```
 
-### 3. 自定义内容展示格式
-编辑 `get_quote.py` 中的 `write_to_markdown` 函数，调整输出格式（示例：修改诗词展示样式）：
-```python
-elif res["type"] == "每日诗词":
-    part = "\n### 📜 " + res['type'] + "\n"
-    part += "**标题**：" + res['title'] + "\n"
-    part += "**朝代/作者**：" + res['dynasty'] + " · " + res['author'] + "\n"
-    part += "**内容**：\n> " + res['content'].replace("\n", "\n> ") + "\n"
-    markdown_content += part
-```
-
-### 4. 替换/新增 API 源
-编辑 `get_quote.py` 中的 `API_CONFIGS` 列表，替换或新增 API（需适配 `parser` 解析函数）：
-```python
-API_CONFIGS = [
-    # 原有 3 个 API 配置...
-    # 新增：网易云热评 API（示例）
-    {
-        "name": "网易云热评",
-        "url": "https://api.uomg.com/api/rand.music.comment?format=json",
-        "retry_count": 3,
-        "headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"},
-        "parser": lambda res: {
-            "type": "网易云热评",
-            "content": res["content"],
-            "source": "网易云音乐",
-            "date": datetime.date.today().strftime("%Y-%m-%d")
-        }
-    }
-]
-```
-- 需确保 API 返回 JSON 格式，且 `parser` 函数能正确提取所需字段。
+### 3. 自定义卡片展示格式
+编辑 `get_quote.py` 中的 `render_daily_card` 函数，调整单日卡片的 Markdown/HTML 排版，然后运行 `python3 get_quote.py --render-only` 即可一键刷新全量历史归档与首页看板。
 
 ## 📈 扩展方向
 1. **静态网页展示**：用 Vue/React 或 Hugo/Gatsby 读取 `quotes.md`，生成个人灵感网站（支持按类型筛选、搜索）；

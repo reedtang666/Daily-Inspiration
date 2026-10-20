@@ -44,15 +44,15 @@ jobs:
         run: |
           git config --global user.name "reedtang666"
           git config --global user.email "reedtang666@gmail.com"
-          git add quotes.md
+          git add quotes.md README.md archives/ data/
           # 使用TZ环境变量设置时区，兼容所有系统
           TODAY=$(TZ='Asia/Shanghai' date +"%Y-%m-%d")
           # 检查是否有改动
           if git diff --quiet --cached; then
-            echo "No changes to quotes.md, creating empty commit to maintain daily streak"
+            echo "No changes detected, creating empty commit to maintain daily streak"
             git commit --allow-empty -m "chore: daily run $TODAY (no new content)"
           else
-            echo "Changes detected in quotes.md, committing..."
+            echo "Changes detected, committing..."
             git commit -m "feat: add $TODAY daily content"
           fi
           # 用Token认证推送，避免403
