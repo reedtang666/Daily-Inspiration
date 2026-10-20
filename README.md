@@ -196,6 +196,6 @@ API_CONFIGS = [
 
 ---
 
-✨ 每日积累，不负时光～  
+✨ 每日积累，不负时光～ ～ ～   
 如果觉得项目有用，欢迎 Star 支持！🌟  
 仓库地址：[reedtang666/Daily-Inspiration](https://github.com/reedtang666/Daily-Inspiration)
