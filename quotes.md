@@ -1,31 +1,111 @@
 # ✨ 每日灵感合集（Daily Inspiration）
 
 > ⏰ 自动更新于 GitHub Actions（北京时间每天 09:00 执行）  
-> 📊 累计打卡 **331** 天 · 每日一句 **331** 篇 · 每日一言 **331** 条 · 每日诗词 **329** 首  
+> 📊 累计打卡 **332** 天 · 每日一句 **332** 篇 · 每日一言 **332** 条 · 每日诗词 **330** 首 · 必应壁纸 **15** 张  
 > 💡 为保证最佳阅读体验，本页仅展示**当月最新内容（按日期倒序）**，历史月份请通过下方归档表查阅。
 
 ## 🗂️ 历史月度归档索引
 
-| 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 归档直达 |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-10** | 20 天 | 20 篇 | 20 条 | 20 首 | [📂 查看 2026-10 归档](archives/2026-10.md) |
-| **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | [📂 查看 2026-09 归档](archives/2026-09.md) |
-| **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | [📂 查看 2026-08 归档](archives/2026-08.md) |
-| **2026-07** | 31 天 | 31 篇 | 31 条 | 31 首 | [📂 查看 2026-07 归档](archives/2026-07.md) |
-| **2026-06** | 30 天 | 30 篇 | 30 条 | 30 首 | [📂 查看 2026-06 归档](archives/2026-06.md) |
-| **2026-05** | 31 天 | 31 篇 | 31 条 | 31 首 | [📂 查看 2026-05 归档](archives/2026-05.md) |
-| **2026-04** | 30 天 | 30 篇 | 30 条 | 29 首 | [📂 查看 2026-04 归档](archives/2026-04.md) |
-| **2026-03** | 31 天 | 31 篇 | 31 条 | 31 首 | [📂 查看 2026-03 归档](archives/2026-03.md) |
-| **2026-02** | 28 天 | 28 篇 | 28 条 | 28 首 | [📂 查看 2026-02 归档](archives/2026-02.md) |
-| **2026-01** | 31 天 | 31 篇 | 31 条 | 31 首 | [📂 查看 2026-01 归档](archives/2026-01.md) |
-| **2025-12** | 31 天 | 31 篇 | 31 条 | 30 首 | [📂 查看 2025-12 归档](archives/2025-12.md) |
-| **2025-11** | 7 天 | 7 篇 | 7 条 | 7 首 | [📂 查看 2025-11 归档](archives/2025-11.md) |
+| 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2026-10** | 21 天 | 21 篇 | 21 条 | 21 首 | 15 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
+| **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
+| **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
+| **2026-07** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-07 归档](archives/2026-07.md) |
+| **2026-06** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-06 归档](archives/2026-06.md) |
+| **2026-05** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-05 归档](archives/2026-05.md) |
+| **2026-04** | 30 天 | 30 篇 | 30 条 | 29 首 | 0 张 | [📂 查看 2026-04 归档](archives/2026-04.md) |
+| **2026-03** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-03 归档](archives/2026-03.md) |
+| **2026-02** | 28 天 | 28 篇 | 28 条 | 28 首 | 0 张 | [📂 查看 2026-02 归档](archives/2026-02.md) |
+| **2026-01** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-01 归档](archives/2026-01.md) |
+| **2025-12** | 31 天 | 31 篇 | 31 条 | 30 首 | 0 张 | [📂 查看 2025-12 归档](archives/2025-12.md) |
+| **2025-11** | 7 天 | 7 篇 | 7 条 | 7 首 | 0 张 | [📂 查看 2025-11 归档](archives/2025-11.md) |
 
 ---
 
-## 📅 2026-10 当月灵感记录（共 20 天）
+## 📅 2026-10 当月灵感记录（共 21 天）
 
-### 🗓️ 2026-10-20 · 星期二
+### 🗓️ 2026-10-21 · 星期三 · 丙午马年 九月十二
+
+#### 🌄 必应每日壁纸
+
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+<img src="https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_1920x1080.jpg" alt="飞掠河面 (2026-10-21)" width="420" />
+</td>
+<td width="45%" valign="middle">
+
+**📍 飞掠河面**
+
+> 香江上的阮潢桥，顺化，越南
+
+📷 *© VU PHAM VAN/Getty Images*
+
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg)
+
+</td>
+</tr>
+</table>
+
+#### 📚 每日一句
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+> **Say thank you to the small things today.**
+>
+> 今天，对身边的小事说声谢谢。
+
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/ff02003b4d7bdc522bc889600a00301f.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/1c9933296916a5747b4e1a8ce911be5e.png)
+
+</td>
+<td width="35%" align="center" valign="middle">
+<img src="https://staticedu-wps-cache.iciba.com/image/1c9933296916a5747b4e1a8ce911be5e.png" alt="每日一句 (2026-10-21)" width="240" />
+</td>
+</tr>
+</table>
+
+#### 💬 每日一言 `网易云`
+
+> 「 百无聊赖的白日与长夜，总有一天会化为回忆远置吧。 」
+>
+> <p align="right">—— Sakanaction鱼韵乐队 · 《忘れられないの》</p>
+
+#### 📜 每日诗词 &nbsp;`#华东` `#江南` `#秋`
+
+**《卜算子·席上送王彦猷》** · 〔宋代〕周紫芝
+
+✨ **名句摘录**：「 *江北江南几度秋，梦里朱颜换。* 」
+
+> 江北上归舟，再见江南岸。江北江南几度秋，梦里朱颜换。  
+> 人是岭头云，聚散天谁管。君似孤云何处归，我似离群雁。  
+
+---
+
+### 🗓️ 2026-10-20 · 星期二 · 丙午马年 九月十一
+
+#### 🌄 必应每日壁纸
+
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+<img src="https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_1920x1080.jpg" alt="慢节奏生活 (2026-10-20)" width="420" />
+</td>
+<td width="45%" valign="middle">
+
+**📍 慢节奏生活**
+
+> 褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加
+
+📷 *© Suzi Eszterhas/Minden Pictures*
+
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg)
+
+</td>
+</tr>
+</table>
 
 #### 📚 每日一句
 
@@ -59,7 +139,28 @@
 
 ---
 
-### 🗓️ 2026-10-19 · 星期一
+### 🗓️ 2026-10-19 · 星期一 · 丙午马年 九月初十
+
+#### 🌄 必应每日壁纸
+
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+<img src="https://cn.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_1920x1080.jpg" alt="水上通衢 (2026-10-19)" width="420" />
+</td>
+<td width="45%" valign="middle">
+
+**📍 水上通衢**
+
+> 大运河，威尼斯，意大利
+
+📷 *© Juan Romero/Cavan Images*
+
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg)
+
+</td>
+</tr>
+</table>
 
 #### 📚 每日一句
 
@@ -93,7 +194,28 @@
 
 ---
 
-### 🗓️ 2026-10-18 · 星期日
+### 🗓️ 2026-10-18 · 星期日 · 丙午马年 九月初九 &nbsp;`🏔️ 重阳节`
+
+#### 🌄 必应每日壁纸
+
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+<img src="https://cn.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_1920x1080.jpg" alt="75载，风华正茂 (2026-10-18)" width="420" />
+</td>
+<td width="45%" valign="middle">
+
+**📍 75载，风华正茂**
+
+> 多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士
+
+📷 *© joe daniel price/Getty Images*
+
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg)
+
+</td>
+</tr>
+</table>
 
 #### 📚 每日一句
 
@@ -142,7 +264,28 @@
 
 ---
 
-### 🗓️ 2026-10-17 · 星期六
+### 🗓️ 2026-10-17 · 星期六 · 丙午马年 九月初八
+
+#### 🌄 必应每日壁纸
+
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+<img src="https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_1920x1080.jpg" alt="发掘尘封的过去 (2026-10-17)" width="420" />
+</td>
+<td width="45%" valign="middle">
+
+**📍 发掘尘封的过去**
+
+> 肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国
+
+📷 *© Audrey Poree/Alamy*
+
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg)
+
+</td>
+</tr>
+</table>
 
 #### 📚 每日一句
 
@@ -176,7 +319,28 @@
 
 ---
 
-### 🗓️ 2026-10-16 · 星期五
+### 🗓️ 2026-10-16 · 星期五 · 丙午马年 九月初七
+
+#### 🌄 必应每日壁纸
+
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+<img src="https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_1920x1080.jpg" alt="一窥科罗拉多群峰 (2026-10-16)" width="420" />
+</td>
+<td width="45%" valign="middle">
+
+**📍 一窥科罗拉多群峰**
+
+> 斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国
+
+📷 *© lightphoto/Getty Images*
+
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg)
+
+</td>
+</tr>
+</table>
 
 #### 📚 每日一句
 
@@ -210,7 +374,28 @@
 
 ---
 
-### 🗓️ 2026-10-15 · 星期四
+### 🗓️ 2026-10-15 · 星期四 · 丙午马年 九月初六
+
+#### 🌄 必应每日壁纸
+
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+<img src="https://cn.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_1920x1080.jpg" alt="桥梁、屋顶与暮色 (2026-10-15)" width="420" />
+</td>
+<td width="45%" valign="middle">
+
+**📍 桥梁、屋顶与暮色**
+
+> 弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰
+
+📷 *© Piotr Mitelski/Shutterstock*
+
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg)
+
+</td>
+</tr>
+</table>
 
 #### 📚 每日一句
 
@@ -251,7 +436,28 @@
 
 ---
 
-### 🗓️ 2026-10-14 · 星期三
+### 🗓️ 2026-10-14 · 星期三 · 丙午马年 九月初五
+
+#### 🌄 必应每日壁纸
+
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+<img src="https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_1920x1080.jpg" alt="穿越时间的螺旋 (2026-10-14)" width="420" />
+</td>
+<td width="45%" valign="middle">
+
+**📍 穿越时间的螺旋**
+
+> 侏罗纪时期的菊石化石
+
+📷 *© J Nemchinova/Getty Images*
+
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg)
+
+</td>
+</tr>
+</table>
 
 #### 📚 每日一句
 
@@ -287,7 +493,28 @@
 
 ---
 
-### 🗓️ 2026-10-13 · 星期二
+### 🗓️ 2026-10-13 · 星期二 · 丙午马年 九月初四
+
+#### 🌄 必应每日壁纸
+
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+<img src="https://cn.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_1920x1080.jpg" alt="蓝与绿的交响曲 (2026-10-13)" width="420" />
+</td>
+<td width="45%" valign="middle">
+
+**📍 蓝与绿的交响曲**
+
+> 普利特维采湖群国家公园，克罗地亚
+
+📷 *© Jan Wlodarczyk/Alamy*
+
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg)
+
+</td>
+</tr>
+</table>
 
 #### 📚 每日一句
 
@@ -322,7 +549,28 @@
 
 ---
 
-### 🗓️ 2026-10-12 · 星期一
+### 🗓️ 2026-10-12 · 星期一 · 丙午马年 九月初三
+
+#### 🌄 必应每日壁纸
+
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+<img src="https://cn.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_1920x1080.jpg" alt="从铁轨到潮汐 (2026-10-12)" width="420" />
+</td>
+<td width="45%" valign="middle">
+
+**📍 从铁轨到潮汐**
+
+> 曼布尔斯码头，斯旺西，威尔士
+
+📷 *© Helen Hotson/Shutterstock*
+
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg)
+
+</td>
+</tr>
+</table>
 
 #### 📚 每日一句
 
@@ -358,7 +606,28 @@
 
 ---
 
-### 🗓️ 2026-10-11 · 星期日
+### 🗓️ 2026-10-11 · 星期日 · 丙午马年 九月初二
+
+#### 🌄 必应每日壁纸
+
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+<img src="https://cn.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_1920x1080.jpg" alt="秋色中转动的水轮 (2026-10-11)" width="420" />
+</td>
+<td width="45%" valign="middle">
+
+**📍 秋色中转动的水轮**
+
+> 格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国
+
+📷 *© dszc/Getty Images*
+
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg)
+
+</td>
+</tr>
+</table>
 
 #### 📚 每日一句
 
@@ -392,7 +661,28 @@
 
 ---
 
-### 🗓️ 2026-10-10 · 星期六
+### 🗓️ 2026-10-10 · 星期六 · 丙午马年 九月初一
+
+#### 🌄 必应每日壁纸
+
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+<img src="https://cn.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_1920x1080.jpg" alt="迁飞路线上的生命 (2026-10-10)" width="420" />
+</td>
+<td width="45%" valign="middle">
+
+**📍 迁飞路线上的生命**
+
+> 蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国
+
+📷 *© Hiroya Minakuchi/Minden Pictures*
+
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_UHD.jpg)
+
+</td>
+</tr>
+</table>
 
 #### 📚 每日一句
 
@@ -456,7 +746,28 @@
 
 ---
 
-### 🗓️ 2026-10-09 · 星期五
+### 🗓️ 2026-10-09 · 星期五 · 丙午马年 八月廿九
+
+#### 🌄 必应每日壁纸
+
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+<img src="https://cn.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_1920x1080.jpg" alt="科西嘉岛的岩石前哨 (2026-10-09)" width="420" />
+</td>
+<td width="45%" valign="middle">
+
+**📍 科西嘉岛的岩石前哨**
+
+> 桑吉奈尔群岛景观，摄自科西嘉岛，法国
+
+📷 *© Francesco Riccardo Iacomino/Getty Images*
+
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg)
+
+</td>
+</tr>
+</table>
 
 #### 📚 每日一句
 
@@ -490,7 +801,28 @@
 
 ---
 
-### 🗓️ 2026-10-08 · 星期四
+### 🗓️ 2026-10-08 · 星期四 · 丙午马年 八月廿八 &nbsp;`🌿 寒露`
+
+#### 🌄 必应每日壁纸
+
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+<img src="https://cn.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_1920x1080.jpg" alt="现在你“海”能看见我…… (2026-10-08)" width="420" />
+</td>
+<td width="45%" valign="middle">
+
+**📍 现在你“海”能看见我……**
+
+> 印度洋马约特岛，一只呈防御姿态的章鱼
+
+📷 *© Gabriel Barathieu/Minden Pictures*
+
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg)
+
+</td>
+</tr>
+</table>
 
 #### 📚 每日一句
 
@@ -524,7 +856,28 @@
 
 ---
 
-### 🗓️ 2026-10-07 · 星期三
+### 🗓️ 2026-10-07 · 星期三 · 丙午马年 八月廿七
+
+#### 🌄 必应每日壁纸
+
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+<img src="https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_1920x1080.jpg" alt="迷惑不解？沿着小径走 (2026-10-07)" width="420" />
+</td>
+<td width="45%" valign="middle">
+
+**📍 迷惑不解？沿着小径走**
+
+> 覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰
+
+📷 *© Fulcanelli_AOS/Getty Images*
+
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg)
+
+</td>
+</tr>
+</table>
 
 #### 📚 每日一句
 
@@ -558,7 +911,7 @@
 
 ---
 
-### 🗓️ 2026-10-06 · 星期二
+### 🗓️ 2026-10-06 · 星期二 · 丙午马年 八月廿六
 
 #### 📚 每日一句
 
@@ -592,7 +945,7 @@
 
 ---
 
-### 🗓️ 2026-10-05 · 星期一
+### 🗓️ 2026-10-05 · 星期一 · 丙午马年 八月廿五
 
 #### 📚 每日一句
 
@@ -626,7 +979,7 @@
 
 ---
 
-### 🗓️ 2026-10-04 · 星期日
+### 🗓️ 2026-10-04 · 星期日 · 丙午马年 八月廿四
 
 #### 📚 每日一句
 
@@ -662,7 +1015,7 @@
 
 ---
 
-### 🗓️ 2026-10-03 · 星期六
+### 🗓️ 2026-10-03 · 星期六 · 丙午马年 八月廿三
 
 #### 📚 每日一句
 
@@ -696,7 +1049,7 @@
 
 ---
 
-### 🗓️ 2026-10-02 · 星期五
+### 🗓️ 2026-10-02 · 星期五 · 丙午马年 八月廿二
 
 #### 📚 每日一句
 
@@ -730,7 +1083,7 @@
 
 ---
 
-### 🗓️ 2026-10-01 · 星期四
+### 🗓️ 2026-10-01 · 星期四 · 丙午马年 八月廿一 &nbsp;`🇨🇳 国庆节`
 
 #### 📚 每日一句
 
