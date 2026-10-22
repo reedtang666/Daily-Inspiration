@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-332_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-330_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月十二-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--10--21-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-333_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-331_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月十三-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--10--22-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,24 +20,24 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-10-21 · 星期三 · 丙午马年 九月十二
+### 🗓️ 2026-10-22 · 星期四 · 丙午马年 九月十三
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_1920x1080.jpg" alt="飞掠河面 (2026-10-21)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_1920x1080.jpg" alt="静水映斑斓 (2026-10-22)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 飞掠河面**
+**📍 静水映斑斓**
 
-> 香江上的阮潢桥，顺化，越南
+> 内藏山国立公园的秋景，韩国
 
-📷 *© VU PHAM VAN/Getty Images*
+📷 *© Twenty47studio/Getty Images*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg)
 
 </td>
 </tr>
@@ -49,34 +49,33 @@
 <tr>
 <td width="65%" valign="middle">
 
-> **Say thank you to the small things today.**
+> **Rain on the roof is the sky's lullaby.**
 >
-> 今天，对身边的小事说声谢谢。
+> 雨打屋檐，是天空的摇篮曲。
 
-[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/ff02003b4d7bdc522bc889600a00301f.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/1c9933296916a5747b4e1a8ce911be5e.png)
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/1e5acb8d1f0abd25c2644a5477caa9fe.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/2ad70a8851d8c2de4ffae01563624770.png)
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="https://staticedu-wps-cache.iciba.com/image/1c9933296916a5747b4e1a8ce911be5e.png" alt="每日一句 (2026-10-21)" width="240" />
+<img src="https://staticedu-wps-cache.iciba.com/image/2ad70a8851d8c2de4ffae01563624770.png" alt="每日一句 (2026-10-22)" width="240" />
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `文学`
+#### 💬 每日一言 `机灵`
 
-> 「 君埋泉下泥销骨，我寄人间雪满头。 」
+> 「 实变函数学十遍，泛函学完心泛寒。 」
 >
-> <p align="right">—— 白居易 · 《梦微之》</p>
+> <p align="right">—— 《数学系名言》</p>
 
 #### 📜 每日诗词 &nbsp;`#秋`
 
-**《八声甘州·记玉关踏雪事清游》** · 〔宋代〕张炎
+**《沁园春·观潮》** · 〔清代〕吴伟业
 
-✨ **名句摘录**：「 *折芦花赠远，零落一身秋。* 」
+✨ **名句摘录**：「 *八月奔涛，千尺崔嵬，砉然欲惊。* 」
 
-> 辛卯岁，沈尧道同余北归，各处杭、越。逾岁，尧道来问寂寞，语笑数日。又复别去。赋此曲，并寄赵学舟。  
-> 记玉关踏雪事清游，寒气脆貂裘。傍枯林古道，长河饮马，此意悠悠。短梦依然江表，老泪洒西州。一字无题处，落叶都愁。  
-> 载取白云归去，问谁留楚佩，弄影中洲？折芦花赠远，零落一身秋。向寻常、野桥流水，待招来，不是旧沙鸥。空怀感，有斜阳处，却怕登楼。
+> 八月奔涛，千尺崔嵬，砉然欲惊。似灵妃顾笑，神鱼进舞。冯夷击鼓，白马来迎。伍相鸱夷，钱王羽箭，怒气强于十万兵。峥嵘甚，讶雪山中断，银汉西倾。  
+> 孤舟铁笛风清，待万里乘槎问客星。叹鲸鲵未翦，戈船满岸。蟾蜍正吐，歌管倾城。狎浪儿童，横江士女，笑指渔翁一叶轻。谁知道，是观潮枚叟，论水庄生。
 
 ---
 
@@ -86,7 +85,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-10** | 21 天 | 21 篇 | 21 条 | 21 首 | 15 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
+| **2026-10** | 22 天 | 22 篇 | 22 条 | 22 首 | 16 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
 | **2026-07** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-07 归档](archives/2026-07.md) |
