@@ -636,5 +636,38 @@
         "秋"
       ]
     }
+  },
+  "2026-10-23": {
+    "date": "2026-10-23",
+    "quote": {
+      "english": "Frost is coming, yet the persimmons hang like lanterns.",
+      "chinese": "霜要来了，柿子却像灯笼一样挂着。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/edb26fb46528bc1f842166f1a139f884.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/fc13403a27776ed65561757c05fbc99a.png"
+    },
+    "bing": {
+      "title": "荒野伙伴",
+      "story": "两只灰狼，黄石国家公园，怀俄明州，美国",
+      "author": "© John Morrison/Getty Images",
+      "copyright": "两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "听着不能下载的音乐，爱着回不来的人。",
+      "from": "网易云音乐",
+      "from_who": "大超哥帅炸天",
+      "category": "网易云"
+    },
+    "poem": {
+      "title": "水调歌头·亭皋木叶下",
+      "dynasty": "宋代",
+      "author": "蔡伸",
+      "content": "亭皋木叶下，原隰菊花黄。凭高满眼秋意，时节近重阳。追想彭门往岁，千骑云屯平野，高宴古球场。吊古论兴废，看剑引杯长。\n感流年，思往事，重凄凉。当时坐间英俊，强半已凋亡。慨念平生豪放，自笑如今霜鬓，漂泊水云乡。已矣功名志，此意付清觞。",
+      "summary": "凭高满眼秋意，时节近重阳。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }

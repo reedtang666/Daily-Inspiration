@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-333_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-331_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月十三-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--10--22-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-334_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-332_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月十四-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--10--23-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,24 +20,24 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-10-22 · 星期四 · 丙午马年 九月十三
+### 🗓️ 2026-10-23 · 星期五 · 丙午马年 九月十四 &nbsp;`🌿 霜降`
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_1920x1080.jpg" alt="静水映斑斓 (2026-10-22)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_1920x1080.jpg" alt="荒野伙伴 (2026-10-23)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 静水映斑斓**
+**📍 荒野伙伴**
 
-> 内藏山国立公园的秋景，韩国
+> 两只灰狼，黄石国家公园，怀俄明州，美国
 
-📷 *© Twenty47studio/Getty Images*
+📷 *© John Morrison/Getty Images*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg)
 
 </td>
 </tr>
@@ -49,33 +49,33 @@
 <tr>
 <td width="65%" valign="middle">
 
-> **Rain on the roof is the sky's lullaby.**
+> **Frost is coming, yet the persimmons hang like lanterns.**
 >
-> 雨打屋檐，是天空的摇篮曲。
+> 霜要来了，柿子却像灯笼一样挂着。
 
-[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/1e5acb8d1f0abd25c2644a5477caa9fe.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/2ad70a8851d8c2de4ffae01563624770.png)
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/edb26fb46528bc1f842166f1a139f884.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/fc13403a27776ed65561757c05fbc99a.png)
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="https://staticedu-wps-cache.iciba.com/image/2ad70a8851d8c2de4ffae01563624770.png" alt="每日一句 (2026-10-22)" width="240" />
+<img src="https://staticedu-wps-cache.iciba.com/image/fc13403a27776ed65561757c05fbc99a.png" alt="每日一句 (2026-10-23)" width="240" />
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `机灵`
+#### 💬 每日一言 `网易云`
 
-> 「 实变函数学十遍，泛函学完心泛寒。 」
+> 「 听着不能下载的音乐，爱着回不来的人。 」
 >
-> <p align="right">—— 《数学系名言》</p>
+> <p align="right">—— 大超哥帅炸天 · 《网易云音乐》</p>
 
 #### 📜 每日诗词 &nbsp;`#秋`
 
-**《沁园春·观潮》** · 〔清代〕吴伟业
+**《水调歌头·亭皋木叶下》** · 〔宋代〕蔡伸
 
-✨ **名句摘录**：「 *八月奔涛，千尺崔嵬，砉然欲惊。* 」
+✨ **名句摘录**：「 *凭高满眼秋意，时节近重阳。* 」
 
-> 八月奔涛，千尺崔嵬，砉然欲惊。似灵妃顾笑，神鱼进舞。冯夷击鼓，白马来迎。伍相鸱夷，钱王羽箭，怒气强于十万兵。峥嵘甚，讶雪山中断，银汉西倾。  
-> 孤舟铁笛风清，待万里乘槎问客星。叹鲸鲵未翦，戈船满岸。蟾蜍正吐，歌管倾城。狎浪儿童，横江士女，笑指渔翁一叶轻。谁知道，是观潮枚叟，论水庄生。
+> 亭皋木叶下，原隰菊花黄。凭高满眼秋意，时节近重阳。追想彭门往岁，千骑云屯平野，高宴古球场。吊古论兴废，看剑引杯长。  
+> 感流年，思往事，重凄凉。当时坐间英俊，强半已凋亡。慨念平生豪放，自笑如今霜鬓，漂泊水云乡。已矣功名志，此意付清觞。
 
 ---
 
@@ -85,7 +85,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-10** | 22 天 | 22 篇 | 22 条 | 22 首 | 16 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
+| **2026-10** | 23 天 | 23 篇 | 23 条 | 23 首 | 17 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
 | **2026-07** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-07 归档](archives/2026-07.md) |
