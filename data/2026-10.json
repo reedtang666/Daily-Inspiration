@@ -669,5 +669,38 @@
         "秋"
       ]
     }
+  },
+  "2026-10-24": {
+    "date": "2026-10-24",
+    "quote": {
+      "english": "Grow through what you go through.",
+      "chinese": "穿越困境，得以成长。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/21d6eb85fe5ff09168733cfe01602319.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/2f057b0fe97b2fbe798d8c642dc5d9ad.png"
+    },
+    "bing": {
+      "title": "书香里的极致华美",
+      "story": "皇家葡萄牙语阅览室，里约热内卢，巴西",
+      "author": "© Antonio Salaverry/Shutterstock",
+      "copyright": "皇家葡萄牙语阅览室，里约热内卢，巴西 (© Antonio Salaverry/Shutterstock)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "要成为光，因为有怕黑的人。",
+      "from": "现实",
+      "from_who": "",
+      "category": "网络"
+    },
+    "poem": {
+      "title": "丹阳送韦参军",
+      "dynasty": "唐代",
+      "author": "严维",
+      "content": "丹阳郭里送行舟，一别心知两地秋。\n日晚江南望江北，寒鸦飞尽水悠悠。",
+      "summary": "丹阳郭里送行舟，一别心知两地秋。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }

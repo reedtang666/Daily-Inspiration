@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-334_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-332_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月十四-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--10--23-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-335_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-333_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月十五-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--10--24-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,24 +20,24 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-10-23 · 星期五 · 丙午马年 九月十四 &nbsp;`🌿 霜降`
+### 🗓️ 2026-10-24 · 星期六 · 丙午马年 九月十五 &nbsp;`💻 程序员节`
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_1920x1080.jpg" alt="荒野伙伴 (2026-10-23)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_1920x1080.jpg" alt="书香里的极致华美 (2026-10-24)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 荒野伙伴**
+**📍 书香里的极致华美**
 
-> 两只灰狼，黄石国家公园，怀俄明州，美国
+> 皇家葡萄牙语阅览室，里约热内卢，巴西
 
-📷 *© John Morrison/Getty Images*
+📷 *© Antonio Salaverry/Shutterstock*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg)
 
 </td>
 </tr>
@@ -49,33 +49,33 @@
 <tr>
 <td width="65%" valign="middle">
 
-> **Frost is coming, yet the persimmons hang like lanterns.**
+> **Grow through what you go through.**
 >
-> 霜要来了，柿子却像灯笼一样挂着。
+> 穿越困境，得以成长。
 
-[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/edb26fb46528bc1f842166f1a139f884.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/fc13403a27776ed65561757c05fbc99a.png)
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/21d6eb85fe5ff09168733cfe01602319.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/2f057b0fe97b2fbe798d8c642dc5d9ad.png)
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="https://staticedu-wps-cache.iciba.com/image/fc13403a27776ed65561757c05fbc99a.png" alt="每日一句 (2026-10-23)" width="240" />
+<img src="https://staticedu-wps-cache.iciba.com/image/2f057b0fe97b2fbe798d8c642dc5d9ad.png" alt="每日一句 (2026-10-24)" width="240" />
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `网易云`
+#### 💬 每日一言 `网络`
 
-> 「 听着不能下载的音乐，爱着回不来的人。 」
+> 「 要成为光，因为有怕黑的人。 」
 >
-> <p align="right">—— 大超哥帅炸天 · 《网易云音乐》</p>
+> <p align="right">—— 《现实》</p>
 
 #### 📜 每日诗词 &nbsp;`#秋`
 
-**《水调歌头·亭皋木叶下》** · 〔宋代〕蔡伸
+**《丹阳送韦参军》** · 〔唐代〕严维
 
-✨ **名句摘录**：「 *凭高满眼秋意，时节近重阳。* 」
+✨ **名句摘录**：「 *丹阳郭里送行舟，一别心知两地秋。* 」
 
-> 亭皋木叶下，原隰菊花黄。凭高满眼秋意，时节近重阳。追想彭门往岁，千骑云屯平野，高宴古球场。吊古论兴废，看剑引杯长。  
-> 感流年，思往事，重凄凉。当时坐间英俊，强半已凋亡。慨念平生豪放，自笑如今霜鬓，漂泊水云乡。已矣功名志，此意付清觞。
+> 丹阳郭里送行舟，一别心知两地秋。  
+> 日晚江南望江北，寒鸦飞尽水悠悠。
 
 ---
 
@@ -85,7 +85,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-10** | 23 天 | 23 篇 | 23 条 | 23 首 | 17 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
+| **2026-10** | 24 天 | 24 篇 | 24 条 | 24 首 | 18 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
 | **2026-07** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-07 归档](archives/2026-07.md) |
