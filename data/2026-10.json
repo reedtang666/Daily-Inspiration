@@ -702,5 +702,38 @@
         "秋"
       ]
     }
+  },
+  "2026-10-25": {
+    "date": "2026-10-25",
+    "quote": {
+      "english": "Patience is bitter, but its fruit is sweet.",
+      "chinese": "忍耐是苦涩的，但它的果实是甜的。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/1ac3e70f1deb7964a7ace86b0e6a7d1f.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/24719247d314d74d45401fae69a16e02.png"
+    },
+    "bing": {
+      "title": "群峰与宁静相遇之地",
+      "story": "玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大",
+      "author": "© Andrey Popov/Getty Images",
+      "copyright": "玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大 (© Andrey Popov/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "高贵者最愚蠢，卑贱者最聪明！",
+      "from": "毛泽东",
+      "from_who": "毛泽东",
+      "category": "文学"
+    },
+    "poem": {
+      "title": "念奴娇·闹红一舸",
+      "dynasty": "宋代",
+      "author": "姜夔",
+      "content": "余客武陵。湖北宪治在焉：古城野水，乔木参天。余与二三友，日荡舟其间。薄荷花而饮，意象幽闲，不类人境。秋水且涸。荷叶出地寻丈，因列坐其下，上不见日。清风徐来，绿云自动。间于疏处，窥见游人画船，亦一乐也。朅来吴兴。数得相羊荷花中，又夜泛西湖，光景奇绝。故以此句写之。\n闹红一舸，记来时，尝与鸳鸯为侣，三十六陂人未到，水佩风裳无数。翠叶吹凉，玉容消酒，更洒菇蒲雨。嫣然摇动，冷香飞上诗句。\n日暮，青盖亭亭，情人不见，争忍凌波去？只恐舞衣寒易落，愁人西风南浦。高柳垂阴，老鱼吹浪，留我花间住。田田多少，几回沙际归路。",
+      "summary": "高柳垂阴，老鱼吹浪，留我花间住。",
+      "tags": [
+        "白天"
+      ]
+    }
   }
 }

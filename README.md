@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-335_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-333_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月十五-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--10--24-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-336_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-334_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月十六-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--10--25-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,24 +20,24 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-10-24 · 星期六 · 丙午马年 九月十五 &nbsp;`💻 程序员节`
+### 🗓️ 2026-10-25 · 星期日 · 丙午马年 九月十六
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_1920x1080.jpg" alt="书香里的极致华美 (2026-10-24)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_1920x1080.jpg" alt="群峰与宁静相遇之地 (2026-10-25)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 书香里的极致华美**
+**📍 群峰与宁静相遇之地**
 
-> 皇家葡萄牙语阅览室，里约热内卢，巴西
+> 玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大
 
-📷 *© Antonio Salaverry/Shutterstock*
+📷 *© Andrey Popov/Getty Images*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg)
 
 </td>
 </tr>
@@ -49,33 +49,34 @@
 <tr>
 <td width="65%" valign="middle">
 
-> **Grow through what you go through.**
+> **Patience is bitter, but its fruit is sweet.**
 >
-> 穿越困境，得以成长。
+> 忍耐是苦涩的，但它的果实是甜的。
 
-[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/21d6eb85fe5ff09168733cfe01602319.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/2f057b0fe97b2fbe798d8c642dc5d9ad.png)
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/1ac3e70f1deb7964a7ace86b0e6a7d1f.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/24719247d314d74d45401fae69a16e02.png)
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="https://staticedu-wps-cache.iciba.com/image/2f057b0fe97b2fbe798d8c642dc5d9ad.png" alt="每日一句 (2026-10-24)" width="240" />
+<img src="https://staticedu-wps-cache.iciba.com/image/24719247d314d74d45401fae69a16e02.png" alt="每日一句 (2026-10-25)" width="240" />
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `网络`
+#### 💬 每日一言 `文学`
 
-> 「 要成为光，因为有怕黑的人。 」
+> 「 高贵者最愚蠢，卑贱者最聪明！ 」
 >
-> <p align="right">—— 《现实》</p>
+> <p align="right">—— 毛泽东 · 《毛泽东》</p>
 
-#### 📜 每日诗词 &nbsp;`#秋`
+#### 📜 每日诗词 &nbsp;`#白天`
 
-**《丹阳送韦参军》** · 〔唐代〕严维
+**《念奴娇·闹红一舸》** · 〔宋代〕姜夔
 
-✨ **名句摘录**：「 *丹阳郭里送行舟，一别心知两地秋。* 」
+✨ **名句摘录**：「 *高柳垂阴，老鱼吹浪，留我花间住。* 」
 
-> 丹阳郭里送行舟，一别心知两地秋。  
-> 日晚江南望江北，寒鸦飞尽水悠悠。
+> 余客武陵。湖北宪治在焉：古城野水，乔木参天。余与二三友，日荡舟其间。薄荷花而饮，意象幽闲，不类人境。秋水且涸。荷叶出地寻丈，因列坐其下，上不见日。清风徐来，绿云自动。间于疏处，窥见游人画船，亦一乐也。朅来吴兴。数得相羊荷花中，又夜泛西湖，光景奇绝。故以此句写之。  
+> 闹红一舸，记来时，尝与鸳鸯为侣，三十六陂人未到，水佩风裳无数。翠叶吹凉，玉容消酒，更洒菇蒲雨。嫣然摇动，冷香飞上诗句。  
+> 日暮，青盖亭亭，情人不见，争忍凌波去？只恐舞衣寒易落，愁人西风南浦。高柳垂阴，老鱼吹浪，留我花间住。田田多少，几回沙际归路。
 
 ---
 
@@ -85,7 +86,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-10** | 24 天 | 24 篇 | 24 条 | 24 首 | 18 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
+| **2026-10** | 25 天 | 25 篇 | 25 条 | 25 首 | 19 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
 | **2026-07** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-07 归档](archives/2026-07.md) |
