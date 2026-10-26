@@ -735,5 +735,38 @@
         "白天"
       ]
     }
+  },
+  "2026-10-26": {
+    "date": "2026-10-26",
+    "quote": {
+      "english": "Old streets hold the warmest stories.",
+      "chinese": "老街藏着最暖的故事。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/db85c32078b84e43ffbe5282b1322441.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/ad7bcd4a26cf340218b241f7b26e2930.png"
+    },
+    "bing": {
+      "title": "大自然的秋日乐章",
+      "story": "秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚",
+      "author": "© Nadya85/Getty Images",
+      "copyright": "秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚 (© Nadya85/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "猫是可爱的，狼是很帅的。就是说，孤独又可爱又帅。",
+      "from": "我的青春恋爱物语果然有问题",
+      "from_who": "",
+      "category": "漫画"
+    },
+    "poem": {
+      "title": "江神子·杏花村馆酒旗风",
+      "dynasty": "宋代",
+      "author": "谢逸",
+      "content": "杏花村馆酒旗风。水溶溶。扬残红。野渡舟横，杨柳绿阴浓。望断江南山色远，人不见，草连空。\n夕阳楼外晚烟笼。粉香融。淡眉峰。记得年时，相见画屏中。只有关山今夜月，千里外，素光同。",
+      "summary": "野渡舟横，杨柳绿阴浓。",
+      "tags": [
+        "白天"
+      ]
+    }
   }
 }
