@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-337_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-335_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月十七-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--10--26-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-338_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-336_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月十八-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--10--27-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,24 +20,24 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-10-26 · 星期一 · 丙午马年 九月十七
+### 🗓️ 2026-10-27 · 星期二 · 丙午马年 九月十八
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_1920x1080.jpg" alt="大自然的秋日乐章 (2026-10-26)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_1920x1080.jpg" alt="大自然的金色明镜 (2026-10-27)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 大自然的秋日乐章**
+**📍 大自然的金色明镜**
 
-> 秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚
+> 秋叶缤纷的池杉林，乔治亚州，美国
 
-📷 *© Nadya85/Getty Images*
+📷 *© Chris Moore/Getty Images*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg)
 
 </td>
 </tr>
@@ -49,33 +49,33 @@
 <tr>
 <td width="65%" valign="middle">
 
-> **Old streets hold the warmest stories.**
+> **You are allowed to be both strong and tired.**
 >
-> 老街藏着最暖的故事。
+> 你可以同时坚强，也可以疲惫。
 
-[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/db85c32078b84e43ffbe5282b1322441.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/ad7bcd4a26cf340218b241f7b26e2930.png)
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/26cc0c45fd44363a9c8cf13b6eb22c1f.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/f9576d5b071907e112d4f4e28e5c41bf.png)
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="https://staticedu-wps-cache.iciba.com/image/ad7bcd4a26cf340218b241f7b26e2930.png" alt="每日一句 (2026-10-26)" width="240" />
+<img src="https://staticedu-wps-cache.iciba.com/image/f9576d5b071907e112d4f4e28e5c41bf.png" alt="每日一句 (2026-10-27)" width="240" />
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `漫画`
+#### 💬 每日一言 `影视`
 
-> 「 猫是可爱的，狼是很帅的。就是说，孤独又可爱又帅。 」
+> 「 远离亲人，我很遗憾，但这是我不得不做的事情。 」
 >
-> <p align="right">—— 《我的青春恋爱物语果然有问题》</p>
+> <p align="right">—— 刘培强 · 《流浪地球2》</p>
 
-#### 📜 每日诗词 &nbsp;`#白天`
+#### 📜 每日诗词 &nbsp;`#秋`
 
-**《江神子·杏花村馆酒旗风》** · 〔宋代〕谢逸
+**《西江月·世事一场大梦》** · 〔宋代〕苏轼
 
-✨ **名句摘录**：「 *野渡舟横，杨柳绿阴浓。* 」
+✨ **名句摘录**：「 *世事一场大梦，人生几度秋凉？* 」
 
-> 杏花村馆酒旗风。水溶溶。扬残红。野渡舟横，杨柳绿阴浓。望断江南山色远，人不见，草连空。  
-> 夕阳楼外晚烟笼。粉香融。淡眉峰。记得年时，相见画屏中。只有关山今夜月，千里外，素光同。
+> 世事一场大梦，人生几度秋凉？夜来风叶已鸣廊。看取眉头鬓上。  
+> 酒贱常愁客少，月明多被云妨。中秋谁与共孤光。把盏凄然北望。
 
 ---
 
@@ -85,7 +85,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-10** | 26 天 | 26 篇 | 26 条 | 26 首 | 20 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
+| **2026-10** | 27 天 | 27 篇 | 27 条 | 27 首 | 21 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
 | **2026-07** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-07 归档](archives/2026-07.md) |
