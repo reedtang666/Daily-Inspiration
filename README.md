@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-338_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-336_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月十八-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--10--27-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-339_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-337_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月十九-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--10--28-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,62 +20,43 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-10-27 · 星期二 · 丙午马年 九月十八
+### 🗓️ 2026-10-28 · 星期三 · 丙午马年 九月十九
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_1920x1080.jpg" alt="大自然的金色明镜 (2026-10-27)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_1920x1080.jpg" alt="历史守望之地 (2026-10-28)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 大自然的金色明镜**
+**📍 历史守望之地**
 
-> 秋叶缤纷的池杉林，乔治亚州，美国
+> 库涅季采山城堡，波希米亚，捷克
 
-📷 *© Chris Moore/Getty Images*
+📷 *© Marek Saroch/Alamy*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg)
 
 </td>
 </tr>
 </table>
 
-#### 📚 每日一句
+#### 💬 每日一言 `动画`
 
-<table>
-<tr>
-<td width="65%" valign="middle">
-
-> **You are allowed to be both strong and tired.**
+> 「 春は、降り積もる雪の下にて結われ、芽吹き始める。 」
 >
-> 你可以同时坚强，也可以疲惫。
-
-[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/26cc0c45fd44363a9c8cf13b6eb22c1f.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/f9576d5b071907e112d4f4e28e5c41bf.png)
-
-</td>
-<td width="35%" align="center" valign="middle">
-<img src="https://staticedu-wps-cache.iciba.com/image/f9576d5b071907e112d4f4e28e5c41bf.png" alt="每日一句 (2026-10-27)" width="240" />
-</td>
-</tr>
-</table>
-
-#### 💬 每日一言 `影视`
-
-> 「 远离亲人，我很遗憾，但这是我不得不做的事情。 」
->
-> <p align="right">—— 刘培强 · 《流浪地球2》</p>
+> <p align="right">—— 《我的青春恋爱物语果然有问题》</p>
 
 #### 📜 每日诗词 &nbsp;`#秋`
 
-**《西江月·世事一场大梦》** · 〔宋代〕苏轼
+**《行香子》** · 〔宋代〕赵师侠
 
-✨ **名句摘录**：「 *世事一场大梦，人生几度秋凉？* 」
+✨ **名句摘录**：「 *更秋千、红索垂垂。* 」
 
-> 世事一场大梦，人生几度秋凉？夜来风叶已鸣廊。看取眉头鬓上。  
-> 酒贱常愁客少，月明多被云妨。中秋谁与共孤光。把盏凄然北望。
+> 春日迟迟。春景熙熙。渐郊原、芳草萋萋。夭桃灼灼，杨柳依依。见燕喃喃，蜂簇簇，蝶飞飞。  
+> 闲庭寂寂，曲沼漪漪。更秋千、红索垂垂。游人队队，乐意嬉嬉。尽醉醺醺，歌缓缓，语低低。
 
 ---
 
@@ -85,7 +66,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-10** | 27 天 | 27 篇 | 27 条 | 27 首 | 21 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
+| **2026-10** | 28 天 | 27 篇 | 28 条 | 28 首 | 22 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
 | **2026-07** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-07 归档](archives/2026-07.md) |
