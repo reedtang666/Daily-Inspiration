@@ -829,5 +829,33 @@
         "秋"
       ]
     }
+  },
+  "2026-10-29": {
+    "date": "2026-10-29",
+    "quote": null,
+    "bing": {
+      "title": "薄雾邂逅千年时光",
+      "story": "立石，埃夫伯里，威尔特郡，英格兰",
+      "author": "© George W Johnson/Getty Images",
+      "copyright": "立石，埃夫伯里，威尔特郡，英格兰 (© George W Johnson/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "眼睛可以近视，目光不能短浅。",
+      "from": "互联网",
+      "from_who": "佚名",
+      "category": "网络"
+    },
+    "poem": {
+      "title": "蝶恋花·春暮",
+      "dynasty": "五代",
+      "author": "李煜",
+      "content": "遥夜亭皋闲信步。才过清明，渐觉伤春暮。数点雨声风约住。朦胧淡月云来去。\n桃杏依稀香暗渡。谁在秋千，笑里轻轻语。一寸相思千万绪。人间没个安排处。",
+      "summary": "谁在秋千，笑里轻轻语。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }
