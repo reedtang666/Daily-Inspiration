@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-340_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-338_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月二十-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--10--29-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-341_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-339_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月廿一-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--10--30-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,43 +20,71 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-10-29 · 星期四 · 丙午马年 九月二十
+### 🗓️ 2026-10-30 · 星期五 · 丙午马年 九月廿一
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_1920x1080.jpg" alt="薄雾邂逅千年时光 (2026-10-29)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_1920x1080.jpg" alt="展翅高飞的时节 (2026-10-30)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 薄雾邂逅千年时光**
+**📍 展翅高飞的时节**
 
-> 立石，埃夫伯里，威尔特郡，英格兰
+> 沙丘鹤，博斯克德尔阿帕奇国家野生动物保护区，新墨西哥州，美国
 
-📷 *© George W Johnson/Getty Images*
+📷 *© Terry St.Louis/Getty Images*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_UHD.jpg)
 
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `网络`
+#### 💬 每日一言 `文学`
 
-> 「 眼睛可以近视，目光不能短浅。 」
+> 「 空不是无，空是一种存在，你得用空这种存在填满自己。 」
 >
-> <p align="right">—— 佚名 · 《互联网》</p>
+> <p align="right">—— 刘慈欣 · 《三体I: 地球往事》</p>
 
 #### 📜 每日诗词 &nbsp;`#秋`
 
-**《蝶恋花·春暮》** · 〔五代〕李煜
+**《塞下曲六首》** · 〔唐代〕李白
 
-✨ **名句摘录**：「 *谁在秋千，笑里轻轻语。* 」
+✨ **名句摘录**：「 *塞虏乘秋下，天兵出汉家。* 」
 
-> 遥夜亭皋闲信步。才过清明，渐觉伤春暮。数点雨声风约住。朦胧淡月云来去。  
-> 桃杏依稀香暗渡。谁在秋千，笑里轻轻语。一寸相思千万绪。人间没个安排处。
+> 五月天山雪，无花只有寒。  
+> 笛中闻折柳，春色未曾看。  
+> 晓战随金鼓，宵眠抱玉鞍。  
+> 愿将腰下剑，直为斩楼兰。  
+> 天兵下北荒，胡马欲南饮。  
+> 横戈从百战，直为衔恩甚。  
+
+<details><summary>📖 展开阅读余下 19 句（全诗共 25 句）</summary>
+
+> 握雪海上餐，拂沙陇头寝。  
+> 何当破月氏，然后方高枕。  
+> 骏马似风飙，鸣鞭出渭桥。  
+> 弯弓辞汉月，插羽破天骄。  
+> 阵解星芒尽，营空海雾消。  
+> 功成画麟阁，独有霍嫖姚。  
+> 白马黄金塞，云砂绕梦思。  
+> 那堪愁苦节，远忆边城儿。  
+> 萤飞秋窗满，月度霜闺迟。  
+> 摧残梧桐叶，萧飒沙棠枝。  
+> 无时独不见，流泪空自知。  
+> 塞虏乘秋下，天兵出汉家。  
+> 将军分虎竹，战士卧龙沙。  
+> 边月随弓影，胡霜拂剑花。  
+> 玉关殊未入，少妇莫长嗟。  
+> 烽火动沙漠，连照甘泉云。  
+> 汉皇按剑起，还召李将军。  
+> 兵气天上合，鼓声陇底闻。  
+> 横行负勇气，一战净妖氛。  
+
+</details>
 
 ---
 
@@ -66,7 +94,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-10** | 29 天 | 27 篇 | 29 条 | 29 首 | 23 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
+| **2026-10** | 30 天 | 27 篇 | 30 条 | 30 首 | 24 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
 | **2026-07** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-07 归档](archives/2026-07.md) |
