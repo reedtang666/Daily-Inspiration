@@ -885,5 +885,33 @@
         "秋"
       ]
     }
+  },
+  "2026-10-31": {
+    "date": "2026-10-31",
+    "quote": null,
+    "bing": {
+      "title": "往昔帝国的幽影",
+      "story": "圣巴尔多禄茂教堂，法兰克福，德国",
+      "author": "© AlxeyPnferov/Getty Images",
+      "copyright": "圣巴尔多禄茂教堂，法兰克福，德国 (© AlxeyPnferov/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "点亮星火，眺望未来。",
+      "from": "星火集",
+      "from_who": "点亮星火",
+      "category": "原创"
+    },
+    "poem": {
+      "title": "九月九日登玄武山 / 九月九日玄武山旅眺",
+      "dynasty": "唐代",
+      "author": "卢照邻",
+      "content": "九月九日眺山川，归心归望积风烟。\n他乡共酌金花酒，万里同悲鸿雁天。",
+      "summary": "九月九日眺山川，归心归望积风烟。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }
