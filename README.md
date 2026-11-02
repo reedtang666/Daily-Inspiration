@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-343_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-341_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月廿三-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--01-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-344_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-342_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月廿四-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--02-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,45 +20,45 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-11-01 · 星期日 · 丙午马年 九月廿三
+### 🗓️ 2026-11-02 · 星期一 · 丙午马年 九月廿四
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_1920x1080.jpg" alt="林间迷雾 (2026-11-01)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_1920x1080.jpg" alt="写在冰上的未来 (2026-11-02)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 林间迷雾**
+**📍 写在冰上的未来**
 
-> 黑森林，巴登-符腾堡州，德国
+> 北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大
 
-📷 *© Britus/Getty Images*
+📷 *© Danita Delimont/Adobe Stock*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg)
 
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `动画`
+#### 💬 每日一言 `原创`
 
-> 「 真正的危机不是机器人像人一样思考，而是人像机器一样思考。 」
+> 「 清潇薄暮雨，半烛下莲舟。蝉鸣微月影，独赏醉难求。 」
 >
-> <p align="right">—— 《凉宫春日的忧郁》</p>
+> <p align="right">—— 月雩 · 《月下雨》</p>
 
 #### 📜 每日诗词 &nbsp;`#秋`
 
-**《莺啼序·荷和赵修全韵》** · 〔宋代〕吴文英
+**《太原早秋》** · 〔唐代〕李白
 
-✨ **名句摘录**：「 *怕因循，罗扇恩疏，又生秋意。* 」
+✨ **名句摘录**：「 *霜威出塞早，云色渡河秋。* 」
 
-> 横塘棹穿艳锦，引鸳鸯弄水。断霞晚、笑折花归，绀纱低护灯蕊。润玉瘦、冰轻倦浴，斜拕凤股盘云坠。听银床声细。梧桐渐搅凉思。  
-> 窗隙流光，冉冉迅羽，诉空梁燕子。误惊起、风竹敲门，故人还又不至。记琅玕、新诗细掐，早陈迹、香痕纤指。怕因循，罗扇恩疏，又生秋意。  
-> 西湖旧日，画舸频移，叹几萦梦寐。霞佩冷，叠澜不定，麝霭飞雨，乍湿鲛绡，暗盛红泪。綀单夜共，波心宿处，琼箫吹月霓裳舞，向明朝、未觉花容悴。嫣香易落，回头澹碧锁烟，镜空画罗屏里。  
-> 残蝉度曲，唱彻西园，也感红怨翠。念省惯、吴宫幽憩。暗柳追凉，晓岸参斜，露零沤起。丝萦寸藕，留连欢事。桃笙平展湘浪影，有昭华、秾李冰相倚。如今鬓点凄霜，半箧秋词，恨盈蠹纸。
+> 岁落众芳歇，时当大火流。  
+> 霜威出塞早，云色渡河秋。  
+> 梦绕边城月，心飞故国楼。  
+> 思归若汾水，无日不悠悠。
 
 ---
 
@@ -68,7 +68,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 1 天 | 0 篇 | 1 条 | 1 首 | 1 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 2 天 | 0 篇 | 2 条 | 2 首 | 2 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |

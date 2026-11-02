@@ -26,5 +26,33 @@
         "秋"
       ]
     }
+  },
+  "2026-11-02": {
+    "date": "2026-11-02",
+    "quote": null,
+    "bing": {
+      "title": "写在冰上的未来",
+      "story": "北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大",
+      "author": "© Danita Delimont/Adobe Stock",
+      "copyright": "北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大 (© Danita Delimont/Adobe Stock)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "清潇薄暮雨，半烛下莲舟。蝉鸣微月影，独赏醉难求。",
+      "from": "月下雨",
+      "from_who": "月雩",
+      "category": "原创"
+    },
+    "poem": {
+      "title": "太原早秋",
+      "dynasty": "唐代",
+      "author": "李白",
+      "content": "岁落众芳歇，时当大火流。\n霜威出塞早，云色渡河秋。\n梦绕边城月，心飞故国楼。\n思归若汾水，无日不悠悠。",
+      "summary": "霜威出塞早，云色渡河秋。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }
