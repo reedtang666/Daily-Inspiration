@@ -54,5 +54,33 @@
         "秋"
       ]
     }
+  },
+  "2026-11-03": {
+    "date": "2026-11-03",
+    "quote": null,
+    "bing": {
+      "title": "群峰间的宁静",
+      "story": "布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利",
+      "author": "© leonid_tit/Getty Images",
+      "copyright": "布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利 (© leonid_tit/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "幸运的人一生都在被童年治愈，不幸的人一生都在治愈童年。",
+      "from": "阿尔弗雷德·阿德勒",
+      "from_who": "",
+      "category": "哲学"
+    },
+    "poem": {
+      "title": "减字木兰花·相逢不语",
+      "dynasty": "清代",
+      "author": "纳兰性德",
+      "content": "相逢不语，一朵芙蓉著秋雨。小晕红潮，斜溜鬟心只凤翘。\n待将低唤，直为凝情恐人见。欲诉幽怀，转过回阑叩玉钗。",
+      "summary": "相逢不语，一朵芙蓉著秋雨。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }

@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-344_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-342_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月廿四-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--02-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-345_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-343_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月廿五-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--03-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,45 +20,43 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-11-02 · 星期一 · 丙午马年 九月廿四
+### 🗓️ 2026-11-03 · 星期二 · 丙午马年 九月廿五
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_1920x1080.jpg" alt="写在冰上的未来 (2026-11-02)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_1920x1080.jpg" alt="群峰间的宁静 (2026-11-03)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 写在冰上的未来**
+**📍 群峰间的宁静**
 
-> 北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大
+> 布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利
 
-📷 *© Danita Delimont/Adobe Stock*
+📷 *© leonid_tit/Getty Images*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg)
 
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `原创`
+#### 💬 每日一言 `哲学`
 
-> 「 清潇薄暮雨，半烛下莲舟。蝉鸣微月影，独赏醉难求。 」
+> 「 幸运的人一生都在被童年治愈，不幸的人一生都在治愈童年。 」
 >
-> <p align="right">—— 月雩 · 《月下雨》</p>
+> <p align="right">—— 《阿尔弗雷德·阿德勒》</p>
 
 #### 📜 每日诗词 &nbsp;`#秋`
 
-**《太原早秋》** · 〔唐代〕李白
+**《减字木兰花·相逢不语》** · 〔清代〕纳兰性德
 
-✨ **名句摘录**：「 *霜威出塞早，云色渡河秋。* 」
+✨ **名句摘录**：「 *相逢不语，一朵芙蓉著秋雨。* 」
 
-> 岁落众芳歇，时当大火流。  
-> 霜威出塞早，云色渡河秋。  
-> 梦绕边城月，心飞故国楼。  
-> 思归若汾水，无日不悠悠。
+> 相逢不语，一朵芙蓉著秋雨。小晕红潮，斜溜鬟心只凤翘。  
+> 待将低唤，直为凝情恐人见。欲诉幽怀，转过回阑叩玉钗。
 
 ---
 
@@ -68,7 +66,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 2 天 | 0 篇 | 2 条 | 2 首 | 2 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 3 天 | 0 篇 | 3 条 | 3 首 | 3 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
