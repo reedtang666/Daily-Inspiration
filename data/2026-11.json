@@ -82,5 +82,33 @@
         "秋"
       ]
     }
+  },
+  "2026-11-04": {
+    "date": "2026-11-04",
+    "quote": null,
+    "bing": {
+      "title": "泛舟如画秋林",
+      "story": "五彩落羽杉间划船的人们，宣城，安徽省，中国",
+      "author": "© Jackal Pan/Getty Images",
+      "copyright": "五彩落羽杉间划船的人们，宣城，安徽省，中国 (© Jackal Pan/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "取法于上，仅得为中；取法于中，故为其下。",
+      "from": "每日一习话",
+      "from_who": "",
+      "category": "哲学"
+    },
+    "poem": {
+      "title": "清平乐",
+      "dynasty": "宋代",
+      "author": "晏殊",
+      "content": "秋光向晚，小阁初开宴。林叶殷红犹未遍。雨后青苔满院。\n萧娘劝我金卮。殷勤更唱新词。暮去朝来即老，人生不饮何为。",
+      "summary": "秋光向晚，小阁初开宴。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }

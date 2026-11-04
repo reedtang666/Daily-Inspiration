@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-345_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-343_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月廿五-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--03-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-346_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-344_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月廿六-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--04-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,24 +20,24 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-11-03 · 星期二 · 丙午马年 九月廿五
+### 🗓️ 2026-11-04 · 星期三 · 丙午马年 九月廿六
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_1920x1080.jpg" alt="群峰间的宁静 (2026-11-03)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_1920x1080.jpg" alt="泛舟如画秋林 (2026-11-04)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 群峰间的宁静**
+**📍 泛舟如画秋林**
 
-> 布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利
+> 五彩落羽杉间划船的人们，宣城，安徽省，中国
 
-📷 *© leonid_tit/Getty Images*
+📷 *© Jackal Pan/Getty Images*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg)
 
 </td>
 </tr>
@@ -45,18 +45,18 @@
 
 #### 💬 每日一言 `哲学`
 
-> 「 幸运的人一生都在被童年治愈，不幸的人一生都在治愈童年。 」
+> 「 取法于上，仅得为中；取法于中，故为其下。 」
 >
-> <p align="right">—— 《阿尔弗雷德·阿德勒》</p>
+> <p align="right">—— 《每日一习话》</p>
 
 #### 📜 每日诗词 &nbsp;`#秋`
 
-**《减字木兰花·相逢不语》** · 〔清代〕纳兰性德
+**《清平乐》** · 〔宋代〕晏殊
 
-✨ **名句摘录**：「 *相逢不语，一朵芙蓉著秋雨。* 」
+✨ **名句摘录**：「 *秋光向晚，小阁初开宴。* 」
 
-> 相逢不语，一朵芙蓉著秋雨。小晕红潮，斜溜鬟心只凤翘。  
-> 待将低唤，直为凝情恐人见。欲诉幽怀，转过回阑叩玉钗。
+> 秋光向晚，小阁初开宴。林叶殷红犹未遍。雨后青苔满院。  
+> 萧娘劝我金卮。殷勤更唱新词。暮去朝来即老，人生不饮何为。
 
 ---
 
@@ -66,7 +66,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 3 天 | 0 篇 | 3 条 | 3 首 | 3 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 4 天 | 0 篇 | 4 条 | 4 首 | 4 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
