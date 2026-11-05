@@ -110,5 +110,34 @@
         "秋"
       ]
     }
+  },
+  "2026-11-05": {
+    "date": "2026-11-05",
+    "quote": null,
+    "bing": {
+      "title": "向山巅再迈一步",
+      "story": "石墙边的木制翻越梯，黑岩，湖区，英格兰",
+      "author": "© Alex Treadway/Getty Images",
+      "copyright": "石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "世界观的转变是一个根本的转变。",
+      "from": "关于如何正确处理人民内部矛盾的问题",
+      "from_who": "毛泽东",
+      "category": "哲学"
+    },
+    "poem": {
+      "title": "南轩松",
+      "dynasty": "唐代",
+      "author": "李白",
+      "content": "南轩有孤松，柯叶自绵幂。\n清风无闲时，潇洒终日夕。\n阴生古苔绿，色染秋烟碧。\n何当凌云霄，直上数千尺。",
+      "summary": "阴生古苔绿，色染秋烟碧。",
+      "tags": [
+        "白天",
+        "秋"
+      ]
+    }
   }
 }

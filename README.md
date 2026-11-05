@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-346_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-344_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月廿六-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--04-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-347_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-345_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月廿七-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--05-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,24 +20,24 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-11-04 · 星期三 · 丙午马年 九月廿六
+### 🗓️ 2026-11-05 · 星期四 · 丙午马年 九月廿七
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_1920x1080.jpg" alt="泛舟如画秋林 (2026-11-04)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_1920x1080.jpg" alt="向山巅再迈一步 (2026-11-05)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 泛舟如画秋林**
+**📍 向山巅再迈一步**
 
-> 五彩落羽杉间划船的人们，宣城，安徽省，中国
+> 石墙边的木制翻越梯，黑岩，湖区，英格兰
 
-📷 *© Jackal Pan/Getty Images*
+📷 *© Alex Treadway/Getty Images*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg)
 
 </td>
 </tr>
@@ -45,18 +45,20 @@
 
 #### 💬 每日一言 `哲学`
 
-> 「 取法于上，仅得为中；取法于中，故为其下。 」
+> 「 世界观的转变是一个根本的转变。 」
 >
-> <p align="right">—— 《每日一习话》</p>
+> <p align="right">—— 毛泽东 · 《关于如何正确处理人民内部矛盾的问题》</p>
 
-#### 📜 每日诗词 &nbsp;`#秋`
+#### 📜 每日诗词 &nbsp;`#白天` `#秋`
 
-**《清平乐》** · 〔宋代〕晏殊
+**《南轩松》** · 〔唐代〕李白
 
-✨ **名句摘录**：「 *秋光向晚，小阁初开宴。* 」
+✨ **名句摘录**：「 *阴生古苔绿，色染秋烟碧。* 」
 
-> 秋光向晚，小阁初开宴。林叶殷红犹未遍。雨后青苔满院。  
-> 萧娘劝我金卮。殷勤更唱新词。暮去朝来即老，人生不饮何为。
+> 南轩有孤松，柯叶自绵幂。  
+> 清风无闲时，潇洒终日夕。  
+> 阴生古苔绿，色染秋烟碧。  
+> 何当凌云霄，直上数千尺。
 
 ---
 
@@ -66,7 +68,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 4 天 | 0 篇 | 4 条 | 4 首 | 4 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 5 天 | 0 篇 | 5 条 | 5 首 | 5 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
