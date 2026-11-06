@@ -139,5 +139,33 @@
         "秋"
       ]
     }
+  },
+  "2026-11-06": {
+    "date": "2026-11-06",
+    "quote": null,
+    "bing": {
+      "title": "穿越毛伊岛的绿色隧道",
+      "story": "竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国",
+      "author": "© MNStudio/Getty Images",
+      "copyright": "竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国 (© MNStudio/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "我的一生，无怨无悔！",
+      "from": "北斗神拳",
+      "from_who": "",
+      "category": "漫画"
+    },
+    "poem": {
+      "title": "九日五首·其一",
+      "dynasty": "唐代",
+      "author": "杜甫",
+      "content": "重阳独酌杯中酒，抱病起登江上台。\n竹叶于人既无分，菊花从此不须开。\n殊方日落玄猿哭，旧国霜前白雁来。\n弟妹萧条各何在，干戈衰谢两相催！",
+      "summary": "竹叶于人既无分，菊花从此不须开。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }
