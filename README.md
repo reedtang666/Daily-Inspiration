@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-348_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-346_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月廿八-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--06-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-349_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-347_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月廿九-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--07-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,45 +20,43 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-11-06 · 星期五 · 丙午马年 九月廿八
+### 🗓️ 2026-11-07 · 星期六 · 丙午马年 九月廿九 &nbsp;`🌿 立冬`
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_1920x1080.jpg" alt="穿越毛伊岛的绿色隧道 (2026-11-06)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_1920x1080.jpg" alt="归来的草原巨兽 (2026-11-07)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 穿越毛伊岛的绿色隧道**
+**📍 归来的草原巨兽**
 
-> 竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国
+> 草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国
 
-📷 *© MNStudio/Getty Images*
+📷 *© Tandem Stock/Adobe Stock*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg)
 
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `漫画`
+#### 💬 每日一言 `其他`
 
-> 「 我的一生，无怨无悔！ 」
+> 「 Mueve ese bum bum, tam tam。 」
 >
-> <p align="right">—— 《北斗神拳》</p>
+> <p align="right">—— MC Fioti · 《Bum Bum Tam Tam》</p>
 
 #### 📜 每日诗词 &nbsp;`#秋`
 
-**《九日五首·其一》** · 〔唐代〕杜甫
+**《酹江月·驿中言别友人》** · 〔宋代〕邓剡
 
-✨ **名句摘录**：「 *竹叶于人既无分，菊花从此不须开。* 」
+✨ **名句摘录**：「 *铜雀春情，金人秋泪，此恨凭谁雪。* 」
 
-> 重阳独酌杯中酒，抱病起登江上台。  
-> 竹叶于人既无分，菊花从此不须开。  
-> 殊方日落玄猿哭，旧国霜前白雁来。  
-> 弟妹萧条各何在，干戈衰谢两相催！
+> 水天空阔，恨东风不惜世间英物。蜀鸟吴花残照里，忍见荒城颓壁。铜雀春情，金人秋泪，此恨凭谁雪。堂堂剑气，斗牛空认奇杰。  
+> 那信江海余生，南行万里，属扁舟齐发。正为鸥盟留醉眼，细看涛生云灭。睨柱吞嬴，回旗走懿，千古冲冠发。伴人无寐。秦淮应是孤月。
 
 ---
 
@@ -68,7 +66,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 6 天 | 0 篇 | 6 条 | 6 首 | 6 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 7 天 | 0 篇 | 7 条 | 7 首 | 7 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
