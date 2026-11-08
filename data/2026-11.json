@@ -195,5 +195,33 @@
         "秋"
       ]
     }
+  },
+  "2026-11-08": {
+    "date": "2026-11-08",
+    "quote": null,
+    "bing": {
+      "title": "光芒四射的节日",
+      "story": "排灯节灯笼，孟买，马哈拉施特拉邦，印度",
+      "author": "© Dinodia Photo/Getty Images",
+      "copyright": "排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "哪怕是打断你的手脚，也要把你带回去。",
+      "from": "火影忍者",
+      "from_who": "",
+      "category": "动画"
+    },
+    "poem": {
+      "title": "秋思",
+      "dynasty": "唐代",
+      "author": "张籍",
+      "content": "洛阳城里见秋风，欲作家书意万重。\n复恐匆匆说不尽，行人临发又开封。",
+      "summary": "洛阳城里见秋风，欲作家书意万重。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }
