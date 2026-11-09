@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-350_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-348_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_九月三十-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--08-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-351_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-349_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月初一-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--09-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,43 +20,62 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-11-08 · 星期日 · 丙午马年 九月三十
+### 🗓️ 2026-11-09 · 星期一 · 丙午马年 十月初一
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_1920x1080.jpg" alt="光芒四射的节日 (2026-11-08)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_1920x1080.jpg" alt="艺术与韵律交汇之地 (2026-11-09)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 光芒四射的节日**
+**📍 艺术与韵律交汇之地**
 
-> 排灯节灯笼，孟买，马哈拉施特拉邦，印度
+> 特里亚纳历史街区，塞维利亚，西班牙
 
-📷 *© Dinodia Photo/Getty Images*
+📷 *© Andrzej Rostek/Getty Images*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg)
 
+</td>
+</tr>
+</table>
+
+#### 📚 每日一句
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+> **Dare to love yourself, like loving the morning sun.**
+>
+> 敢于爱自己，如同爱清晨的太阳。
+
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/9d6dcff1c11f79cb71bfcc850951259d.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/ccf0fc3c340d98aa7f7468f0afe7c7db.png)
+
+</td>
+<td width="35%" align="center" valign="middle">
+<img src="https://staticedu-wps-cache.iciba.com/image/ccf0fc3c340d98aa7f7468f0afe7c7db.png" alt="每日一句 (2026-11-09)" width="240" />
 </td>
 </tr>
 </table>
 
 #### 💬 每日一言 `动画`
 
-> 「 哪怕是打断你的手脚，也要把你带回去。 」
+> 「 转瞬即逝的相逢与离别，每一个瞬间，我都想要珍惜。 」
 >
-> <p align="right">—— 《火影忍者》</p>
+> <p align="right">—— 《夏目友人帐》</p>
 
-#### 📜 每日诗词 &nbsp;`#秋`
+#### 📜 每日诗词 &nbsp;`#白天`
 
-**《秋思》** · 〔唐代〕张籍
+**《赠花卿》** · 〔唐代〕杜甫
 
-✨ **名句摘录**：「 *洛阳城里见秋风，欲作家书意万重。* 」
+✨ **名句摘录**：「 *锦城丝管日纷纷，半入江风半入云。* 」
 
-> 洛阳城里见秋风，欲作家书意万重。  
-> 复恐匆匆说不尽，行人临发又开封。
+> 锦城丝管日纷纷，半入江风半入云。  
+> 此曲只应天上有，人间能得几回闻。
 
 ---
 
@@ -66,7 +85,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 8 天 | 0 篇 | 8 条 | 8 首 | 8 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 9 天 | 1 篇 | 9 条 | 9 首 | 9 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |

@@ -223,5 +223,38 @@
         "秋"
       ]
     }
+  },
+  "2026-11-09": {
+    "date": "2026-11-09",
+    "quote": {
+      "english": "Dare to love yourself, like loving the morning sun.",
+      "chinese": "敢于爱自己，如同爱清晨的太阳。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/9d6dcff1c11f79cb71bfcc850951259d.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/ccf0fc3c340d98aa7f7468f0afe7c7db.png"
+    },
+    "bing": {
+      "title": "艺术与韵律交汇之地",
+      "story": "特里亚纳历史街区，塞维利亚，西班牙",
+      "author": "© Andrzej Rostek/Getty Images",
+      "copyright": "特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "转瞬即逝的相逢与离别，每一个瞬间，我都想要珍惜。",
+      "from": "夏目友人帐",
+      "from_who": "",
+      "category": "动画"
+    },
+    "poem": {
+      "title": "赠花卿",
+      "dynasty": "唐代",
+      "author": "杜甫",
+      "content": "锦城丝管日纷纷，半入江风半入云。\n此曲只应天上有，人间能得几回闻。",
+      "summary": "锦城丝管日纷纷，半入江风半入云。",
+      "tags": [
+        "白天"
+      ]
+    }
   }
 }
