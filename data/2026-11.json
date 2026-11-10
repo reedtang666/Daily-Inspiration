@@ -256,5 +256,38 @@
         "白天"
       ]
     }
+  },
+  "2026-11-10": {
+    "date": "2026-11-10",
+    "quote": {
+      "english": "Frost paints the sleeping land with patient silver.",
+      "chinese": "霜耐心地给沉睡的大地刷上银色。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/620aec0cc602e0d458c03a3ffd21403f.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/a18092fda13f479d91b176175553e103.png"
+    },
+    "bing": {
+      "title": "惬意放松，尽享海岛时光",
+      "story": "玫瑰岛航拍图，巴哈马",
+      "author": "© Abstract Aerial Art/Getty Images",
+      "copyright": "玫瑰岛航拍图，巴哈马 (© Abstract Aerial Art/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "晓看天色暮看云，行也思君，坐也思君。",
+      "from": "一剪梅·雨打梨花深闭门",
+      "from_who": "唐寅",
+      "category": "诗词"
+    },
+    "poem": {
+      "title": "关河令·秋阴时晴渐向暝",
+      "dynasty": "宋代",
+      "author": "周邦彦",
+      "content": "秋阴时晴渐向暝，变一庭凄冷。伫听寒声，云深无雁影。\n更深人去寂静，但照壁孤灯相映。酒已都醒，如何消夜永！",
+      "summary": "伫听寒声，云深无雁影。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }
