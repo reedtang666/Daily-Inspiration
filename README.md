@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-352_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-350_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月初二-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--10-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-353_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-351_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月初三-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--11-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,24 +20,24 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-11-10 · 星期二 · 丙午马年 十月初二
+### 🗓️ 2026-11-11 · 星期三 · 丙午马年 十月初三
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_1920x1080.jpg" alt="惬意放松，尽享海岛时光 (2026-11-10)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_1920x1080.jpg" alt="奇妙纷呈的森林 (2026-11-11)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 惬意放松，尽享海岛时光**
+**📍 奇妙纷呈的森林**
 
-> 玫瑰岛航拍图，巴哈马
+> 大西洋森林，巴西
 
-📷 *© Abstract Aerial Art/Getty Images*
+📷 *© FG Trade/Getty Images*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg)
 
 </td>
 </tr>
@@ -49,33 +49,33 @@
 <tr>
 <td width="65%" valign="middle">
 
-> **Frost paints the sleeping land with patient silver.**
+> **The best thing to buy today is a little time for yourself.**
 >
-> 霜耐心地给沉睡的大地刷上银色。
+> 今天最值得买下的，是给自己的一点时间。
 
-[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/620aec0cc602e0d458c03a3ffd21403f.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/a18092fda13f479d91b176175553e103.png)
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/e356fa2ca0889217afec55cb4e4f46e2.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/a04119253b01a179ff8634cc0a1c449e.png)
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="https://staticedu-wps-cache.iciba.com/image/a18092fda13f479d91b176175553e103.png" alt="每日一句 (2026-11-10)" width="240" />
+<img src="https://staticedu-wps-cache.iciba.com/image/a04119253b01a179ff8634cc0a1c449e.png" alt="每日一句 (2026-11-11)" width="240" />
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `诗词`
+#### 💬 每日一言 `动画`
 
-> 「 晓看天色暮看云，行也思君，坐也思君。 」
+> 「 これじゃ 一生 一生 一生 歌えない 」
 >
-> <p align="right">—— 唐寅 · 《一剪梅·雨打梨花深闭门》</p>
+> <p align="right">—— 結束バンド · 《ラブソング歌えない》</p>
 
 #### 📜 每日诗词 &nbsp;`#秋`
 
-**《关河令·秋阴时晴渐向暝》** · 〔宋代〕周邦彦
+**《少年游·长安古道马迟迟》** · 〔宋代〕柳永
 
-✨ **名句摘录**：「 *伫听寒声，云深无雁影。* 」
+✨ **名句摘录**：「 *夕阳岛外，秋风原上，目断四天垂。* 」
 
-> 秋阴时晴渐向暝，变一庭凄冷。伫听寒声，云深无雁影。  
-> 更深人去寂静，但照壁孤灯相映。酒已都醒，如何消夜永！
+> 长安古道马迟迟，高柳乱蝉嘶。夕阳岛外，秋风原上，目断四天垂。  
+> 归云一去无踪迹，何处是前期？狎兴生疏，酒徒萧索，不似少年时。
 
 ---
 
@@ -85,7 +85,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 10 天 | 2 篇 | 10 条 | 10 首 | 10 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 11 天 | 3 篇 | 11 条 | 11 首 | 11 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |

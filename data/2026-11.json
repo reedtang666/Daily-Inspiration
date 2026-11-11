@@ -289,5 +289,38 @@
         "秋"
       ]
     }
+  },
+  "2026-11-11": {
+    "date": "2026-11-11",
+    "quote": {
+      "english": "The best thing to buy today is a little time for yourself.",
+      "chinese": "今天最值得买下的，是给自己的一点时间。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/e356fa2ca0889217afec55cb4e4f46e2.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/a04119253b01a179ff8634cc0a1c449e.png"
+    },
+    "bing": {
+      "title": "奇妙纷呈的森林",
+      "story": "大西洋森林，巴西",
+      "author": "© FG Trade/Getty Images",
+      "copyright": "大西洋森林，巴西 (© FG Trade/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "これじゃ 一生 一生 一生 歌えない",
+      "from": "ラブソング歌えない",
+      "from_who": "結束バンド",
+      "category": "动画"
+    },
+    "poem": {
+      "title": "少年游·长安古道马迟迟",
+      "dynasty": "宋代",
+      "author": "柳永",
+      "content": "长安古道马迟迟，高柳乱蝉嘶。夕阳岛外，秋风原上，目断四天垂。\n归云一去无踪迹，何处是前期？狎兴生疏，酒徒萧索，不似少年时。",
+      "summary": "夕阳岛外，秋风原上，目断四天垂。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }
