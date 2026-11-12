@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-353_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-351_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月初三-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--11-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-354_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-352_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月初四-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--12-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,24 +20,24 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-11-11 · 星期三 · 丙午马年 十月初三
+### 🗓️ 2026-11-12 · 星期四 · 丙午马年 十月初四
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_1920x1080.jpg" alt="奇妙纷呈的森林 (2026-11-11)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_1920x1080.jpg" alt="没有建筑师的建筑杰作 (2026-11-12)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 奇妙纷呈的森林**
+**📍 没有建筑师的建筑杰作**
 
-> 大西洋森林，巴西
+> 北窗，拱门国家公园，莫阿布，犹他州，美国
 
-📷 *© FG Trade/Getty Images*
+📷 *© lightphoto/Getty Images*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg)
 
 </td>
 </tr>
@@ -49,33 +49,33 @@
 <tr>
 <td width="65%" valign="middle">
 
-> **The best thing to buy today is a little time for yourself.**
+> **A hot drink in cold hands holds the morning still.**
 >
-> 今天最值得买下的，是给自己的一点时间。
+> 冷手里捧一杯热饮，清晨就静止了。
 
-[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/e356fa2ca0889217afec55cb4e4f46e2.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/a04119253b01a179ff8634cc0a1c449e.png)
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/a36934c4605b577c4ad7d607815ce6fe.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/28e48413a6c39033b4aa338e95f280f2.png)
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="https://staticedu-wps-cache.iciba.com/image/a04119253b01a179ff8634cc0a1c449e.png" alt="每日一句 (2026-11-11)" width="240" />
+<img src="https://staticedu-wps-cache.iciba.com/image/28e48413a6c39033b4aa338e95f280f2.png" alt="每日一句 (2026-11-12)" width="240" />
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `动画`
+#### 💬 每日一言 `游戏`
 
-> 「 これじゃ 一生 一生 一生 歌えない 」
+> 「 即使背负罪人之名，我也不会让你的野心染指哈夫克的天空！ 」
 >
-> <p align="right">—— 結束バンド · 《ラブソング歌えない》</p>
+> <p align="right">—— 德穆兰 · 《三角洲行动》</p>
 
 #### 📜 每日诗词 &nbsp;`#秋`
 
-**《少年游·长安古道马迟迟》** · 〔宋代〕柳永
+**《曲玉管·陇首云飞》** · 〔宋代〕柳永
 
-✨ **名句摘录**：「 *夕阳岛外，秋风原上，目断四天垂。* 」
+✨ **名句摘录**：「 *一望关河萧索，千里清秋，忍凝眸？* 」
 
-> 长安古道马迟迟，高柳乱蝉嘶。夕阳岛外，秋风原上，目断四天垂。  
-> 归云一去无踪迹，何处是前期？狎兴生疏，酒徒萧索，不似少年时。
+> 陇首云飞，江边日晚，烟波满目凭阑久。一望关河萧索，千里清秋，忍凝眸？杳杳神京，盈盈仙子，别来锦字终难偶。断雁无凭，冉冉飞下汀洲，思悠悠。  
+> 暗想当初，有多少、幽欢佳会，岂知聚散难期，翻成雨恨云愁？阻追游。每登山临水，惹起平生心事，一场消黯，永日无言，却下层楼。
 
 ---
 
@@ -85,7 +85,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 11 天 | 3 篇 | 11 条 | 11 首 | 11 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 12 天 | 4 篇 | 12 条 | 12 首 | 12 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |

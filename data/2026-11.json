@@ -322,5 +322,38 @@
         "秋"
       ]
     }
+  },
+  "2026-11-12": {
+    "date": "2026-11-12",
+    "quote": {
+      "english": "A hot drink in cold hands holds the morning still.",
+      "chinese": "冷手里捧一杯热饮，清晨就静止了。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/a36934c4605b577c4ad7d607815ce6fe.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/28e48413a6c39033b4aa338e95f280f2.png"
+    },
+    "bing": {
+      "title": "没有建筑师的建筑杰作",
+      "story": "北窗，拱门国家公园，莫阿布，犹他州，美国",
+      "author": "© lightphoto/Getty Images",
+      "copyright": "北窗，拱门国家公园，莫阿布，犹他州，美国 (© lightphoto/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "即使背负罪人之名，我也不会让你的野心染指哈夫克的天空！",
+      "from": "三角洲行动",
+      "from_who": "德穆兰",
+      "category": "游戏"
+    },
+    "poem": {
+      "title": "曲玉管·陇首云飞",
+      "dynasty": "宋代",
+      "author": "柳永",
+      "content": "陇首云飞，江边日晚，烟波满目凭阑久。一望关河萧索，千里清秋，忍凝眸？杳杳神京，盈盈仙子，别来锦字终难偶。断雁无凭，冉冉飞下汀洲，思悠悠。\n暗想当初，有多少、幽欢佳会，岂知聚散难期，翻成雨恨云愁？阻追游。每登山临水，惹起平生心事，一场消黯，永日无言，却下层楼。",
+      "summary": "一望关河萧索，千里清秋，忍凝眸？",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }
