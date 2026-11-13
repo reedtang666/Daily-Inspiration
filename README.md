@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-354_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-352_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月初四-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--12-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-355_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-353_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月初五-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--13-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,24 +20,24 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-11-12 · 星期四 · 丙午马年 十月初四
+### 🗓️ 2026-11-13 · 星期五 · 丙午马年 十月初五
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_1920x1080.jpg" alt="没有建筑师的建筑杰作 (2026-11-12)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_1920x1080.jpg" alt="冰下秘境 (2026-11-13)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 没有建筑师的建筑杰作**
+**📍 冰下秘境**
 
-> 北窗，拱门国家公园，莫阿布，犹他州，美国
+> 亚伯拉罕湖，艾伯塔省，加拿大
 
-📷 *© lightphoto/Getty Images*
+📷 *© Guang Cao/Getty Images*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg)
 
 </td>
 </tr>
@@ -49,33 +49,35 @@
 <tr>
 <td width="65%" valign="middle">
 
-> **A hot drink in cold hands holds the morning still.**
+> **Trees sleep deeply and dream of green again.**
 >
-> 冷手里捧一杯热饮，清晨就静止了。
+> 树沉睡着，梦见重回绿色。
 
-[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/a36934c4605b577c4ad7d607815ce6fe.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/28e48413a6c39033b4aa338e95f280f2.png)
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/8879cc3ac33885510bbd0a6115ce3861.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/fe2c732c536fb5cfe532bff18d5a1e9a.png)
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="https://staticedu-wps-cache.iciba.com/image/28e48413a6c39033b4aa338e95f280f2.png" alt="每日一句 (2026-11-12)" width="240" />
+<img src="https://staticedu-wps-cache.iciba.com/image/fe2c732c536fb5cfe532bff18d5a1e9a.png" alt="每日一句 (2026-11-13)" width="240" />
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `游戏`
+#### 💬 每日一言 `机灵`
 
-> 「 即使背负罪人之名，我也不会让你的野心染指哈夫克的天空！ 」
+> 「 宽肩窄腰大长腿，爱上真源不后悔。 」
 >
-> <p align="right">—— 德穆兰 · 《三角洲行动》</p>
+> <p align="right">—— 《网络》</p>
 
 #### 📜 每日诗词 &nbsp;`#秋`
 
-**《曲玉管·陇首云飞》** · 〔宋代〕柳永
+**《长安晚秋 / 秋望 / 秋夕》** · 〔唐代〕赵嘏
 
-✨ **名句摘录**：「 *一望关河萧索，千里清秋，忍凝眸？* 」
+✨ **名句摘录**：「 *云雾凄凉拂曙流，汉家宫阙动高秋。* 」
 
-> 陇首云飞，江边日晚，烟波满目凭阑久。一望关河萧索，千里清秋，忍凝眸？杳杳神京，盈盈仙子，别来锦字终难偶。断雁无凭，冉冉飞下汀洲，思悠悠。  
-> 暗想当初，有多少、幽欢佳会，岂知聚散难期，翻成雨恨云愁？阻追游。每登山临水，惹起平生心事，一场消黯，永日无言，却下层楼。
+> 云雾凄凉拂曙流，汉家宫阙动高秋。  
+> 残星几点雁横塞，长笛一声人倚楼。  
+> 紫艳半开篱菊静，红衣落尽渚莲愁。  
+> 鲈鱼正美不归去，空戴南冠学楚囚。
 
 ---
 
@@ -85,7 +87,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 12 天 | 4 篇 | 12 条 | 12 首 | 12 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 13 天 | 5 篇 | 13 条 | 13 首 | 13 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |

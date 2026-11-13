@@ -355,5 +355,38 @@
         "秋"
       ]
     }
+  },
+  "2026-11-13": {
+    "date": "2026-11-13",
+    "quote": {
+      "english": "Trees sleep deeply and dream of green again.",
+      "chinese": "树沉睡着，梦见重回绿色。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/8879cc3ac33885510bbd0a6115ce3861.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/fe2c732c536fb5cfe532bff18d5a1e9a.png"
+    },
+    "bing": {
+      "title": "冰下秘境",
+      "story": "亚伯拉罕湖，艾伯塔省，加拿大",
+      "author": "© Guang Cao/Getty Images",
+      "copyright": "亚伯拉罕湖，艾伯塔省，加拿大 (© Guang Cao/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "宽肩窄腰大长腿，爱上真源不后悔。",
+      "from": "网络",
+      "from_who": "",
+      "category": "机灵"
+    },
+    "poem": {
+      "title": "长安晚秋 / 秋望 / 秋夕",
+      "dynasty": "唐代",
+      "author": "赵嘏",
+      "content": "云雾凄凉拂曙流，汉家宫阙动高秋。\n残星几点雁横塞，长笛一声人倚楼。\n紫艳半开篱菊静，红衣落尽渚莲愁。\n鲈鱼正美不归去，空戴南冠学楚囚。",
+      "summary": "云雾凄凉拂曙流，汉家宫阙动高秋。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }

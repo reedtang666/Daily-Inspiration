@@ -1,14 +1,14 @@
 # ✨ 每日灵感合集（Daily Inspiration）
 
 > ⏰ 自动更新于 GitHub Actions（北京时间每天 09:00 执行）  
-> 📊 累计打卡 **354** 天 · 每日一句 **342** 篇 · 每日一言 **354** 条 · 每日诗词 **352** 首 · 必应壁纸 **37** 张  
+> 📊 累计打卡 **355** 天 · 每日一句 **343** 篇 · 每日一言 **355** 条 · 每日诗词 **353** 首 · 必应壁纸 **38** 张  
 > 💡 为保证最佳阅读体验，本页仅展示**当月最新内容（按日期倒序）**，历史月份请通过下方归档表查阅。
 
 ## 🗂️ 历史月度归档索引
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 12 天 | 4 篇 | 12 条 | 12 首 | 12 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 13 天 | 5 篇 | 13 条 | 13 首 | 13 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
@@ -24,7 +24,68 @@
 
 ---
 
-## 📅 2026-11 当月灵感记录（共 12 天）
+## 📅 2026-11 当月灵感记录（共 13 天）
+
+### 🗓️ 2026-11-13 · 星期五 · 丙午马年 十月初五
+
+#### 🌄 必应每日壁纸
+
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+<img src="https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_1920x1080.jpg" alt="冰下秘境 (2026-11-13)" width="420" />
+</td>
+<td width="45%" valign="middle">
+
+**📍 冰下秘境**
+
+> 亚伯拉罕湖，艾伯塔省，加拿大
+
+📷 *© Guang Cao/Getty Images*
+
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg)
+
+</td>
+</tr>
+</table>
+
+#### 📚 每日一句
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+> **Trees sleep deeply and dream of green again.**
+>
+> 树沉睡着，梦见重回绿色。
+
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/8879cc3ac33885510bbd0a6115ce3861.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/fe2c732c536fb5cfe532bff18d5a1e9a.png)
+
+</td>
+<td width="35%" align="center" valign="middle">
+<img src="https://staticedu-wps-cache.iciba.com/image/fe2c732c536fb5cfe532bff18d5a1e9a.png" alt="每日一句 (2026-11-13)" width="240" />
+</td>
+</tr>
+</table>
+
+#### 💬 每日一言 `机灵`
+
+> 「 宽肩窄腰大长腿，爱上真源不后悔。 」
+>
+> <p align="right">—— 《网络》</p>
+
+#### 📜 每日诗词 &nbsp;`#秋`
+
+**《长安晚秋 / 秋望 / 秋夕》** · 〔唐代〕赵嘏
+
+✨ **名句摘录**：「 *云雾凄凉拂曙流，汉家宫阙动高秋。* 」
+
+> 云雾凄凉拂曙流，汉家宫阙动高秋。  
+> 残星几点雁横塞，长笛一声人倚楼。  
+> 紫艳半开篱菊静，红衣落尽渚莲愁。  
+> 鲈鱼正美不归去，空戴南冠学楚囚。  
+
+---
 
 ### 🗓️ 2026-11-12 · 星期四 · 丙午马年 十月初四
 
