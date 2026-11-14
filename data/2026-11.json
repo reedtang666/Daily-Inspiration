@@ -388,5 +388,38 @@
         "秋"
       ]
     }
+  },
+  "2026-11-14": {
+    "date": "2026-11-14",
+    "quote": {
+      "english": "From sadness comes joy, as dead flowers bring blooms.",
+      "chinese": "悲伤生喜悦，如枯花绽新蕾。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/7673154558c9e4f88908b9fa6681949b.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/c1281d4cc36b484e4a76e0c1f2b20257.png"
+    },
+    "bing": {
+      "title": "唯有向上发展",
+      "story": "中国香港维多利亚港",
+      "author": "© Juan Romero/Cavan Images",
+      "copyright": "中国香港维多利亚港 (© Juan Romero/Cavan Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "努力吧！就算再寂寞！也要努力活下去！",
+      "from": "鬼灭之刃",
+      "from_who": "炭治郎",
+      "category": "漫画"
+    },
+    "poem": {
+      "title": "行香子·天与秋光",
+      "dynasty": "宋代",
+      "author": "李清照",
+      "content": "天与秋光，转转情伤，探金英知近重阳。薄衣初试，绿蚁新尝，渐一番风，一番雨，一番凉。\n黄昏院落，凄凄惶惶，酒醒时往事愁肠。那堪永夜，明月空床。闻砧声捣，蛩声细，漏声长。",
+      "summary": "天与秋光，转转情伤，探金英知近重阳。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }

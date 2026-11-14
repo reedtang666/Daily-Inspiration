@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-355_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-353_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月初五-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--13-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-356_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-354_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月初六-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--14-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,24 +20,24 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-11-13 · 星期五 · 丙午马年 十月初五
+### 🗓️ 2026-11-14 · 星期六 · 丙午马年 十月初六
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_1920x1080.jpg" alt="冰下秘境 (2026-11-13)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_1920x1080.jpg" alt="唯有向上发展 (2026-11-14)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 冰下秘境**
+**📍 唯有向上发展**
 
-> 亚伯拉罕湖，艾伯塔省，加拿大
+> 中国香港维多利亚港
 
-📷 *© Guang Cao/Getty Images*
+📷 *© Juan Romero/Cavan Images*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg)
 
 </td>
 </tr>
@@ -49,35 +49,33 @@
 <tr>
 <td width="65%" valign="middle">
 
-> **Trees sleep deeply and dream of green again.**
+> **From sadness comes joy, as dead flowers bring blooms.**
 >
-> 树沉睡着，梦见重回绿色。
+> 悲伤生喜悦，如枯花绽新蕾。
 
-[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/8879cc3ac33885510bbd0a6115ce3861.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/fe2c732c536fb5cfe532bff18d5a1e9a.png)
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/7673154558c9e4f88908b9fa6681949b.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/c1281d4cc36b484e4a76e0c1f2b20257.png)
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="https://staticedu-wps-cache.iciba.com/image/fe2c732c536fb5cfe532bff18d5a1e9a.png" alt="每日一句 (2026-11-13)" width="240" />
+<img src="https://staticedu-wps-cache.iciba.com/image/c1281d4cc36b484e4a76e0c1f2b20257.png" alt="每日一句 (2026-11-14)" width="240" />
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `机灵`
+#### 💬 每日一言 `漫画`
 
-> 「 宽肩窄腰大长腿，爱上真源不后悔。 」
+> 「 努力吧！就算再寂寞！也要努力活下去！ 」
 >
-> <p align="right">—— 《网络》</p>
+> <p align="right">—— 炭治郎 · 《鬼灭之刃》</p>
 
 #### 📜 每日诗词 &nbsp;`#秋`
 
-**《长安晚秋 / 秋望 / 秋夕》** · 〔唐代〕赵嘏
+**《行香子·天与秋光》** · 〔宋代〕李清照
 
-✨ **名句摘录**：「 *云雾凄凉拂曙流，汉家宫阙动高秋。* 」
+✨ **名句摘录**：「 *天与秋光，转转情伤，探金英知近重阳。* 」
 
-> 云雾凄凉拂曙流，汉家宫阙动高秋。  
-> 残星几点雁横塞，长笛一声人倚楼。  
-> 紫艳半开篱菊静，红衣落尽渚莲愁。  
-> 鲈鱼正美不归去，空戴南冠学楚囚。
+> 天与秋光，转转情伤，探金英知近重阳。薄衣初试，绿蚁新尝，渐一番风，一番雨，一番凉。  
+> 黄昏院落，凄凄惶惶，酒醒时往事愁肠。那堪永夜，明月空床。闻砧声捣，蛩声细，漏声长。
 
 ---
 
@@ -87,7 +85,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 13 天 | 5 篇 | 13 条 | 13 首 | 13 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 14 天 | 6 篇 | 14 条 | 14 首 | 14 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
