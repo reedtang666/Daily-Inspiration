@@ -421,5 +421,39 @@
         "秋"
       ]
     }
+  },
+  "2026-11-15": {
+    "date": "2026-11-15",
+    "quote": {
+      "english": "The night is long, but so is our list of small joys.",
+      "chinese": "夜虽长，小欢喜也一样的多。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/bf5fcc689dccf454fadd34cd38a9db16.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/85d5a6aed7afcf269785de262d89c108.png"
+    },
+    "bing": {
+      "title": "霜染枝叶",
+      "story": "覆霜的红叶杜鹃",
+      "author": "© avoferten/Shutterstock",
+      "copyright": "覆霜的红叶杜鹃 (© avoferten/Shutterstock)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "请成为永远疯狂 ，永远浪漫 ，永远清澈的存在。",
+      "from": "网络",
+      "from_who": "",
+      "category": "网络"
+    },
+    "poem": {
+      "title": "阴雨",
+      "dynasty": "唐代",
+      "author": "白居易",
+      "content": "岚雾今朝重，江山此地深。\n滩声秋更急，峡气晓多阴。\n望阙云遮眼，思乡雨滴心。\n将何慰幽独，赖此北窗琴。",
+      "summary": "滩声秋更急，峡气晓多阴。",
+      "tags": [
+        "白天",
+        "秋"
+      ]
+    }
   }
 }
