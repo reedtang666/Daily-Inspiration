@@ -455,5 +455,38 @@
         "秋"
       ]
     }
+  },
+  "2026-11-16": {
+    "date": "2026-11-16",
+    "quote": {
+      "english": "A short walk can untangle a long worry.",
+      "chinese": "一次短途散步，能解开一长串烦恼。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/e4ea9c6ed53dbb8ecbfd8283b62d6aab.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/26e18112cfc235d986a689a40ffdd3ac.png"
+    },
+    "bing": {
+      "title": "历经岁月，屹立不倒",
+      "story": "美国新墨西哥州吉拉悬崖民居国家纪念地",
+      "author": "© Chiara Salvadori/Getty Images",
+      "copyright": "美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "为王的诞生，献上血与泪编制而成的罪恶王冠。",
+      "from": "罪恶王冠",
+      "from_who": "",
+      "category": "动画"
+    },
+    "poem": {
+      "title": "早雁",
+      "dynasty": "唐代",
+      "author": "杜牧",
+      "content": "金河秋半虏弦开，云外惊飞四散哀。\n仙掌月明孤影过，长门灯暗数声来。\n须知胡骑纷纷在，岂逐春风一一回？\n莫厌潇湘少人处，水多菰米岸莓苔。",
+      "summary": "金河秋半虏弦开，云外惊飞四散哀。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }

@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-357_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-355_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月初七-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--15-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-358_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-356_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月初八-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--16-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,24 +20,24 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-11-15 · 星期日 · 丙午马年 十月初七
+### 🗓️ 2026-11-16 · 星期一 · 丙午马年 十月初八
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_1920x1080.jpg" alt="霜染枝叶 (2026-11-15)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_1920x1080.jpg" alt="历经岁月，屹立不倒 (2026-11-16)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 霜染枝叶**
+**📍 历经岁月，屹立不倒**
 
-> 覆霜的红叶杜鹃
+> 美国新墨西哥州吉拉悬崖民居国家纪念地
 
-📷 *© avoferten/Shutterstock*
+📷 *© Chiara Salvadori/Getty Images*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg)
 
 </td>
 </tr>
@@ -49,35 +49,35 @@
 <tr>
 <td width="65%" valign="middle">
 
-> **The night is long, but so is our list of small joys.**
+> **A short walk can untangle a long worry.**
 >
-> 夜虽长，小欢喜也一样的多。
+> 一次短途散步，能解开一长串烦恼。
 
-[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/bf5fcc689dccf454fadd34cd38a9db16.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/85d5a6aed7afcf269785de262d89c108.png)
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/e4ea9c6ed53dbb8ecbfd8283b62d6aab.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/26e18112cfc235d986a689a40ffdd3ac.png)
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="https://staticedu-wps-cache.iciba.com/image/85d5a6aed7afcf269785de262d89c108.png" alt="每日一句 (2026-11-15)" width="240" />
+<img src="https://staticedu-wps-cache.iciba.com/image/26e18112cfc235d986a689a40ffdd3ac.png" alt="每日一句 (2026-11-16)" width="240" />
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `网络`
+#### 💬 每日一言 `动画`
 
-> 「 请成为永远疯狂 ，永远浪漫 ，永远清澈的存在。 」
+> 「 为王的诞生，献上血与泪编制而成的罪恶王冠。 」
 >
-> <p align="right">—— 《网络》</p>
+> <p align="right">—— 《罪恶王冠》</p>
 
-#### 📜 每日诗词 &nbsp;`#白天` `#秋`
+#### 📜 每日诗词 &nbsp;`#秋`
 
-**《阴雨》** · 〔唐代〕白居易
+**《早雁》** · 〔唐代〕杜牧
 
-✨ **名句摘录**：「 *滩声秋更急，峡气晓多阴。* 」
+✨ **名句摘录**：「 *金河秋半虏弦开，云外惊飞四散哀。* 」
 
-> 岚雾今朝重，江山此地深。  
-> 滩声秋更急，峡气晓多阴。  
-> 望阙云遮眼，思乡雨滴心。  
-> 将何慰幽独，赖此北窗琴。
+> 金河秋半虏弦开，云外惊飞四散哀。  
+> 仙掌月明孤影过，长门灯暗数声来。  
+> 须知胡骑纷纷在，岂逐春风一一回？  
+> 莫厌潇湘少人处，水多菰米岸莓苔。
 
 ---
 
@@ -87,7 +87,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 15 天 | 7 篇 | 15 条 | 15 首 | 15 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 16 天 | 8 篇 | 16 条 | 16 首 | 16 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
