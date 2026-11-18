@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-359_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-357_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月初九-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--17-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-360_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-358_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月初十-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--18-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,24 +20,24 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-11-17 · 星期二 · 丙午马年 十月初九
+### 🗓️ 2026-11-18 · 星期三 · 丙午马年 十月初十
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_1920x1080.jpg" alt="走进广阔的大自然 (2026-11-17)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_1920x1080.jpg" alt="从黄昏狩猎到黎明 (2026-11-18)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 走进广阔的大自然**
+**📍 从黄昏狩猎到黎明**
 
-> 雪松林步道，冰川国家公园，蒙大拿州，美国
+> 一对仓鸮
 
-📷 *© DBushue Photography/Getty Images*
+📷 *© Zahoor Salmi/Getty Images*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg)
 
 </td>
 </tr>
@@ -49,54 +49,35 @@
 <tr>
 <td width="65%" valign="middle">
 
-> **The north wind sorts the leaves from the strong branches.**
+> **Keep a warm pocket and a warmer heart.**
 >
-> 北风把落叶和坚强的枝干分开。
+> 口袋要暖，心要更暖。
 
-[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/88986db574031831fd4b57c843f2f535.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/09d80f0bf8405b90f1f0e9c27bf13694.png)
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/5e58de17cc5507617151592c5a93977d.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/b754c1b4b2a1e94241f8405b7078c302.png)
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="https://staticedu-wps-cache.iciba.com/image/09d80f0bf8405b90f1f0e9c27bf13694.png" alt="每日一句 (2026-11-17)" width="240" />
+<img src="https://staticedu-wps-cache.iciba.com/image/b754c1b4b2a1e94241f8405b7078c302.png" alt="每日一句 (2026-11-18)" width="240" />
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `网易云`
+#### 💬 每日一言 `原创`
 
-> 「 人与人的相遇，不是恩赐就是劫。 」
+> 「 雾都伦敦的浪漫，是迷雾之下珍藏的一缕阳光。 」
 >
-> <p align="right">—— ShimmerLS · 《网易云》</p>
+> <p align="right">—— 夙鱼 · 《原创》</p>
 
-#### 📜 每日诗词
+#### 📜 每日诗词 &nbsp;`#秋`
 
-**《春江花月夜》** · 〔唐代〕张若虚
+**《薛宝钗咏白海棠》** · 〔清代〕曹雪芹
 
-✨ **名句摘录**：「 *空里流霜不觉飞，汀上白沙看不见。* 」
+✨ **名句摘录**：「 *胭脂洗出秋阶影，冰雪招来露砌魂。* 」
 
-> 春江潮水连海平，海上明月共潮生。  
-> 滟滟随波千万里，何处春江无月明！  
-> 江流宛转绕芳甸，月照花林皆似霰。  
-> 空里流霜不觉飞，汀上白沙看不见。  
-> 江天一色无纤尘，皎皎空中孤月轮。  
-> 江畔何人初见月，江月何年初照人？  
-
-<details><summary>📖 展开阅读余下 12 句（全诗共 18 句）</summary>
-
-> 人生代代无穷已，江月年年只相似。  
-> 不知江月待何人，但见长江送流水。  
-> 白云一片去悠悠，青枫浦上不胜愁。  
-> 谁家今夜扁舟子，何处相思明月楼？  
-> 可怜楼上月徘徊，应照离人妆镜台。  
-> 玉户帘中卷不去，捣衣砧上拂还来。  
-> 此时相望不相闻，愿逐月华流照君。  
-> 鸿雁长飞光不度，鱼龙潜跃水成文。  
-> 昨夜闲潭梦落花，可怜春半不还家。  
-> 江水流春去欲尽，江潭落月复西斜。  
-> 斜月沉沉藏海雾，碣石潇湘无限路。  
-> 不知乘月几人归，落月摇情满江树。  
-
-</details>
+> 珍重芳姿昼掩门，自携手瓮灌苔盆。  
+> 胭脂洗出秋阶影，冰雪招来露砌魂。  
+> 淡极始知花更艳，愁多焉得玉无痕。  
+> 欲偿白帝宜清洁，不语婷婷日又昏。
 
 ---
 
@@ -106,7 +87,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 17 天 | 9 篇 | 17 条 | 17 首 | 17 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 18 天 | 10 篇 | 18 条 | 18 首 | 18 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |

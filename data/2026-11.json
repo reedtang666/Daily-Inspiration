@@ -519,5 +519,38 @@
       "summary": "空里流霜不觉飞，汀上白沙看不见。",
       "tags": []
     }
+  },
+  "2026-11-18": {
+    "date": "2026-11-18",
+    "quote": {
+      "english": "Keep a warm pocket and a warmer heart.",
+      "chinese": "口袋要暖，心要更暖。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/5e58de17cc5507617151592c5a93977d.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/b754c1b4b2a1e94241f8405b7078c302.png"
+    },
+    "bing": {
+      "title": "从黄昏狩猎到黎明",
+      "story": "一对仓鸮",
+      "author": "© Zahoor Salmi/Getty Images",
+      "copyright": "一对仓鸮 (© Zahoor Salmi/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "雾都伦敦的浪漫，是迷雾之下珍藏的一缕阳光。",
+      "from": "原创",
+      "from_who": "夙鱼",
+      "category": "原创"
+    },
+    "poem": {
+      "title": "薛宝钗咏白海棠",
+      "dynasty": "清代",
+      "author": "曹雪芹",
+      "content": "珍重芳姿昼掩门，自携手瓮灌苔盆。\n胭脂洗出秋阶影，冰雪招来露砌魂。\n淡极始知花更艳，愁多焉得玉无痕。\n欲偿白帝宜清洁，不语婷婷日又昏。",
+      "summary": "胭脂洗出秋阶影，冰雪招来露砌魂。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }
