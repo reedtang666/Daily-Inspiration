@@ -552,5 +552,38 @@
         "秋"
       ]
     }
+  },
+  "2026-11-19": {
+    "date": "2026-11-19",
+    "quote": {
+      "english": "Some doors only open for those who knock again.",
+      "chinese": "有些门，只肯为再次敲响的人打开。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/160ea93f65ee2f05782671179b869fb7.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/5693aefb7e5fe08029c2ad906a872e9a.png"
+    },
+    "bing": {
+      "title": "思想在此成形",
+      "story": "雕塑《知识之躯》，由豪梅·普兰萨创作，位于德国法兰克福的法兰克福歌德大学",
+      "author": "© Todamo/Shutterstock",
+      "copyright": "雕塑《知识之躯》，由豪梅·普兰萨创作，位于德国法兰克福的法兰克福歌德大学 (© Todamo/Shutterstock)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "我想要说的，前人们都说过了。我想要做的，有钱人都做过了。",
+      "from": "烂泥",
+      "from_who": "草东没有派对",
+      "category": "网易云"
+    },
+    "poem": {
+      "title": "满江红·咏竹",
+      "dynasty": "明代",
+      "author": "陆容",
+      "content": "不种闲花，池亭畔、几竿修竹。相映带、一泓流水，森寒洁绿。风动仙人鸣佩遂，雨余净女添膏沐。未成林，难望凤来栖，聊医俗。\n问华胄，名淇澳。寻苗裔，湘江曲。性孤高似柏，阿娇金屋。坐荫从容烦暑退，清心恍惚微香触。历冰霜、不变好风姿，温如玉。",
+      "summary": "坐荫从容烦暑退，清心恍惚微香触。",
+      "tags": [
+        "白天"
+      ]
+    }
   }
 }

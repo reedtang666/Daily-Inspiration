@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-360_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-358_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月初十-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--18-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-361_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-359_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月十一-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--19-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,24 +20,24 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-11-18 · 星期三 · 丙午马年 十月初十
+### 🗓️ 2026-11-19 · 星期四 · 丙午马年 十月十一
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_1920x1080.jpg" alt="从黄昏狩猎到黎明 (2026-11-18)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_1920x1080.jpg" alt="思想在此成形 (2026-11-19)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 从黄昏狩猎到黎明**
+**📍 思想在此成形**
 
-> 一对仓鸮
+> 雕塑《知识之躯》，由豪梅·普兰萨创作，位于德国法兰克福的法兰克福歌德大学
 
-📷 *© Zahoor Salmi/Getty Images*
+📷 *© Todamo/Shutterstock*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg)
 
 </td>
 </tr>
@@ -49,35 +49,33 @@
 <tr>
 <td width="65%" valign="middle">
 
-> **Keep a warm pocket and a warmer heart.**
+> **Some doors only open for those who knock again.**
 >
-> 口袋要暖，心要更暖。
+> 有些门，只肯为再次敲响的人打开。
 
-[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/5e58de17cc5507617151592c5a93977d.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/b754c1b4b2a1e94241f8405b7078c302.png)
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/160ea93f65ee2f05782671179b869fb7.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/5693aefb7e5fe08029c2ad906a872e9a.png)
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="https://staticedu-wps-cache.iciba.com/image/b754c1b4b2a1e94241f8405b7078c302.png" alt="每日一句 (2026-11-18)" width="240" />
+<img src="https://staticedu-wps-cache.iciba.com/image/5693aefb7e5fe08029c2ad906a872e9a.png" alt="每日一句 (2026-11-19)" width="240" />
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `原创`
+#### 💬 每日一言 `网易云`
 
-> 「 雾都伦敦的浪漫，是迷雾之下珍藏的一缕阳光。 」
+> 「 我想要说的，前人们都说过了。我想要做的，有钱人都做过了。 」
 >
-> <p align="right">—— 夙鱼 · 《原创》</p>
+> <p align="right">—— 草东没有派对 · 《烂泥》</p>
 
-#### 📜 每日诗词 &nbsp;`#秋`
+#### 📜 每日诗词 &nbsp;`#白天`
 
-**《薛宝钗咏白海棠》** · 〔清代〕曹雪芹
+**《满江红·咏竹》** · 〔明代〕陆容
 
-✨ **名句摘录**：「 *胭脂洗出秋阶影，冰雪招来露砌魂。* 」
+✨ **名句摘录**：「 *坐荫从容烦暑退，清心恍惚微香触。* 」
 
-> 珍重芳姿昼掩门，自携手瓮灌苔盆。  
-> 胭脂洗出秋阶影，冰雪招来露砌魂。  
-> 淡极始知花更艳，愁多焉得玉无痕。  
-> 欲偿白帝宜清洁，不语婷婷日又昏。
+> 不种闲花，池亭畔、几竿修竹。相映带、一泓流水，森寒洁绿。风动仙人鸣佩遂，雨余净女添膏沐。未成林，难望凤来栖，聊医俗。  
+> 问华胄，名淇澳。寻苗裔，湘江曲。性孤高似柏，阿娇金屋。坐荫从容烦暑退，清心恍惚微香触。历冰霜、不变好风姿，温如玉。
 
 ---
 
@@ -87,7 +85,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 18 天 | 10 篇 | 18 条 | 18 首 | 18 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 19 天 | 11 篇 | 19 条 | 19 首 | 19 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
