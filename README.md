@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-362_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-360_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月十二-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--20-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-363_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-361_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月十三-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--21-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,24 +20,24 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-11-20 · 星期五 · 丙午马年 十月十二
+### 🗓️ 2026-11-21 · 星期六 · 丙午马年 十月十三
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_1920x1080.jpg" alt="在峡湾中大快朵颐 (2026-11-20)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_1920x1080.jpg" alt="陶瓦屋顶下的梦 (2026-11-21)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 在峡湾中大快朵颐**
+**📍 陶瓦屋顶下的梦**
 
-> 正在潜水的座头鲸，挪威北部特罗姆斯的克瓦尔岛
+> 法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯
 
-📷 *© Espen Bergersen/Minden Pictures*
+📷 *© Siripong Kaewla-iad/Getty Images*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg)
 
 </td>
 </tr>
@@ -49,54 +49,33 @@
 <tr>
 <td width="65%" valign="middle">
 
-> **Even the longest night ends with a sunrise.**
+> **Gratitude turns what we have into enough.**
 >
-> 再长的夜，也会以日出收尾。
+> 感恩让我们拥有的变成足够。
 
-[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/c8543d0c008f8cc98ec59c2ca9288d94.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/76ac06ef46e2457c8715b7d5ce9f0d05.png)
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/3b85dec0de51481e94e84cb7dbd41757.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/9a59b5c92efcde47d47a09fde8427dbd.png)
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="https://staticedu-wps-cache.iciba.com/image/76ac06ef46e2457c8715b7d5ce9f0d05.png" alt="每日一句 (2026-11-20)" width="240" />
+<img src="https://staticedu-wps-cache.iciba.com/image/9a59b5c92efcde47d47a09fde8427dbd.png" alt="每日一句 (2026-11-21)" width="240" />
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `影视`
+#### 💬 每日一言 `网络`
 
-> 「 忘掉生日，忘掉青涩的诗，忘掉他不厌其烦夜夜追逐他影子。 」
+> 「 挑战自我，不进则退。 」
 >
-> <p align="right">—— 邱意 · 《菱形月亮》</p>
+> <p align="right">—— Redmountain · 《Dzxium-DZX组》</p>
 
-#### 📜 每日诗词
+#### 📜 每日诗词 &nbsp;`#秋`
 
-**《春江花月夜》** · 〔唐代〕张若虚
+**《题秋江独钓图》** · 〔清代〕王士祯
 
-✨ **名句摘录**：「 *斜月沉沉藏海雾，碣石潇湘无限路。* 」
+✨ **名句摘录**：「 *一曲高歌一樽酒，一人独钓一江秋。* 」
 
-> 春江潮水连海平，海上明月共潮生。  
-> 滟滟随波千万里，何处春江无月明！  
-> 江流宛转绕芳甸，月照花林皆似霰。  
-> 空里流霜不觉飞，汀上白沙看不见。  
-> 江天一色无纤尘，皎皎空中孤月轮。  
-> 江畔何人初见月，江月何年初照人？  
-
-<details><summary>📖 展开阅读余下 12 句（全诗共 18 句）</summary>
-
-> 人生代代无穷已，江月年年只相似。  
-> 不知江月待何人，但见长江送流水。  
-> 白云一片去悠悠，青枫浦上不胜愁。  
-> 谁家今夜扁舟子，何处相思明月楼？  
-> 可怜楼上月徘徊，应照离人妆镜台。  
-> 玉户帘中卷不去，捣衣砧上拂还来。  
-> 此时相望不相闻，愿逐月华流照君。  
-> 鸿雁长飞光不度，鱼龙潜跃水成文。  
-> 昨夜闲潭梦落花，可怜春半不还家。  
-> 江水流春去欲尽，江潭落月复西斜。  
-> 斜月沉沉藏海雾，碣石潇湘无限路。  
-> 不知乘月几人归，落月摇情满江树。  
-
-</details>
+> 一蓑一笠一扁舟，一丈丝纶一寸钩。  
+> 一曲高歌一樽酒，一人独钓一江秋。
 
 ---
 
@@ -106,7 +85,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 20 天 | 12 篇 | 20 条 | 20 首 | 20 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 21 天 | 13 篇 | 21 条 | 21 首 | 21 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |

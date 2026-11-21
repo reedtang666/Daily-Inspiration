@@ -1,14 +1,14 @@
 # ✨ 每日灵感合集（Daily Inspiration）
 
 > ⏰ 自动更新于 GitHub Actions（北京时间每天 09:00 执行）  
-> 📊 累计打卡 **362** 天 · 每日一句 **350** 篇 · 每日一言 **362** 条 · 每日诗词 **360** 首 · 必应壁纸 **45** 张  
+> 📊 累计打卡 **363** 天 · 每日一句 **351** 篇 · 每日一言 **363** 条 · 每日诗词 **361** 首 · 必应壁纸 **46** 张  
 > 💡 为保证最佳阅读体验，本页仅展示**当月最新内容（按日期倒序）**，历史月份请通过下方归档表查阅。
 
 ## 🗂️ 历史月度归档索引
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 20 天 | 12 篇 | 20 条 | 20 首 | 20 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 21 天 | 13 篇 | 21 条 | 21 首 | 21 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
@@ -24,7 +24,66 @@
 
 ---
 
-## 📅 2026-11 当月灵感记录（共 20 天）
+## 📅 2026-11 当月灵感记录（共 21 天）
+
+### 🗓️ 2026-11-21 · 星期六 · 丙午马年 十月十三
+
+#### 🌄 必应每日壁纸
+
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+<img src="https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_1920x1080.jpg" alt="陶瓦屋顶下的梦 (2026-11-21)" width="420" />
+</td>
+<td width="45%" valign="middle">
+
+**📍 陶瓦屋顶下的梦**
+
+> 法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯
+
+📷 *© Siripong Kaewla-iad/Getty Images*
+
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg)
+
+</td>
+</tr>
+</table>
+
+#### 📚 每日一句
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+> **Gratitude turns what we have into enough.**
+>
+> 感恩让我们拥有的变成足够。
+
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/3b85dec0de51481e94e84cb7dbd41757.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/9a59b5c92efcde47d47a09fde8427dbd.png)
+
+</td>
+<td width="35%" align="center" valign="middle">
+<img src="https://staticedu-wps-cache.iciba.com/image/9a59b5c92efcde47d47a09fde8427dbd.png" alt="每日一句 (2026-11-21)" width="240" />
+</td>
+</tr>
+</table>
+
+#### 💬 每日一言 `网络`
+
+> 「 挑战自我，不进则退。 」
+>
+> <p align="right">—— Redmountain · 《Dzxium-DZX组》</p>
+
+#### 📜 每日诗词 &nbsp;`#秋`
+
+**《题秋江独钓图》** · 〔清代〕王士祯
+
+✨ **名句摘录**：「 *一曲高歌一樽酒，一人独钓一江秋。* 」
+
+> 一蓑一笠一扁舟，一丈丝纶一寸钩。  
+> 一曲高歌一樽酒，一人独钓一江秋。  
+
+---
 
 ### 🗓️ 2026-11-20 · 星期五 · 丙午马年 十月十二
 
