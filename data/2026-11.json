@@ -649,5 +649,38 @@
         "秋"
       ]
     }
+  },
+  "2026-11-22": {
+    "date": "2026-11-22",
+    "quote": {
+      "english": "Light snow whispers that the year is folding up.",
+      "chinese": "小雪轻声说，一年正在合上书页。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/e8d4dd8af1ca3e767907639e7328fa4f.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/24826ca756dfb2c8e2f3b8544798010b.png"
+    },
+    "bing": {
+      "title": "海浪间的庇护所",
+      "story": "西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂",
+      "author": "© Tramont_ana/Getty Images",
+      "copyright": "西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂 (© Tramont_ana/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "你现在的气质里，藏着你走过的路，读过的书和爱过的人。",
+      "from": "卡萨布兰卡",
+      "from_who": "迈克尔·柯蒂茲",
+      "category": "影视"
+    },
+    "poem": {
+      "title": "别元九后咏所怀",
+      "dynasty": "唐代",
+      "author": "白居易",
+      "content": "零落桐叶雨，萧条槿花风。\n悠悠早秋意，生此幽闲中。\n况与故人别，中怀正无悰。\n勿云不相送，心到青门东。\n相知岂在多，但问同不同。\n同心一人去，坐觉长安空。",
+      "summary": "悠悠早秋意，生此幽闲中。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }

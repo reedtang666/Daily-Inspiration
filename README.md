@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-363_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-361_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月十三-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--21-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-364_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-362_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月十四-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--22-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,24 +20,24 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-11-21 · 星期六 · 丙午马年 十月十三
+### 🗓️ 2026-11-22 · 星期日 · 丙午马年 十月十四 &nbsp;`🌿 小雪`
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_1920x1080.jpg" alt="陶瓦屋顶下的梦 (2026-11-21)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_1920x1080.jpg" alt="海浪间的庇护所 (2026-11-22)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 陶瓦屋顶下的梦**
+**📍 海浪间的庇护所**
 
-> 法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯
+> 西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂
 
-📷 *© Siripong Kaewla-iad/Getty Images*
+📷 *© Tramont_ana/Getty Images*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg)
 
 </td>
 </tr>
@@ -49,33 +49,37 @@
 <tr>
 <td width="65%" valign="middle">
 
-> **Gratitude turns what we have into enough.**
+> **Light snow whispers that the year is folding up.**
 >
-> 感恩让我们拥有的变成足够。
+> 小雪轻声说，一年正在合上书页。
 
-[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/3b85dec0de51481e94e84cb7dbd41757.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/9a59b5c92efcde47d47a09fde8427dbd.png)
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/e8d4dd8af1ca3e767907639e7328fa4f.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/24826ca756dfb2c8e2f3b8544798010b.png)
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="https://staticedu-wps-cache.iciba.com/image/9a59b5c92efcde47d47a09fde8427dbd.png" alt="每日一句 (2026-11-21)" width="240" />
+<img src="https://staticedu-wps-cache.iciba.com/image/24826ca756dfb2c8e2f3b8544798010b.png" alt="每日一句 (2026-11-22)" width="240" />
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `网络`
+#### 💬 每日一言 `影视`
 
-> 「 挑战自我，不进则退。 」
+> 「 你现在的气质里，藏着你走过的路，读过的书和爱过的人。 」
 >
-> <p align="right">—— Redmountain · 《Dzxium-DZX组》</p>
+> <p align="right">—— 迈克尔·柯蒂茲 · 《卡萨布兰卡》</p>
 
 #### 📜 每日诗词 &nbsp;`#秋`
 
-**《题秋江独钓图》** · 〔清代〕王士祯
+**《别元九后咏所怀》** · 〔唐代〕白居易
 
-✨ **名句摘录**：「 *一曲高歌一樽酒，一人独钓一江秋。* 」
+✨ **名句摘录**：「 *悠悠早秋意，生此幽闲中。* 」
 
-> 一蓑一笠一扁舟，一丈丝纶一寸钩。  
-> 一曲高歌一樽酒，一人独钓一江秋。
+> 零落桐叶雨，萧条槿花风。  
+> 悠悠早秋意，生此幽闲中。  
+> 况与故人别，中怀正无悰。  
+> 勿云不相送，心到青门东。  
+> 相知岂在多，但问同不同。  
+> 同心一人去，坐觉长安空。
 
 ---
 
@@ -85,7 +89,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 21 天 | 13 篇 | 21 条 | 21 首 | 21 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 22 天 | 14 篇 | 22 条 | 22 首 | 22 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
