@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-364_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-362_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月十四-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--22-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-365_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-363_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月十五-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--23-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,24 +20,24 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-11-22 · 星期日 · 丙午马年 十月十四 &nbsp;`🌿 小雪`
+### 🗓️ 2026-11-23 · 星期一 · 丙午马年 十月十五
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_1920x1080.jpg" alt="海浪间的庇护所 (2026-11-22)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_1920x1080.jpg" alt="自然中的几何之美 (2026-11-23)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 海浪间的庇护所**
+**📍 自然中的几何之美**
 
-> 西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂
+> 蕨类植物的卷曲嫩叶
 
-📷 *© Tramont_ana/Getty Images*
+📷 *© Reza Saputra/Getty Images*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg)
 
 </td>
 </tr>
@@ -49,37 +49,33 @@
 <tr>
 <td width="65%" valign="middle">
 
-> **Light snow whispers that the year is folding up.**
+> **A pot of soup warms more than the body.**
 >
-> 小雪轻声说，一年正在合上书页。
+> 一锅热汤，暖的不只是身体。
 
-[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/e8d4dd8af1ca3e767907639e7328fa4f.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/24826ca756dfb2c8e2f3b8544798010b.png)
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/a8e75a692d19c7f5a3002f714f65d70d.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/8756df7d29d39e15a642a16d1963ccbc.png)
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="https://staticedu-wps-cache.iciba.com/image/24826ca756dfb2c8e2f3b8544798010b.png" alt="每日一句 (2026-11-22)" width="240" />
+<img src="https://staticedu-wps-cache.iciba.com/image/8756df7d29d39e15a642a16d1963ccbc.png" alt="每日一句 (2026-11-23)" width="240" />
 </td>
 </tr>
 </table>
 
 #### 💬 每日一言 `影视`
 
-> 「 你现在的气质里，藏着你走过的路，读过的书和爱过的人。 」
+> 「 当你足够期待失望时，你就永远不会失望。 」
 >
-> <p align="right">—— 迈克尔·柯蒂茲 · 《卡萨布兰卡》</p>
+> <p align="right">—— MJ · 《蜘蛛侠：英雄无归》</p>
 
 #### 📜 每日诗词 &nbsp;`#秋`
 
-**《别元九后咏所怀》** · 〔唐代〕白居易
+**《贺新郎》** · 〔宋代〕佚名
 
-✨ **名句摘录**：「 *悠悠早秋意，生此幽闲中。* 」
+✨ **名句摘录**：「 *万籁渐生秋意思，时节那堪屈指。* 」
 
-> 零落桐叶雨，萧条槿花风。  
-> 悠悠早秋意，生此幽闲中。  
-> 况与故人别，中怀正无悰。  
-> 勿云不相送，心到青门东。  
-> 相知岂在多，但问同不同。  
-> 同心一人去，坐觉长安空。
+> 月绽浮云里。未须臾、长风扫荡、碧空如水。谁在冰壶玉界上，眇视征蛮战蚁。便弃掷、尘寰脱＿。＿葛清冷襟袖冷，露华浓、暗袭人肌理。和酷暑，争些气。  
+> 谯楼漏转三更二。夜沈沈、经星纬宿，换垣移市。万籁渐生秋意思，时节那堪屈指。奈投老、未酬归计。矫首高天天不应，忽林梢、睡鹊惊飞起。同一梦，我与尔。
 
 ---
 
@@ -89,7 +85,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 22 天 | 14 篇 | 22 条 | 22 首 | 22 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 23 天 | 15 篇 | 23 条 | 23 首 | 23 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |

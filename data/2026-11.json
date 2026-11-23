@@ -682,5 +682,38 @@
         "秋"
       ]
     }
+  },
+  "2026-11-23": {
+    "date": "2026-11-23",
+    "quote": {
+      "english": "A pot of soup warms more than the body.",
+      "chinese": "一锅热汤，暖的不只是身体。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/a8e75a692d19c7f5a3002f714f65d70d.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/8756df7d29d39e15a642a16d1963ccbc.png"
+    },
+    "bing": {
+      "title": "自然中的几何之美",
+      "story": "蕨类植物的卷曲嫩叶",
+      "author": "© Reza Saputra/Getty Images",
+      "copyright": "蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "当你足够期待失望时，你就永远不会失望。",
+      "from": "蜘蛛侠：英雄无归",
+      "from_who": "MJ",
+      "category": "影视"
+    },
+    "poem": {
+      "title": "贺新郎",
+      "dynasty": "宋代",
+      "author": "佚名",
+      "content": "月绽浮云里。未须臾、长风扫荡、碧空如水。谁在冰壶玉界上，眇视征蛮战蚁。便弃掷、尘寰脱＿。＿葛清冷襟袖冷，露华浓、暗袭人肌理。和酷暑，争些气。\n谯楼漏转三更二。夜沈沈、经星纬宿，换垣移市。万籁渐生秋意思，时节那堪屈指。奈投老、未酬归计。矫首高天天不应，忽林梢、睡鹊惊飞起。同一梦，我与尔。",
+      "summary": "万籁渐生秋意思，时节那堪屈指。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }
