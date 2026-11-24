@@ -715,5 +715,38 @@
         "秋"
       ]
     }
+  },
+  "2026-11-24": {
+    "date": "2026-11-24",
+    "quote": {
+      "english": "Your voice deserves the same kindness you give.",
+      "chinese": "你的声音，也值得你给出的那份善意。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/e6737bf2af1938b13b1eb0966d08a5c1.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/43e89b40608f1efb79d75c046dffdd94.png"
+    },
+    "bing": {
+      "title": "秋日的保护色",
+      "story": "红松鼠，凯恩戈姆斯国家公园，苏格兰高地",
+      "author": "© Scotland: The Big Picture/Minden Pictures",
+      "copyright": "红松鼠，凯恩戈姆斯国家公园，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "吾尝终日不食，终夜不寝，以思无益，不如学也。",
+      "from": "论语",
+      "from_who": "孔子",
+      "category": "哲学"
+    },
+    "poem": {
+      "title": "赠李白",
+      "dynasty": "唐代",
+      "author": "杜甫",
+      "content": "秋来相顾尚飘蓬，未就丹砂愧葛洪。\n痛饮狂歌空度日，飞扬跋扈为谁雄。",
+      "summary": "秋来相顾尚飘蓬，未就丹砂愧葛洪。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }

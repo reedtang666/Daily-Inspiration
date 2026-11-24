@@ -1,14 +1,14 @@
 # ✨ 每日灵感合集（Daily Inspiration）
 
 > ⏰ 自动更新于 GitHub Actions（北京时间每天 09:00 执行）  
-> 📊 累计打卡 **365** 天 · 每日一句 **353** 篇 · 每日一言 **365** 条 · 每日诗词 **363** 首 · 必应壁纸 **48** 张  
+> 📊 累计打卡 **366** 天 · 每日一句 **354** 篇 · 每日一言 **366** 条 · 每日诗词 **364** 首 · 必应壁纸 **49** 张  
 > 💡 为保证最佳阅读体验，本页仅展示**当月最新内容（按日期倒序）**，历史月份请通过下方归档表查阅。
 
 ## 🗂️ 历史月度归档索引
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 23 天 | 15 篇 | 23 条 | 23 首 | 23 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 24 天 | 16 篇 | 24 条 | 24 首 | 24 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
@@ -24,7 +24,66 @@
 
 ---
 
-## 📅 2026-11 当月灵感记录（共 23 天）
+## 📅 2026-11 当月灵感记录（共 24 天）
+
+### 🗓️ 2026-11-24 · 星期二 · 丙午马年 十月十六
+
+#### 🌄 必应每日壁纸
+
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+<img src="https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_1920x1080.jpg" alt="秋日的保护色 (2026-11-24)" width="420" />
+</td>
+<td width="45%" valign="middle">
+
+**📍 秋日的保护色**
+
+> 红松鼠，凯恩戈姆斯国家公园，苏格兰高地
+
+📷 *© Scotland: The Big Picture/Minden Pictures*
+
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg)
+
+</td>
+</tr>
+</table>
+
+#### 📚 每日一句
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+> **Your voice deserves the same kindness you give.**
+>
+> 你的声音，也值得你给出的那份善意。
+
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/e6737bf2af1938b13b1eb0966d08a5c1.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/43e89b40608f1efb79d75c046dffdd94.png)
+
+</td>
+<td width="35%" align="center" valign="middle">
+<img src="https://staticedu-wps-cache.iciba.com/image/43e89b40608f1efb79d75c046dffdd94.png" alt="每日一句 (2026-11-24)" width="240" />
+</td>
+</tr>
+</table>
+
+#### 💬 每日一言 `哲学`
+
+> 「 吾尝终日不食，终夜不寝，以思无益，不如学也。 」
+>
+> <p align="right">—— 孔子 · 《论语》</p>
+
+#### 📜 每日诗词 &nbsp;`#秋`
+
+**《赠李白》** · 〔唐代〕杜甫
+
+✨ **名句摘录**：「 *秋来相顾尚飘蓬，未就丹砂愧葛洪。* 」
+
+> 秋来相顾尚飘蓬，未就丹砂愧葛洪。  
+> 痛饮狂歌空度日，飞扬跋扈为谁雄。  
+
+---
 
 ### 🗓️ 2026-11-23 · 星期一 · 丙午马年 十月十五
 
