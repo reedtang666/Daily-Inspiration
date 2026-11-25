@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-366_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-364_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月十六-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--24-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-367_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-365_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月十七-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--25-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,24 +20,24 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-11-24 · 星期二 · 丙午马年 十月十六
+### 🗓️ 2026-11-25 · 星期三 · 丙午马年 十月十七
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_1920x1080.jpg" alt="秋日的保护色 (2026-11-24)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_1920x1080.jpg" alt="美国西南部的一场雪 (2026-11-25)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 秋日的保护色**
+**📍 美国西南部的一场雪**
 
-> 红松鼠，凯恩戈姆斯国家公园，苏格兰高地
+> 日落观景点，布莱斯峡谷国家公园，犹他州
 
-📷 *© Scotland: The Big Picture/Minden Pictures*
+📷 *© Colin D. Young/Alamy*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg)
 
 </td>
 </tr>
@@ -49,33 +49,33 @@
 <tr>
 <td width="65%" valign="middle">
 
-> **Your voice deserves the same kindness you give.**
+> **It does not do to dwell on dreams and forget to live.**
 >
-> 你的声音，也值得你给出的那份善意。
+> 沉溺于梦想而忘记生活，是不行的。
 
-[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/e6737bf2af1938b13b1eb0966d08a5c1.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/43e89b40608f1efb79d75c046dffdd94.png)
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/dcbcf4d61582bfbe8b9617350c71a688.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/c7752dc5fa525d77f261630d158b98ee.png)
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="https://staticedu-wps-cache.iciba.com/image/43e89b40608f1efb79d75c046dffdd94.png" alt="每日一句 (2026-11-24)" width="240" />
+<img src="https://staticedu-wps-cache.iciba.com/image/c7752dc5fa525d77f261630d158b98ee.png" alt="每日一句 (2026-11-25)" width="240" />
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `哲学`
+#### 💬 每日一言 `网易云`
 
-> 「 吾尝终日不食，终夜不寝，以思无益，不如学也。 」
+> 「 耳机是唯一不用扎针的输液管，发呆是唯一不用付费的宇宙遨游。 」
 >
-> <p align="right">—— 孔子 · 《论语》</p>
+> <p align="right">—— 立夏就好 · 《网易云音乐》</p>
 
 #### 📜 每日诗词 &nbsp;`#秋`
 
-**《赠李白》** · 〔唐代〕杜甫
+**《山中》** · 〔唐代〕王维
 
-✨ **名句摘录**：「 *秋来相顾尚飘蓬，未就丹砂愧葛洪。* 」
+✨ **名句摘录**：「 *荆溪白石出，天寒红叶稀。* 」
 
-> 秋来相顾尚飘蓬，未就丹砂愧葛洪。  
-> 痛饮狂歌空度日，飞扬跋扈为谁雄。
+> 荆溪白石出，天寒红叶稀。  
+> 山路元无雨，空翠湿人衣。
 
 ---
 
@@ -85,7 +85,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 24 天 | 16 篇 | 24 条 | 24 首 | 24 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 25 天 | 17 篇 | 25 条 | 25 首 | 25 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |

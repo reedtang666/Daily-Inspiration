@@ -748,5 +748,38 @@
         "秋"
       ]
     }
+  },
+  "2026-11-25": {
+    "date": "2026-11-25",
+    "quote": {
+      "english": "It does not do to dwell on dreams and forget to live.",
+      "chinese": "沉溺于梦想而忘记生活，是不行的。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/dcbcf4d61582bfbe8b9617350c71a688.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/c7752dc5fa525d77f261630d158b98ee.png"
+    },
+    "bing": {
+      "title": "美国西南部的一场雪",
+      "story": "日落观景点，布莱斯峡谷国家公园，犹他州",
+      "author": "© Colin D. Young/Alamy",
+      "copyright": "日落观景点，布莱斯峡谷国家公园，犹他州 (© Colin D. Young/Alamy)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "耳机是唯一不用扎针的输液管，发呆是唯一不用付费的宇宙遨游。",
+      "from": "网易云音乐",
+      "from_who": "立夏就好",
+      "category": "网易云"
+    },
+    "poem": {
+      "title": "山中",
+      "dynasty": "唐代",
+      "author": "王维",
+      "content": "荆溪白石出，天寒红叶稀。\n山路元无雨，空翠湿人衣。",
+      "summary": "荆溪白石出，天寒红叶稀。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }
