@@ -781,5 +781,38 @@
         "秋"
       ]
     }
+  },
+  "2026-11-26": {
+    "date": "2026-11-26",
+    "quote": {
+      "english": "Grateful hearts never run out of season.",
+      "chinese": "感恩的心，从不过季。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/62d608a8ba86995f18ab4e98fcd3dd33.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/c35e455649ff1f1b0427819e7b14fb3f.png"
+    },
+    "bing": {
+      "title": "彩虹落下的地方",
+      "story": "怀卢库河上的彩虹瀑布，希洛市，夏威夷州，美国",
+      "author": "© Peter Unger/Getty Images",
+      "copyright": "怀卢库河上的彩虹瀑布，希洛市，夏威夷州，美国 (© Peter Unger/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "钱塘风雨起苍黄，贺鸡儿楠过大江。",
+      "from": "贺指导",
+      "from_who": "",
+      "category": "网络"
+    },
+    "poem": {
+      "title": "代别离·秋窗风雨夕",
+      "dynasty": "清代",
+      "author": "曹雪芹",
+      "content": "秋花惨淡秋草黄，耿耿秋灯秋夜长。\n已觉秋窗秋不尽，那堪风雨助凄凉！\n助秋风雨来何速，惊破秋窗秋梦绿。\n抱得秋情不忍眠，自向秋屏移泪烛。\n泪烛摇摇爇短檠，牵愁照恨动离情。\n谁家秋院无风入，何处秋窗无雨声？\n罗衾不奈秋风力，残漏声催秋雨急。\n连宵霢霢复飕飕，灯前似伴离人泣。\n寒烟小院转萧条，疏竹虚窗时滴沥。\n不知风雨几时休，已教泪洒窗纱湿。",
+      "summary": "谁家秋院无风入，何处秋窗无雨声？",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }
