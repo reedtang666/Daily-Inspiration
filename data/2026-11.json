@@ -814,5 +814,38 @@
         "秋"
       ]
     }
+  },
+  "2026-11-27": {
+    "date": "2026-11-27",
+    "quote": {
+      "english": "The winter sun pours gold on every bare branch.",
+      "chinese": "冬日的阳光，给每根秃枝都镀上金色。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/bc4e1477146227f5a0455acdfaa9abe0.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/b51ee06df209d42849add22fe2e354fe.png"
+    },
+    "bing": {
+      "title": "灰金交织的峡谷",
+      "story": "夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国",
+      "author": "© Jeff Foott/Minden",
+      "copyright": "夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国 (© Jeff Foott/Minden)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "沙漏我反转了，时间什么时候倒流。",
+      "from": "网络",
+      "from_who": "",
+      "category": "机灵"
+    },
+    "poem": {
+      "title": "书愤五首·其一",
+      "dynasty": "宋代",
+      "author": "陆游",
+      "content": "早岁那知世事艰，中原北望气如山。\n楼船夜雪瓜洲渡，铁马秋风大散关。\n塞上长城空自许，镜中衰鬓已先斑。\n出师一表真名世，千载谁堪伯仲间！",
+      "summary": "楼船夜雪瓜洲渡，铁马秋风大散关。",
+      "tags": [
+        "秋"
+      ]
+    }
   }
 }

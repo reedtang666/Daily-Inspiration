@@ -10,7 +10,7 @@
 <!-- TODAY_BOARD_START -->
 <div align="center">
 
-![累计打卡](https://img.shields.io/badge/累计打卡-368_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-366_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月十八-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--26-f97316?style=for-the-badge&logo=clockify)
+![累计打卡](https://img.shields.io/badge/累计打卡-369_天-2ea44f?style=for-the-badge&logo=github) ![收录诗词](https://img.shields.io/badge/收录诗词-367_首-0969da?style=for-the-badge&logo=bookstack) ![农历岁次](https://img.shields.io/badge/岁次-丙午马年_十月十九-8b5cf6?style=for-the-badge) ![最近更新](https://img.shields.io/badge/最近更新-2026--11--27-f97316?style=for-the-badge&logo=clockify)
 
 **[🌟 今日看板](#-今日灵感看板)** &nbsp;·&nbsp; **[📅 当月精选合集](quotes.md)** &nbsp;·&nbsp; **[🗂️ 历史月度归档](#️-历史月度归档)** &nbsp;·&nbsp; **[✨ 核心功能](#-核心功能)** &nbsp;·&nbsp; **[🚀 快速部署](#-快速开始5-分钟部署)**
 
@@ -20,24 +20,24 @@
 
 ## 🌟 今日灵感看板
 
-### 🗓️ 2026-11-26 · 星期四 · 丙午马年 十月十八
+### 🗓️ 2026-11-27 · 星期五 · 丙午马年 十月十九
 
 #### 🌄 必应每日壁纸
 
 <table>
 <tr>
 <td width="55%" align="center" valign="middle">
-<img src="https://cn.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_1920x1080.jpg" alt="彩虹落下的地方 (2026-11-26)" width="420" />
+<img src="https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_1920x1080.jpg" alt="灰金交织的峡谷 (2026-11-27)" width="420" />
 </td>
 <td width="45%" valign="middle">
 
-**📍 彩虹落下的地方**
+**📍 灰金交织的峡谷**
 
-> 怀卢库河上的彩虹瀑布，希洛市，夏威夷州，美国
+> 夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国
 
-📷 *© Peter Unger/Getty Images*
+📷 *© Jeff Foott/Minden*
 
-[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_UHD.jpg)
+[🖼️ 1080P 高清壁纸](https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_1920x1080.jpg) &nbsp;｜&nbsp; [💎 4K 原图 (UHD)](https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg)
 
 </td>
 </tr>
@@ -49,41 +49,35 @@
 <tr>
 <td width="65%" valign="middle">
 
-> **Grateful hearts never run out of season.**
+> **The winter sun pours gold on every bare branch.**
 >
-> 感恩的心，从不过季。
+> 冬日的阳光，给每根秃枝都镀上金色。
 
-[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/62d608a8ba86995f18ab4e98fcd3dd33.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/c35e455649ff1f1b0427819e7b14fb3f.png)
+[🎧 点击收听原声](https://staticedu-wps-cache.iciba.com/audio/bc4e1477146227f5a0455acdfaa9abe0.mp3) &nbsp;｜&nbsp; [🖼️ 查看高清日签](https://staticedu-wps-cache.iciba.com/image/b51ee06df209d42849add22fe2e354fe.png)
 
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="https://staticedu-wps-cache.iciba.com/image/c35e455649ff1f1b0427819e7b14fb3f.png" alt="每日一句 (2026-11-26)" width="240" />
+<img src="https://staticedu-wps-cache.iciba.com/image/b51ee06df209d42849add22fe2e354fe.png" alt="每日一句 (2026-11-27)" width="240" />
 </td>
 </tr>
 </table>
 
-#### 💬 每日一言 `网络`
+#### 💬 每日一言 `机灵`
 
-> 「 钱塘风雨起苍黄，贺鸡儿楠过大江。 」
+> 「 沙漏我反转了，时间什么时候倒流。 」
 >
-> <p align="right">—— 《贺指导》</p>
+> <p align="right">—— 《网络》</p>
 
 #### 📜 每日诗词 &nbsp;`#秋`
 
-**《代别离·秋窗风雨夕》** · 〔清代〕曹雪芹
+**《书愤五首·其一》** · 〔宋代〕陆游
 
-✨ **名句摘录**：「 *谁家秋院无风入，何处秋窗无雨声？* 」
+✨ **名句摘录**：「 *楼船夜雪瓜洲渡，铁马秋风大散关。* 」
 
-> 秋花惨淡秋草黄，耿耿秋灯秋夜长。  
-> 已觉秋窗秋不尽，那堪风雨助凄凉！  
-> 助秋风雨来何速，惊破秋窗秋梦绿。  
-> 抱得秋情不忍眠，自向秋屏移泪烛。  
-> 泪烛摇摇爇短檠，牵愁照恨动离情。  
-> 谁家秋院无风入，何处秋窗无雨声？  
-> 罗衾不奈秋风力，残漏声催秋雨急。  
-> 连宵霢霢复飕飕，灯前似伴离人泣。  
-> 寒烟小院转萧条，疏竹虚窗时滴沥。  
-> 不知风雨几时休，已教泪洒窗纱湿。
+> 早岁那知世事艰，中原北望气如山。  
+> 楼船夜雪瓜洲渡，铁马秋风大散关。  
+> 塞上长城空自许，镜中衰鬓已先斑。  
+> 出师一表真名世，千载谁堪伯仲间！
 
 ---
 
@@ -93,7 +87,7 @@
 
 | 月份 | 收录天数 | 每日一句 | 每日一言 | 每日诗词 | 必应壁纸 | 归档直达 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-11** | 26 天 | 18 篇 | 26 条 | 26 首 | 26 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
+| **2026-11** | 27 天 | 19 篇 | 27 条 | 27 首 | 27 张 | [📂 查看 2026-11 归档](archives/2026-11.md) |
 | **2026-10** | 31 天 | 27 篇 | 31 条 | 31 首 | 25 张 | [📂 查看 2026-10 归档](archives/2026-10.md) |
 | **2026-09** | 30 天 | 30 篇 | 30 条 | 30 首 | 0 张 | [📂 查看 2026-09 归档](archives/2026-09.md) |
 | **2026-08** | 31 天 | 31 篇 | 31 条 | 31 首 | 0 张 | [📂 查看 2026-08 归档](archives/2026-08.md) |
