@@ -847,5 +847,38 @@
         "秋"
       ]
     }
+  },
+  "2026-11-28": {
+    "date": "2026-11-28",
+    "quote": {
+      "english": "There is beauty in letting go.",
+      "chinese": "在放下之中亦有美感。",
+      "tts_url": "https://staticedu-wps-cache.iciba.com/audio/301339290556a4d2082ce0a8c021f579.mp3",
+      "img_url": "https://staticedu-wps-cache.iciba.com/image/8f826fe4889239c224417136d408aecd.png"
+    },
+    "bing": {
+      "title": "跨越时光的桥梁",
+      "story": "捷克布拉格老城区与伏尔塔瓦河",
+      "author": "© Lara_Uhryn/Getty Images",
+      "copyright": "捷克布拉格老城区与伏尔塔瓦河 (© Lara_Uhryn/Getty Images)",
+      "url_1080p": "https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_1920x1080.jpg",
+      "url_4k": "https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg"
+    },
+    "hitokoto": {
+      "content": "何以窥不破，何以辜负卿。",
+      "from": "二哈和他的白猫师尊",
+      "from_who": "肉包不吃肉",
+      "category": "文学"
+    },
+    "poem": {
+      "title": "水龙吟·甲辰岁寿韩南涧尚书",
+      "dynasty": "宋代",
+      "author": "辛弃疾",
+      "content": "渡江天马南来，几人真是经纶手。长安父老，新亭风景，可怜依旧。夷甫诸人，神州沉陆，几曾回首。算平戎万里，功名本是，真儒事、君知否。\n况有文章山斗。对桐阴、满庭清昼。当年堕地，而今试看，风云奔走。绿野风烟，平泉草木，东山歌酒。待他年，整顿乾坤事了，为先生寿。",
+      "summary": "对桐阴、满庭清昼。",
+      "tags": [
+        "白天"
+      ]
+    }
   }
 }
